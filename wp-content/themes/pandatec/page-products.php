@@ -1,0 +1,3 @@
+<?php get_header(); ?><style>
+header #navigation .product-menu.active>summary{color:#965f00;background:#f5f7fb;border-bottom:3px solid #d8a637;padding:10px 12px;margin:-10px -12px}header #navigation .product-menu.active>summary:after{color:#965f00}
+</style><script>document.addEventListener('DOMContentLoaded',function(){var m=document.querySelector('header #navigation .product-menu');if(m){m.classList.add('active');m.querySelector('summary').setAttribute('aria-current','page');}});</script><?php pt_breadcrumb(); ?><section class="page-intro"><div class="wrap"><span class="eyebrow">PANDATEC · SINGAPORE</span><h1><?php the_title(); ?></h1></div></section><section><div class="wrap"><?php pt_category_grid(); ?></div></section><?php pt_faq();pt_cta();get_footer();

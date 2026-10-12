@@ -1,0 +1,260 @@
+{
+  "categories": [
+    {
+      "name": "Furniture & Workplace",
+      "slug": "furniture-workplace",
+      "image": "furniture.webp",
+      "description": "Office, hospitality, education and institutional furniture, including custom carpentry.",
+      "title": "Office Furniture Supplier Singapore | PANDATEC",
+      "meta": "Office, system, hotel, school & outdoor furniture supplier in Singapore. Workstations, ergonomic chairs, acoustic pods & custom carpentry. Request a quote.",
+      "h1": "Office & Commercial Furniture Supplier in Singapore",
+      "intro": "PANDATEC supplies office, system, hospitality, school and outdoor furniture to businesses and institutions in Singapore, including custom and built-in carpentry.",
+      "children": [
+        "system-furniture",
+        "office-chairs",
+        "acoustic-pods",
+        "reception-lounge",
+        "luxury-collection",
+        "dining-furniture",
+        "school-furniture",
+        "outdoor-furniture",
+        "hotel-accommodation",
+        "custom-carpentry"
+      ]
+    },
+    {
+      "name": "Industrial Products & MRO",
+      "slug": "industrial-products",
+      "image": "industrial.webp",
+      "description": "Maintenance, repair and operations supplies for factories, workshops and facilities.",
+      "title": "Industrial & MRO Supplier Singapore | PANDATEC",
+      "meta": "Industrial products and MRO supplies in Singapore: tools, hardware, fasteners, workshop equipment, tool carts and safety storage cabinets. Request a quote.",
+      "h1": "Industrial Products & MRO Supplies in Singapore",
+      "intro": "PANDATEC supplies industrial consumables, MRO products, tools and workshop equipment to factories, workshops and facilities in Singapore.",
+      "children": [
+        "mro-consumables",
+        "tools-hardware",
+        "fasteners",
+        "workshop-equipment",
+        "safety-storage-cabinets",
+        "electrical-accessories",
+        "cleaning-maintenance",
+        "facility-appliances"
+      ]
+    },
+    {
+      "name": "Building & Infrastructure",
+      "slug": "building-infrastructure",
+      "image": "building.webp",
+      "description": "Construction and infrastructure materials for commercial and public projects.",
+      "title": "Building Materials Supplier Singapore | PANDATEC",
+      "meta": "Building and construction materials supplier in Singapore: pipes, cables, hardware, fencing, road safety products, flooring and panels. Request a quote.",
+      "h1": "Building & Construction Materials Supplier in Singapore",
+      "intro": "PANDATEC sources building, construction and infrastructure materials from manufacturers across Asia for contractors and developers in Singapore.",
+      "children": [
+        "pipes",
+        "cables-electrical",
+        "construction-hardware",
+        "architectural-hardware",
+        "fencing-barriers",
+        "road-traffic-products",
+        "paints-coatings",
+        "boards-panels",
+        "flooring",
+        "signage",
+        "metal-products"
+      ]
+    },
+    {
+      "name": "Medical & Healthcare",
+      "slug": "medical-healthcare",
+      "image": "medical.webp",
+      "description": "Medical furniture, equipment and laboratory furniture for hospitals, clinics and labs.",
+      "title": "Medical Equipment Supplier Singapore | PANDATEC",
+      "meta": "Medical furniture and equipment supplier in Singapore: hospital beds, medical trolleys, stretchers, examination tables, lab benches and fume hoods. Request a quote.",
+      "h1": "Medical Furniture & Healthcare Equipment Supplier in Singapore",
+      "intro": "PANDATEC supplies medical furniture, hospital equipment and laboratory furniture to hospitals, clinics and laboratories in Singapore.",
+      "children": [
+        "hospital-beds",
+        "medical-trolleys-carts",
+        "stretchers",
+        "examination-treatment-tables",
+        "wheelchairs-stools",
+        "waiting-chairs",
+        "medical-cabinets",
+        "stainless-steel-furniture",
+        "laboratory-furniture",
+        "medical-consumables"
+      ]
+    },
+    {
+      "name": "Cleanroom & Controlled Environment",
+      "slug": "cleanroom",
+      "image": "cleanroom.webp",
+      "description": "Cleanroom and ESD products for pharmaceutical, semiconductor and electronics operations.",
+      "title": "Cleanroom Supplies Singapore | PANDATEC",
+      "meta": "Cleanroom consumables supplier in Singapore: garments, gloves, wipes, shoe covers, ESD products and cleanroom furniture for pharma & electronics. Request a quote.",
+      "h1": "Cleanroom Supplies & Consumables in Singapore",
+      "intro": "PANDATEC supplies cleanroom consumables, garments and ESD products to pharmaceutical, semiconductor and electronics facilities in Singapore.",
+      "children": [
+        "cleanroom-garments",
+        "cleanroom-gloves",
+        "masks-shoe-covers",
+        "cleanroom-wipes",
+        "cleanroom-bags-packaging",
+        "esd-products",
+        "cleanroom-furniture-storage"
+      ]
+    },
+    {
+      "name": "PPE & Safety",
+      "slug": "ppe-safety",
+      "image": "ppe.webp",
+      "description": "Personal protective equipment and workplace safety products.",
+      "title": "PPE Supplier Singapore | Safety Equipment | PANDATEC",
+      "meta": "PPE and safety equipment supplier in Singapore: N95 respirators, gloves, coveralls, safety shoes, helmets, goggles and fall protection. Request a quote.",
+      "h1": "PPE & Safety Equipment Supplier in Singapore",
+      "intro": "PANDATEC supplies personal protective equipment and workplace safety products to construction, industrial and healthcare organisations in Singapore.",
+      "children": [
+        "respiratory-protection",
+        "gloves",
+        "protective-clothing-coveralls",
+        "safety-shoes",
+        "eye-face-protection",
+        "head-protection",
+        "hearing-protection",
+        "fall-protection"
+      ]
+    },
+    {
+      "name": "Warehouse & Logistics",
+      "slug": "warehouse-logistics",
+      "image": "warehouse.webp",
+      "description": "Storage, handling and logistics solutions for warehouses and operations.",
+      "title": "Warehouse Racking Supplier Singapore | PANDATEC",
+      "meta": "Warehouse racking and storage supplier in Singapore: heavy-duty racks, shelving, stainless steel shelving, compact shelving, turnover boxes and trolleys. Request a quote.",
+      "h1": "Warehouse Racking & Storage Solutions in Singapore",
+      "intro": "PANDATEC supplies warehouse racking, shelving and material-handling equipment to warehouses, factories and logistics centres in Singapore.",
+      "children": [
+        "storage-racks",
+        "shelving",
+        "stainless-steel-shelving",
+        "compact-shelving",
+        "turnover-boxes-bins",
+        "wire-containers",
+        "carts-trolleys",
+        "pallets-packaging"
+      ]
+    },
+    {
+      "name": "Machinery & Automation",
+      "slug": "machinery-automation",
+      "image": "machinery.webp",
+      "description": "Machinery and automation equipment for manufacturing and operations.",
+      "title": "Industrial Machinery Supplier Singapore | PANDATEC",
+      "meta": "Industrial machinery supplier in Singapore: cutting, drilling, grinding and welding machines, air circulation equipment, automation and commercial kitchen equipment.",
+      "h1": "Industrial Machinery & Automation Equipment in Singapore",
+      "intro": "PANDATEC supplies light machinery, workshop machines and automation equipment sourced from manufacturers across Asia to businesses in Singapore.",
+      "children": [
+        "cutting-sawing-machines",
+        "drilling-machines",
+        "sanding-grinding-machines",
+        "welding-machines",
+        "industrial-air-circulation",
+        "automation-robotics",
+        "commercial-kitchen-equipment",
+        "custom-machinery"
+      ]
+    }
+  ],
+  "services": [
+    [
+      "global-sourcing",
+      "Global Sourcing",
+      "Identify suitable manufacturers and products across China and Asia."
+    ],
+    [
+      "procurement",
+      "Procurement",
+      "Coordinate quotations, purchasing and order requirements."
+    ],
+    [
+      "supplier-verification",
+      "Supplier Verification",
+      "Review supplier capability against the requirements of your project."
+    ],
+    [
+      "oem-odm",
+      "OEM / ODM",
+      "Coordinate custom dimensions, materials, branding and specifications."
+    ],
+    [
+      "product-development",
+      "Product Development",
+      "Discuss the development requirements for a proposed product. Scope is subject to review."
+    ],
+    [
+      "quality-control",
+      "Quality Control",
+      "Coordinate quality checkpoints during production and before shipment."
+    ],
+    [
+      "consolidation",
+      "Consolidation",
+      "Bring goods from multiple suppliers together for shipment."
+    ],
+    [
+      "international-logistics",
+      "International Logistics",
+      "Coordinate freight, shipping documents and delivery planning."
+    ],
+    [
+      "singapore-delivery",
+      "Singapore Delivery",
+      "Coordinate local delivery and selected installation support."
+    ],
+    [
+      "project-procurement",
+      "Project Procurement",
+      "Coordinate multiple product categories for projects."
+    ]
+  ],
+  "industries": [
+    [
+      "pharmaceutical",
+      "Pharmaceutical & Life Sciences"
+    ],
+    [
+      "healthcare",
+      "Healthcare"
+    ],
+    [
+      "construction",
+      "Construction & Infrastructure"
+    ],
+    [
+      "manufacturing",
+      "Manufacturing"
+    ],
+    [
+      "corporate",
+      "Corporate & Commercial"
+    ],
+    [
+      "hospitality",
+      "Hospitality"
+    ],
+    [
+      "logistics",
+      "Logistics & Warehousing"
+    ],
+    [
+      "education",
+      "Education"
+    ],
+    [
+      "government",
+      "Government & Public Sector"
+    ]
+  ]
+}
