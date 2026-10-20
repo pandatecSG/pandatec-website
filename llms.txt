@@ -1,0 +1,144 @@
+# PANDA COLLECTIONS (PANDATEC PTE. LTD.)
+
+> Singapore-based B2B supply chain and procurement partner. PANDA COLLECTIONS is the brand of PANDATEC PTE. LTD. (UEN 201541665H), supplying 1670 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories and corporate gifting in Singapore. Prices are quoted on request.
+
+- Address: 35 Tannery Road #05-06, Ruby Industrial Complex, Singapore 347740
+- Phone / WhatsApp: +65 8472 6456
+- Email: info@pandatec.sg
+- Hours: Monday–Friday, 9:00 AM–6:00 PM
+- Request a quote: https://pandatecsg.github.io/pandatec-website/request-a-quote/
+
+Every product page lists the product code (PT-…), category path, material, dimensions, minimum order and FAQs, with schema.org Product markup.
+
+## Product categories
+
+- [Building & Construction Materials Supplier in Singapore](https://pandatecsg.github.io/pandatec-website/products/building-infrastructure/)
+  - [Architectural Hardware](https://pandatecsg.github.io/pandatec-website/products/building-infrastructure/architectural-hardware/)
+  - [Boards Panels](https://pandatecsg.github.io/pandatec-website/products/building-infrastructure/boards-panels/)
+  - [Cables Electrical](https://pandatecsg.github.io/pandatec-website/products/building-infrastructure/cables-electrical/)
+  - [Construction Hardware](https://pandatecsg.github.io/pandatec-website/products/building-infrastructure/construction-hardware/)
+  - [Fencing Barriers](https://pandatecsg.github.io/pandatec-website/products/building-infrastructure/fencing-barriers/)
+  - [Flooring](https://pandatecsg.github.io/pandatec-website/products/building-infrastructure/flooring/): 3 products
+  - [Metal Products](https://pandatecsg.github.io/pandatec-website/products/building-infrastructure/metal-products/)
+  - [Paints Coatings](https://pandatecsg.github.io/pandatec-website/products/building-infrastructure/paints-coatings/)
+  - [Pipes](https://pandatecsg.github.io/pandatec-website/products/building-infrastructure/pipes/)
+  - [Road Traffic Products](https://pandatecsg.github.io/pandatec-website/products/building-infrastructure/road-traffic-products/)
+  - [Signage](https://pandatecsg.github.io/pandatec-website/products/building-infrastructure/signage/): 1 product
+- [Cleanroom Supplies & Consumables in Singapore](https://pandatecsg.github.io/pandatec-website/products/cleanroom/)
+  - [Cleanroom Bags Packaging](https://pandatecsg.github.io/pandatec-website/products/cleanroom/cleanroom-bags-packaging/)
+  - [Cleanroom Furniture Storage](https://pandatecsg.github.io/pandatec-website/products/cleanroom/cleanroom-furniture-storage/)
+  - [Cleanroom Garments](https://pandatecsg.github.io/pandatec-website/products/cleanroom/cleanroom-garments/)
+  - [Cleanroom Gloves](https://pandatecsg.github.io/pandatec-website/products/cleanroom/cleanroom-gloves/)
+  - [Cleanroom Wipes](https://pandatecsg.github.io/pandatec-website/products/cleanroom/cleanroom-wipes/)
+  - [Esd Products](https://pandatecsg.github.io/pandatec-website/products/cleanroom/esd-products/): 33 products
+  - [Masks Shoe Covers](https://pandatecsg.github.io/pandatec-website/products/cleanroom/masks-shoe-covers/)
+- [Corporate Gifts Supplier in Singapore](https://pandatecsg.github.io/pandatec-website/products/corporate-gifts/)
+  - [Art & Paintings](https://pandatecsg.github.io/pandatec-website/products/corporate-gifts/art-paintings/): 56 products
+  - [Corporate Flowers & Flower Delivery in Singapore](https://pandatecsg.github.io/pandatec-website/products/corporate-gifts/florist/)
+    - [99 Roses Bouquet Singapore](https://pandatecsg.github.io/pandatec-website/products/corporate-gifts/florist/99-roses/): 4 products
+    - [Flower Boxes Singapore](https://pandatecsg.github.io/pandatec-website/products/corporate-gifts/florist/bloom-boxes/): 43 products
+    - [Bridal Bouquets Singapore](https://pandatecsg.github.io/pandatec-website/products/corporate-gifts/florist/bridal-bouquets/): 11 products
+    - [Condolence Wreath & Flower Stand Singapore](https://pandatecsg.github.io/pandatec-website/products/corporate-gifts/florist/condolence-flower-stands/): 57 products
+    - [Flower Bags Singapore](https://pandatecsg.github.io/pandatec-website/products/corporate-gifts/florist/flower-bags/): 18 products
+    - [Flower Baskets Singapore](https://pandatecsg.github.io/pandatec-website/products/corporate-gifts/florist/flower-baskets/): 12 products
+    - [Fruit Hampers Singapore](https://pandatecsg.github.io/pandatec-website/products/corporate-gifts/florist/fruit-hampers/): 11 products
+    - [Grand Opening Flower Stand Singapore](https://pandatecsg.github.io/pandatec-website/products/corporate-gifts/florist/grand-opening-flower-stands/): 42 products
+    - [Hand Bouquets Singapore](https://pandatecsg.github.io/pandatec-website/products/corporate-gifts/florist/hand-bouquets/): 156 products
+    - [Preserved Flowers Singapore](https://pandatecsg.github.io/pandatec-website/products/corporate-gifts/florist/preserved-flowers/): 2 products
+- [Office & Commercial Furniture Supplier in Singapore](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/)
+  - [Acoustic Pods](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/acoustic-pods/): 2 products
+  - [Custom Carpentry](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/custom-carpentry/)
+  - [Dining Furniture](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/dining-furniture/): 141 products
+    - [Banquette & Booth Seat](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/dining-furniture/banquette-booth-seat/): 20 products
+    - [Bar Stool](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/dining-furniture/bar-stool/): 5 products
+    - [Dining Chair](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/dining-furniture/dining-chair/): 5 products
+    - [Dining Table](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/dining-furniture/dining-table/): 16 products
+    - [Plastic Chair](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/dining-furniture/plastic-chair/): 95 products
+  - [Hotel Accommodation](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/hotel-accommodation/): 70 products
+  - [Luxury Collection](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/luxury-collection/): 99 products
+  - [Office Accessories](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/office-accessories/): 28 products
+  - [Office Chairs](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/office-chairs/): 162 products
+    - [BIFMA Certified](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/office-chairs/bifma-certified/): 55 products
+    - [Ergonomic Chair](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/office-chairs/ergonomic-chair/): 45 products
+    - [Mesh Chair](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/office-chairs/mesh-chair/): 11 products
+    - [PU/Leather Chair](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/office-chairs/pu-leather-chair/): 29 products
+    - [Training Chair](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/office-chairs/training-chair/): 42 products
+  - [Outdoor Furniture](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/outdoor-furniture/): 151 products
+    - [ABS Furniture](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/outdoor-furniture/abs-furniture/): 2 products
+    - [Bench](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/outdoor-furniture/bench/): 27 products
+    - [Chair / Stool](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/outdoor-furniture/chair-stool/): 17 products
+    - [Sofa](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/outdoor-furniture/sofa/): 45 products
+    - [Table](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/outdoor-furniture/table/): 28 products
+    - [Umbrella](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/outdoor-furniture/umbrella/): 32 products
+  - [Reception & Breakout](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/reception-lounge/): 97 products
+    - [Coffee Table](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/reception-lounge/coffee-table/): 51 products
+    - [Compressed Sofa](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/reception-lounge/compressed-sofa/): 11 products
+    - [High Back Sofa](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/reception-lounge/high-back-sofa/): 3 products
+    - [Lounge Chair](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/reception-lounge/lounge-chair/): 14 products
+    - [Modular Sofa](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/reception-lounge/modular-sofa/): 3 products
+    - [Sofa](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/reception-lounge/sofa/): 15 products
+  - [School Furniture](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/school-furniture/): 66 products
+  - [System Furniture](https://pandatecsg.github.io/pandatec-website/products/furniture-workplace/system-furniture/): 112 products
+- [Industrial Products & MRO Supplies in Singapore](https://pandatecsg.github.io/pandatec-website/products/industrial-products/)
+  - [Cleaning Maintenance](https://pandatecsg.github.io/pandatec-website/products/industrial-products/cleaning-maintenance/)
+  - [Electrical Accessories](https://pandatecsg.github.io/pandatec-website/products/industrial-products/electrical-accessories/)
+  - [Electrical Appliance](https://pandatecsg.github.io/pandatec-website/products/industrial-products/facility-appliances/): 35 products
+    - [Air Purifier](https://pandatecsg.github.io/pandatec-website/products/industrial-products/facility-appliances/air-purifier/): 4 products
+    - [Fridge](https://pandatecsg.github.io/pandatec-website/products/industrial-products/facility-appliances/fridge/): 11 products
+    - [Microwave/Oven](https://pandatecsg.github.io/pandatec-website/products/industrial-products/facility-appliances/microwave-oven/): 4 products
+    - [Others](https://pandatecsg.github.io/pandatec-website/products/industrial-products/facility-appliances/others/): 7 products
+    - [Vacuum Cleaner](https://pandatecsg.github.io/pandatec-website/products/industrial-products/facility-appliances/vacuum-cleaner/): 6 products
+    - [Water Dispenser](https://pandatecsg.github.io/pandatec-website/products/industrial-products/facility-appliances/water-dispenser/): 3 products
+  - [Fasteners](https://pandatecsg.github.io/pandatec-website/products/industrial-products/fasteners/)
+  - [Mro Consumables](https://pandatecsg.github.io/pandatec-website/products/industrial-products/mro-consumables/)
+  - [Safety Storage Cabinets](https://pandatecsg.github.io/pandatec-website/products/industrial-products/safety-storage-cabinets/): 15 products
+  - [Tools Hardware](https://pandatecsg.github.io/pandatec-website/products/industrial-products/tools-hardware/)
+  - [Workshop Equipment](https://pandatecsg.github.io/pandatec-website/products/industrial-products/workshop-equipment/): 10 products
+- [Industrial Machinery & Automation Equipment in Singapore](https://pandatecsg.github.io/pandatec-website/products/machinery-automation/)
+  - [Automation Robotics](https://pandatecsg.github.io/pandatec-website/products/machinery-automation/automation-robotics/)
+  - [Commercial Kitchen Equipment](https://pandatecsg.github.io/pandatec-website/products/machinery-automation/commercial-kitchen-equipment/): 39 products
+  - [Custom Machinery](https://pandatecsg.github.io/pandatec-website/products/machinery-automation/custom-machinery/)
+  - [Cutting Sawing Machines](https://pandatecsg.github.io/pandatec-website/products/machinery-automation/cutting-sawing-machines/): 4 products
+  - [Drilling Machines](https://pandatecsg.github.io/pandatec-website/products/machinery-automation/drilling-machines/): 5 products
+  - [Industrial Air Circulation](https://pandatecsg.github.io/pandatec-website/products/machinery-automation/industrial-air-circulation/): 4 products
+  - [Sanding Grinding Machines](https://pandatecsg.github.io/pandatec-website/products/machinery-automation/sanding-grinding-machines/)
+  - [Welding Machines](https://pandatecsg.github.io/pandatec-website/products/machinery-automation/welding-machines/): 4 products
+- [Medical Furniture & Healthcare Equipment Supplier in Singapore](https://pandatecsg.github.io/pandatec-website/products/medical-healthcare/)
+  - [Examination Treatment Tables](https://pandatecsg.github.io/pandatec-website/products/medical-healthcare/examination-treatment-tables/): 17 products
+  - [Hospital Beds](https://pandatecsg.github.io/pandatec-website/products/medical-healthcare/hospital-beds/): 29 products
+  - [Laboratory Furniture](https://pandatecsg.github.io/pandatec-website/products/medical-healthcare/laboratory-furniture/): 7 products
+  - [Medical Cabinets](https://pandatecsg.github.io/pandatec-website/products/medical-healthcare/medical-cabinets/): 12 products
+  - [Medical Consumables](https://pandatecsg.github.io/pandatec-website/products/medical-healthcare/medical-consumables/): 2 products
+  - [Medical Trolleys Carts](https://pandatecsg.github.io/pandatec-website/products/medical-healthcare/medical-trolleys-carts/): 29 products
+  - [Stainless Steel Furniture](https://pandatecsg.github.io/pandatec-website/products/medical-healthcare/stainless-steel-furniture/): 9 products
+  - [Stretchers](https://pandatecsg.github.io/pandatec-website/products/medical-healthcare/stretchers/): 17 products
+  - [Waiting Chairs](https://pandatecsg.github.io/pandatec-website/products/medical-healthcare/waiting-chairs/): 13 products
+  - [Wheelchairs Stools](https://pandatecsg.github.io/pandatec-website/products/medical-healthcare/wheelchairs-stools/): 8 products
+- [PPE & Safety Equipment Supplier in Singapore](https://pandatecsg.github.io/pandatec-website/products/ppe-safety/)
+  - [Eye Face Protection](https://pandatecsg.github.io/pandatec-website/products/ppe-safety/eye-face-protection/)
+  - [Fall Protection](https://pandatecsg.github.io/pandatec-website/products/ppe-safety/fall-protection/)
+  - [Gloves](https://pandatecsg.github.io/pandatec-website/products/ppe-safety/gloves/)
+  - [Head Protection](https://pandatecsg.github.io/pandatec-website/products/ppe-safety/head-protection/)
+  - [Hearing Protection](https://pandatecsg.github.io/pandatec-website/products/ppe-safety/hearing-protection/)
+  - [Protective Clothing Coveralls](https://pandatecsg.github.io/pandatec-website/products/ppe-safety/protective-clothing-coveralls/)
+  - [Respiratory Protection](https://pandatecsg.github.io/pandatec-website/products/ppe-safety/respiratory-protection/)
+  - [Safety Shoes](https://pandatecsg.github.io/pandatec-website/products/ppe-safety/safety-shoes/)
+- [Warehouse Racking & Storage Solutions in Singapore](https://pandatecsg.github.io/pandatec-website/products/warehouse-logistics/)
+  - [Carts Trolleys](https://pandatecsg.github.io/pandatec-website/products/warehouse-logistics/carts-trolleys/)
+  - [Compact Shelving](https://pandatecsg.github.io/pandatec-website/products/warehouse-logistics/compact-shelving/): 2 products
+  - [Pallets Packaging](https://pandatecsg.github.io/pandatec-website/products/warehouse-logistics/pallets-packaging/)
+  - [Shelving](https://pandatecsg.github.io/pandatec-website/products/warehouse-logistics/shelving/): 1 product
+  - [Stainless Steel Shelving](https://pandatecsg.github.io/pandatec-website/products/warehouse-logistics/stainless-steel-shelving/): 1 product
+  - [Storage Racks](https://pandatecsg.github.io/pandatec-website/products/warehouse-logistics/storage-racks/): 8 products
+  - [Turnover Boxes Bins](https://pandatecsg.github.io/pandatec-website/products/warehouse-logistics/turnover-boxes-bins/): 3 products
+  - [Wire Containers](https://pandatecsg.github.io/pandatec-website/products/warehouse-logistics/wire-containers/): 7 products
+
+## Key pages
+
+- [About us](https://pandatecsg.github.io/pandatec-website/about-us/)
+- [Capabilities](https://pandatecsg.github.io/pandatec-website/services/)
+- [Industries](https://pandatecsg.github.io/pandatec-website/industries/)
+- [Projects](https://pandatecsg.github.io/pandatec-website/projects/)
+- [FAQ](https://pandatecsg.github.io/pandatec-website/faq/)
+- [Contact](https://pandatecsg.github.io/pandatec-website/contact/)
+- [Sitemap](https://pandatecsg.github.io/pandatec-website/sitemap.xml)
