@@ -33,7 +33,7 @@
     var html = results.length ? results.map(function (product) {
       var slug = product.slug || '';
       var title = product.name || product.sku || 'Product';
-      var details = [product.sku, product.category, product.sub_category].filter(Boolean).join(' · ');
+      var details = [product.sku, product.category, product.subcategory || product.sub_category, product.level3].filter(Boolean).join(' · ');
       return '<a class="search-result" href="/pandatec-website/product/' + encodeURIComponent(slug) + '/">' +
         '<strong>' + escapeHtml(title) + '</strong>' +
         (details ? '<small>' + escapeHtml(details) + '</small>' : '') +
@@ -63,7 +63,7 @@
       loadProducts().then(function (products) {
         var needle = query.toLowerCase();
         var results = products.filter(function (product) {
-          return ['name', 'sku', 'category', 'sub_category', 'short_description', 'description']
+          return ['name', 'sku', 'category', 'subcategory', 'sub_category', 'level3', 'short_description', 'description']
             .some(function (field) { return String(product[field] || '').toLowerCase().indexOf(needle) !== -1; });
         }).slice(0, 12);
         showResults(resultsBox, query, results);

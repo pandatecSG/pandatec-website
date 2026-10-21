@@ -1,4 +1,4 @@
-"""Convert PANDATEC's three-column employee file into the 31-column upload file."""
+"""Convert PANDA COLLECTIONS's three-column employee file into the 31-column upload file."""
 from __future__ import annotations
 
 import argparse
@@ -67,7 +67,7 @@ def image_index(image_dir: Path) -> dict[str, Path]:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Create the PANDATEC 31-column product upload file.")
+    parser = argparse.ArgumentParser(description="Create the PANDA COLLECTIONS 31-column product upload file.")
     parser.add_argument("batch_folder", help="Folder containing products.xlsx and an images subfolder")
     parser.add_argument("--excel", help="Optional input Excel path")
     args = parser.parse_args()
@@ -116,7 +116,7 @@ def main() -> int:
 
     report = batch / "validation_report.txt"
     report.write_text(
-        "PANDATEC PRODUCT UPLOAD VALIDATION\n\n"
+        "PANDA COLLECTIONS PRODUCT UPLOAD VALIDATION\n\n"
         + ("ERRORS:\n" + "\n".join(f"- {x}" for x in errors) + "\n\n" if errors else "No errors found.\n\n")
         + ("NOTES:\n" + "\n".join(f"- {x}" for x in warnings) + "\n" if warnings else "")
         + f"\nRows detected: {len(rows)}\n",

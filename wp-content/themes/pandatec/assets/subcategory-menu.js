@@ -1,9 +1,10 @@
 (function () {
   const furnitureCategories = [
     ['system-furniture', 'System Furniture'],
+    ['office-accessories', 'Office Accessories'],
     ['office-chairs', 'Office Chairs'],
     ['acoustic-pods', 'Acoustic Pods'],
-    ['reception-lounge', 'Reception & Lounge'],
+    ['reception-lounge', 'Reception & Breakout'],
     ['luxury-collection', 'Luxury Collection'],
     ['dining-furniture', 'Dining Furniture'],
     ['school-furniture', 'School Furniture'],
@@ -19,7 +20,7 @@
     ['fasteners', 'Fasteners'],
     ['electrical-accessories', 'Electrical Accessories'],
     ['cleaning-maintenance', 'Cleaning & Maintenance'],
-    ['facility-appliances', 'Facility Appliances'],
+    ['facility-appliances', 'Electrical Appliance'],
     ['safety-storage-cabinets', 'Safety & Storage Cabinets']
   ];
 
