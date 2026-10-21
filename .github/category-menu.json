@@ -1,0 +1,570 @@
+{
+  "building-infrastructure": {
+    "label": "Building & Infrastructure",
+    "children": [
+      {
+        "slug": "pipes",
+        "label": "Pipes",
+        "children": []
+      },
+      {
+        "slug": "cables-electrical",
+        "label": "Cables & Electrical",
+        "children": []
+      },
+      {
+        "slug": "construction-hardware",
+        "label": "Construction Hardware",
+        "children": []
+      },
+      {
+        "slug": "architectural-hardware",
+        "label": "Architectural Hardware",
+        "children": []
+      },
+      {
+        "slug": "fencing-barriers",
+        "label": "Fencing & Barriers",
+        "children": []
+      },
+      {
+        "slug": "road-traffic-products",
+        "label": "Road & Traffic Products",
+        "children": []
+      },
+      {
+        "slug": "paints-coatings",
+        "label": "Paints & Coatings",
+        "children": []
+      },
+      {
+        "slug": "boards-panels",
+        "label": "Boards & Panels",
+        "children": []
+      },
+      {
+        "slug": "flooring",
+        "label": "Flooring",
+        "children": []
+      },
+      {
+        "slug": "signage",
+        "label": "Signage",
+        "children": []
+      },
+      {
+        "slug": "metal-products",
+        "label": "Metal Products",
+        "children": []
+      }
+    ]
+  },
+  "cleanroom": {
+    "label": "Cleanroom & Controlled Environment",
+    "children": [
+      {
+        "slug": "cleanroom-garments",
+        "label": "Cleanroom Garments",
+        "children": []
+      },
+      {
+        "slug": "cleanroom-gloves",
+        "label": "Cleanroom Gloves",
+        "children": []
+      },
+      {
+        "slug": "masks-shoe-covers",
+        "label": "Masks & Shoe Covers",
+        "children": []
+      },
+      {
+        "slug": "cleanroom-wipes",
+        "label": "Cleanroom Wipes",
+        "children": []
+      },
+      {
+        "slug": "cleanroom-bags-packaging",
+        "label": "Cleanroom Bags & Packaging",
+        "children": []
+      },
+      {
+        "slug": "esd-products",
+        "label": "ESD Products",
+        "children": []
+      },
+      {
+        "slug": "cleanroom-furniture-storage",
+        "label": "Cleanroom Furniture & Storage",
+        "children": []
+      }
+    ]
+  },
+  "corporate-gifts": {
+    "label": "Corporate Gifts",
+    "children": [
+      {
+        "slug": "florist",
+        "label": "Florist",
+        "children": [
+          {
+            "slug": "hand-bouquets",
+            "label": "Hand Bouquets"
+          },
+          {
+            "slug": "bloom-boxes",
+            "label": "Bloom Boxes"
+          },
+          {
+            "slug": "flower-bags",
+            "label": "Flower Bags"
+          },
+          {
+            "slug": "flower-baskets",
+            "label": "Flower Baskets"
+          },
+          {
+            "slug": "99-roses",
+            "label": "99 Roses"
+          },
+          {
+            "slug": "preserved-flowers",
+            "label": "Preserved Flowers"
+          },
+          {
+            "slug": "bridal-bouquets",
+            "label": "Bridal Bouquets"
+          },
+          {
+            "slug": "fruit-hampers",
+            "label": "Fruit Hampers"
+          },
+          {
+            "slug": "grand-opening-flower-stands",
+            "label": "Grand Opening Flower Stands"
+          },
+          {
+            "slug": "condolence-flower-stands",
+            "label": "Condolence Flower Stands"
+          }
+        ]
+      },
+      {
+        "slug": "art-paintings",
+        "label": "Art & Paintings",
+        "children": []
+      }
+    ]
+  },
+  "furniture-workplace": {
+    "label": "Furniture & Workplace",
+    "children": [
+      {
+        "slug": "system-furniture",
+        "label": "System Furniture",
+        "children": []
+      },
+      {
+        "slug": "office-accessories",
+        "label": "Office Accessories",
+        "children": []
+      },
+      {
+        "slug": "office-chairs",
+        "label": "Office Chairs",
+        "children": [
+          {
+            "slug": "bifma-certified",
+            "label": "BIFMA Certified"
+          },
+          {
+            "slug": "mesh-chair",
+            "label": "Mesh Chair"
+          },
+          {
+            "slug": "pu-leather-chair",
+            "label": "PU/Leather Chair"
+          },
+          {
+            "slug": "training-chair",
+            "label": "Training Chair"
+          },
+          {
+            "slug": "ergonomic-chair",
+            "label": "Ergonomic Chair"
+          }
+        ]
+      },
+      {
+        "slug": "acoustic-pods",
+        "label": "Acoustic Pods",
+        "children": []
+      },
+      {
+        "slug": "reception-lounge",
+        "label": "Reception & Breakout",
+        "children": [
+          {
+            "slug": "sofa",
+            "label": "Sofa"
+          },
+          {
+            "slug": "modular-sofa",
+            "label": "Modular Sofa"
+          },
+          {
+            "slug": "high-back-sofa",
+            "label": "High Back Sofa"
+          },
+          {
+            "slug": "lounge-chair",
+            "label": "Lounge Chair"
+          },
+          {
+            "slug": "coffee-table",
+            "label": "Coffee Table"
+          },
+          {
+            "slug": "compressed-sofa",
+            "label": "Compressed Sofa"
+          }
+        ]
+      },
+      {
+        "slug": "luxury-collection",
+        "label": "Luxury Collection",
+        "children": []
+      },
+      {
+        "slug": "dining-furniture",
+        "label": "Dining Furniture",
+        "children": [
+          {
+            "slug": "dining-table",
+            "label": "Dining Table"
+          },
+          {
+            "slug": "dining-chair",
+            "label": "Dining Chair"
+          },
+          {
+            "slug": "bar-stool",
+            "label": "Bar Stool"
+          },
+          {
+            "slug": "banquette-booth-seat",
+            "label": "Banquette & Booth Seat"
+          },
+          {
+            "slug": "plastic-chair",
+            "label": "Plastic Chair"
+          }
+        ]
+      },
+      {
+        "slug": "school-furniture",
+        "label": "School Furniture",
+        "children": []
+      },
+      {
+        "slug": "outdoor-furniture",
+        "label": "Outdoor Furniture",
+        "children": [
+          {
+            "slug": "abs-furniture",
+            "label": "ABS Furniture"
+          },
+          {
+            "slug": "table",
+            "label": "Table"
+          },
+          {
+            "slug": "chair-stool",
+            "label": "Chair / Stool"
+          },
+          {
+            "slug": "bench",
+            "label": "Bench"
+          },
+          {
+            "slug": "umbrella",
+            "label": "Umbrella"
+          },
+          {
+            "slug": "sofa",
+            "label": "Sofa"
+          }
+        ]
+      },
+      {
+        "slug": "hotel-accommodation",
+        "label": "Hotel Accommodation",
+        "children": []
+      },
+      {
+        "slug": "custom-carpentry",
+        "label": "Custom Carpentry",
+        "children": []
+      }
+    ]
+  },
+  "industrial-products": {
+    "label": "Industrial Products & MRO",
+    "children": [
+      {
+        "slug": "mro-consumables",
+        "label": "MRO Consumables",
+        "children": []
+      },
+      {
+        "slug": "tools-hardware",
+        "label": "Tools & Hardware",
+        "children": []
+      },
+      {
+        "slug": "fasteners",
+        "label": "Fasteners",
+        "children": []
+      },
+      {
+        "slug": "workshop-equipment",
+        "label": "Workshop Equipment",
+        "children": []
+      },
+      {
+        "slug": "safety-storage-cabinets",
+        "label": "Safety Storage Cabinets",
+        "children": []
+      },
+      {
+        "slug": "electrical-accessories",
+        "label": "Electrical Accessories",
+        "children": []
+      },
+      {
+        "slug": "cleaning-maintenance",
+        "label": "Cleaning & Maintenance",
+        "children": []
+      },
+      {
+        "slug": "facility-appliances",
+        "label": "Electrical Appliance",
+        "children": [
+          {
+            "slug": "air-purifier",
+            "label": "Air Purifier"
+          },
+          {
+            "slug": "fridge",
+            "label": "Fridge"
+          },
+          {
+            "slug": "microwave-oven",
+            "label": "Microwave/Oven"
+          },
+          {
+            "slug": "vacuum-cleaner",
+            "label": "Vacuum Cleaner"
+          },
+          {
+            "slug": "water-dispenser",
+            "label": "Water Dispenser"
+          },
+          {
+            "slug": "others",
+            "label": "Others"
+          }
+        ]
+      }
+    ]
+  },
+  "machinery-automation": {
+    "label": "Machinery & Automation",
+    "children": [
+      {
+        "slug": "cutting-sawing-machines",
+        "label": "Cutting & Sawing Machines",
+        "children": []
+      },
+      {
+        "slug": "drilling-machines",
+        "label": "Drilling Machines",
+        "children": []
+      },
+      {
+        "slug": "sanding-grinding-machines",
+        "label": "Grinding & Sanding",
+        "children": []
+      },
+      {
+        "slug": "welding-machines",
+        "label": "Welding Machines",
+        "children": []
+      },
+      {
+        "slug": "industrial-air-circulation",
+        "label": "Industrial Air Circulation",
+        "children": []
+      },
+      {
+        "slug": "automation-robotics",
+        "label": "Automation & Robotics",
+        "children": []
+      },
+      {
+        "slug": "commercial-kitchen-equipment",
+        "label": "Commercial Kitchen Equipment",
+        "children": []
+      },
+      {
+        "slug": "custom-machinery",
+        "label": "Custom Machinery",
+        "children": []
+      }
+    ]
+  },
+  "medical-healthcare": {
+    "label": "Medical & Healthcare",
+    "children": [
+      {
+        "slug": "hospital-beds",
+        "label": "Hospital Beds",
+        "children": []
+      },
+      {
+        "slug": "medical-trolleys-carts",
+        "label": "Medical Trolleys & Carts",
+        "children": []
+      },
+      {
+        "slug": "stretchers",
+        "label": "Stretchers",
+        "children": []
+      },
+      {
+        "slug": "examination-treatment-tables",
+        "label": "Examination & Treatment Tables",
+        "children": []
+      },
+      {
+        "slug": "wheelchairs-stools",
+        "label": "Wheelchairs & Stools",
+        "children": []
+      },
+      {
+        "slug": "waiting-chairs",
+        "label": "Waiting Chairs",
+        "children": []
+      },
+      {
+        "slug": "medical-cabinets",
+        "label": "Medical Cabinets",
+        "children": []
+      },
+      {
+        "slug": "stainless-steel-furniture",
+        "label": "Stainless Steel Furniture",
+        "children": []
+      },
+      {
+        "slug": "laboratory-furniture",
+        "label": "Laboratory Furniture",
+        "children": []
+      },
+      {
+        "slug": "medical-consumables",
+        "label": "Medical Consumables",
+        "children": []
+      }
+    ]
+  },
+  "ppe-safety": {
+    "label": "PPE & Safety",
+    "children": [
+      {
+        "slug": "respiratory-protection",
+        "label": "Respiratory Protection",
+        "children": []
+      },
+      {
+        "slug": "gloves",
+        "label": "Gloves",
+        "children": []
+      },
+      {
+        "slug": "protective-clothing-coveralls",
+        "label": "Protective Clothing & Coveralls",
+        "children": []
+      },
+      {
+        "slug": "safety-shoes",
+        "label": "Safety Shoes",
+        "children": []
+      },
+      {
+        "slug": "eye-face-protection",
+        "label": "Eye & Face Protection",
+        "children": []
+      },
+      {
+        "slug": "head-protection",
+        "label": "Head Protection",
+        "children": []
+      },
+      {
+        "slug": "hearing-protection",
+        "label": "Hearing Protection",
+        "children": []
+      },
+      {
+        "slug": "fall-protection",
+        "label": "Fall Protection",
+        "children": []
+      }
+    ]
+  },
+  "warehouse-logistics": {
+    "label": "Warehouse & Logistics",
+    "children": [
+      {
+        "slug": "storage-racks",
+        "label": "Storage Racks",
+        "children": []
+      },
+      {
+        "slug": "shelving",
+        "label": "Shelving",
+        "children": []
+      },
+      {
+        "slug": "stainless-steel-shelving",
+        "label": "Stainless Steel Shelving",
+        "children": []
+      },
+      {
+        "slug": "compact-shelving",
+        "label": "Compact Shelving",
+        "children": []
+      },
+      {
+        "slug": "turnover-boxes-bins",
+        "label": "Turnover Boxes & Bins",
+        "children": []
+      },
+      {
+        "slug": "wire-containers",
+        "label": "Wire Containers",
+        "children": []
+      },
+      {
+        "slug": "carts-trolleys",
+        "label": "Carts & Trolleys",
+        "children": []
+      },
+      {
+        "slug": "pallets-packaging",
+        "label": "Pallets & Packaging",
+        "children": []
+      }
+    ]
+  }
+}
