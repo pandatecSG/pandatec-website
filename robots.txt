@@ -1,5 +1,4 @@
-# Test site: pages carry noindex until launch on pandatec.sg
 User-agent: *
 Allow: /
 
-Sitemap: https://pandatecsg.github.io/pandatec-website/sitemap.xml
+Sitemap: https://pandatec.sg/sitemap.xml

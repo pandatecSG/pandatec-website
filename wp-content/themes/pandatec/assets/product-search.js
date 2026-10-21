@@ -15,7 +15,7 @@
 
   function loadProducts() {
     if (!loading) {
-      loading = fetch('/pandatec-website/product-data.json')
+      loading = fetch('/product-data.json')
         .then(function (response) {
           if (!response.ok) throw new Error('Product data could not be loaded.');
           return response.json();
@@ -34,7 +34,7 @@
       var slug = product.slug || '';
       var title = product.name || product.sku || 'Product';
       var details = [product.sku, product.category, product.subcategory || product.sub_category, product.level3].filter(Boolean).join(' · ');
-      return '<a class="search-result" href="/pandatec-website/product/' + encodeURIComponent(slug) + '/">' +
+      return '<a class="search-result" href="/product/' + encodeURIComponent(slug) + '/">' +
         '<strong>' + escapeHtml(title) + '</strong>' +
         (details ? '<small>' + escapeHtml(details) + '</small>' : '') +
         '</a>';

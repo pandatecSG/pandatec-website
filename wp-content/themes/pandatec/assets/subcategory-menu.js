@@ -29,7 +29,7 @@
     const current = menu.getAttribute('data-current-category');
     menu.innerHTML = '<div class="wrap">' + categories.map(function (item) {
       const active = item[0] === current ? ' aria-current="page"' : '';
-      return '<a href="/pandatec-website/products/' + base + '/' + item[0] + '/"' + active + '>' + item[1] + '</a>';
+      return '<a href="/products/' + base + '/' + item[0] + '/"' + active + '>' + item[1] + '</a>';
     }).join('') + '</div>';
     });
   }
