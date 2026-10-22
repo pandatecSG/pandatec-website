@@ -1,6 +1,6 @@
 # PANDA COLLECTIONS (PANDATEC PTE. LTD.)
 
-> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 1670 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories and corporate gifting in Singapore. Prices are quoted on request.
+> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 1694 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories and corporate gifting in Singapore. Prices are quoted on request.
 
 - Address: 35 Tannery Road #05-06, Ruby Industrial Complex, Singapore 347740
 - Phone / WhatsApp: +65 8472 6456
@@ -34,6 +34,11 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Masks Shoe Covers](https://pandatec.sg/products/cleanroom/masks-shoe-covers/)
 - [Corporate Gifts Supplier in Singapore](https://pandatec.sg/products/corporate-gifts/)
   - [Art & Paintings](https://pandatec.sg/products/corporate-gifts/art-paintings/): 56 products
+  - [Corporate Travel Gifts](https://pandatec.sg/products/corporate-gifts/travel-gifts/)
+    - [Luggage](https://pandatec.sg/products/corporate-gifts/travel-gifts/custom-luggage/): 6 products
+    - [Eye Masks](https://pandatec.sg/products/corporate-gifts/travel-gifts/sleep-eye-masks/): 6 products
+    - [Neck Pillows](https://pandatec.sg/products/corporate-gifts/travel-gifts/travel-neck-pillows/): 6 products
+    - [Vacuum Flasks & Tumblers](https://pandatec.sg/products/corporate-gifts/travel-gifts/vacuum-flasks-tumblers/): 6 products
   - [Corporate Flowers & Flower Delivery in Singapore](https://pandatec.sg/products/corporate-gifts/florist/)
     - [99 Roses Bouquet Singapore](https://pandatec.sg/products/corporate-gifts/florist/99-roses/): 4 products
     - [Flower Boxes Singapore](https://pandatec.sg/products/corporate-gifts/florist/bloom-boxes/): 43 products

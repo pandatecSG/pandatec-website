@@ -6,6 +6,8 @@ index.html must show
   2. the L3 menu of its L2 (class "l3-menu") when that L2 has L3 folders.
 
 Menu order and labels live in .github/category-menu.json.
+An L2 entry may set "path": "<L1 folder>/<L2 folder>" to list a category under another
+L1 while keeping its existing URL (e.g. Electrical Appliances shown under Furniture).
   python .github/scripts/category_menus.py build   # add new folders to the config and rewrite menus
   python .github/scripts/category_menus.py check   # fail if any category page is missing or has an outdated menu
 """
@@ -33,23 +35,28 @@ def load():
     return json.load(open(CONFIG, encoding='utf-8')) if os.path.isfile(CONFIG) else {}
 
 
+def path2(l1, c2):
+    return c2.get('path', f'{l1}/{c2["slug"]}')
+
+
 def sync(cfg):
     """Append category folders that are not in the config yet (label taken from the page H1)."""
     added = []
+    moved = {c2['path'] for c1 in cfg.values() for c2 in c1['children'] if 'path' in c2}
     for l1 in subdirs(PRODUCTS):
         c1 = cfg.setdefault(l1, {'label': h1_label(os.path.join(PRODUCTS, l1)), 'children': []})
         known = {c['slug'] for c in c1['children']}
         for l2 in subdirs(os.path.join(PRODUCTS, l1)):
-            if l2 not in known:
+            if l2 not in known and f'{l1}/{l2}' not in moved:
                 c1['children'].append({'slug': l2, 'label': h1_label(os.path.join(PRODUCTS, l1, l2)), 'children': []}); added.append(f'{l1}/{l2}')
         for c2 in c1['children']:
-            p2 = os.path.join(PRODUCTS, l1, c2['slug'])
+            p2 = os.path.join(PRODUCTS, *path2(l1, c2).split('/'))
             if not os.path.isdir(p2):
                 continue
             known3 = {c['slug'] for c in c2['children']}
             for l3 in subdirs(p2):
                 if l3 not in known3:
-                    c2['children'].append({'slug': l3, 'label': h1_label(os.path.join(p2, l3))}); added.append(f'{l1}/{c2["slug"]}/{l3}')
+                    c2['children'].append({'slug': l3, 'label': h1_label(os.path.join(p2, l3))}); added.append(f'{path2(l1, c2)}/{l3}')
     return added
 
 
@@ -59,16 +66,16 @@ def menu(cfg, l1, l2, l3=None):
     out = [START, f'<nav class="subcategory-menu" aria-label="{e(c1["label"])} categories"><div class="wrap">']
     for c in c1['children']:
         cur = ' aria-current="page"' if c['slug'] == l2 else ''
-        out.append(f'<a href="/products/{l1}/{c["slug"]}/"{cur}>{e(c["label"])}</a>')
+        out.append(f'<a href="/products/{path2(l1, c)}/"{cur}>{e(c["label"])}</a>')
     out.append('</div></nav>')
     c2 = next(c for c in c1['children'] if c['slug'] == l2)
     if c2.get('children'):
         out.append(f'<nav class="l3-menu" aria-label="{e(c2["label"])} types"><div class="wrap">')
         cur = '' if l3 else ' aria-current="page"'
-        out.append(f'<a href="/products/{l1}/{l2}/"{cur}>All {e(c2["label"])}</a>')
+        out.append(f'<a href="/products/{path2(l1, c2)}/"{cur}>All {e(c2["label"])}</a>')
         for c in c2['children']:
             cur = ' aria-current="page"' if c['slug'] == l3 else ''
-            out.append(f'<a href="/products/{l1}/{l2}/{c["slug"]}/"{cur}>{e(c["label"])}</a>')
+            out.append(f'<a href="/products/{path2(l1, c2)}/{c["slug"]}/"{cur}>{e(c["label"])}</a>')
         out.append('</div></nav>')
     out.append(END)
     return ''.join(out)
@@ -77,9 +84,10 @@ def menu(cfg, l1, l2, l3=None):
 def pages(cfg):
     for l1, c1 in cfg.items():
         for c2 in c1['children']:
-            yield os.path.join(PRODUCTS, l1, c2['slug'], 'index.html'), menu(cfg, l1, c2['slug'])
+            base = os.path.join(PRODUCTS, *path2(l1, c2).split('/'))
+            yield os.path.join(base, 'index.html'), menu(cfg, l1, c2['slug'])
             for c3 in c2.get('children', []):
-                yield os.path.join(PRODUCTS, l1, c2['slug'], c3['slug'], 'index.html'), menu(cfg, l1, c2['slug'], c3['slug'])
+                yield os.path.join(base, c3['slug'], 'index.html'), menu(cfg, l1, c2['slug'], c3['slug'])
 
 
 def apply(s, block):

@@ -149,6 +149,28 @@
         ]
       },
       {
+        "slug": "travel-gifts",
+        "label": "Travel Gifts",
+        "children": [
+          {
+            "slug": "custom-luggage",
+            "label": "Luggage"
+          },
+          {
+            "slug": "sleep-eye-masks",
+            "label": "Eye Masks"
+          },
+          {
+            "slug": "travel-neck-pillows",
+            "label": "Neck Pillows"
+          },
+          {
+            "slug": "vacuum-flasks-tumblers",
+            "label": "Vacuum Flasks & Tumblers"
+          }
+        ]
+      },
+      {
         "slug": "art-paintings",
         "label": "Art & Paintings",
         "children": []
@@ -304,6 +326,37 @@
         "slug": "custom-carpentry",
         "label": "Custom Carpentry",
         "children": []
+      },
+      {
+        "slug": "facility-appliances",
+        "label": "Electrical Appliances",
+        "path": "industrial-products/facility-appliances",
+        "children": [
+          {
+            "slug": "air-purifier",
+            "label": "Air Purifiers"
+          },
+          {
+            "slug": "fridge",
+            "label": "Fridges & Freezers"
+          },
+          {
+            "slug": "microwave-oven",
+            "label": "Microwaves & Ovens"
+          },
+          {
+            "slug": "vacuum-cleaner",
+            "label": "Vacuum Cleaners"
+          },
+          {
+            "slug": "water-dispenser",
+            "label": "Water Purifiers & Dispensers"
+          },
+          {
+            "slug": "others",
+            "label": "Dishwashers & Others"
+          }
+        ]
       }
     ]
   },
@@ -344,36 +397,6 @@
         "slug": "cleaning-maintenance",
         "label": "Cleaning & Maintenance",
         "children": []
-      },
-      {
-        "slug": "facility-appliances",
-        "label": "Electrical Appliance",
-        "children": [
-          {
-            "slug": "air-purifier",
-            "label": "Air Purifier"
-          },
-          {
-            "slug": "fridge",
-            "label": "Fridge"
-          },
-          {
-            "slug": "microwave-oven",
-            "label": "Microwave/Oven"
-          },
-          {
-            "slug": "vacuum-cleaner",
-            "label": "Vacuum Cleaner"
-          },
-          {
-            "slug": "water-dispenser",
-            "label": "Water Dispenser"
-          },
-          {
-            "slug": "others",
-            "label": "Others"
-          }
-        ]
       }
     ]
   },
