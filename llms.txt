@@ -84,16 +84,16 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/sofa/): 15 products
   - [School Furniture](https://pandatec.sg/products/furniture-workplace/school-furniture/): 66 products
   - [System Furniture](https://pandatec.sg/products/furniture-workplace/system-furniture/): 112 products
+  - [Office & Pantry Electrical Appliances](https://pandatec.sg/products/industrial-products/facility-appliances/): 35 products
+    - [Air Purifiers](https://pandatec.sg/products/industrial-products/facility-appliances/air-purifier/): 4 products
+    - [Fridges & Freezers](https://pandatec.sg/products/industrial-products/facility-appliances/fridge/): 11 products
+    - [Microwaves & Ovens](https://pandatec.sg/products/industrial-products/facility-appliances/microwave-oven/): 4 products
+    - [Dishwashers, Dehumidifiers & Other Appliances](https://pandatec.sg/products/industrial-products/facility-appliances/others/): 7 products
+    - [Vacuum Cleaners](https://pandatec.sg/products/industrial-products/facility-appliances/vacuum-cleaner/): 6 products
+    - [Water Purifiers & Dispensers](https://pandatec.sg/products/industrial-products/facility-appliances/water-dispenser/): 3 products
 - [Industrial Products & MRO Supplies in Singapore](https://pandatec.sg/products/industrial-products/)
   - [Cleaning Maintenance](https://pandatec.sg/products/industrial-products/cleaning-maintenance/)
   - [Electrical Accessories](https://pandatec.sg/products/industrial-products/electrical-accessories/)
-  - [Electrical Appliance](https://pandatec.sg/products/industrial-products/facility-appliances/): 35 products
-    - [Air Purifier](https://pandatec.sg/products/industrial-products/facility-appliances/air-purifier/): 4 products
-    - [Fridge](https://pandatec.sg/products/industrial-products/facility-appliances/fridge/): 11 products
-    - [Microwave/Oven](https://pandatec.sg/products/industrial-products/facility-appliances/microwave-oven/): 4 products
-    - [Others](https://pandatec.sg/products/industrial-products/facility-appliances/others/): 7 products
-    - [Vacuum Cleaner](https://pandatec.sg/products/industrial-products/facility-appliances/vacuum-cleaner/): 6 products
-    - [Water Dispenser](https://pandatec.sg/products/industrial-products/facility-appliances/water-dispenser/): 3 products
   - [Fasteners](https://pandatec.sg/products/industrial-products/fasteners/)
   - [Mro Consumables](https://pandatec.sg/products/industrial-products/mro-consumables/)
   - [Safety Storage Cabinets](https://pandatec.sg/products/industrial-products/safety-storage-cabinets/): 15 products
