@@ -99,6 +99,13 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Safety Storage Cabinets](https://pandatec.sg/products/industrial-products/safety-storage-cabinets/): 15 products
   - [Tools Hardware](https://pandatec.sg/products/industrial-products/tools-hardware/)
   - [Workshop Equipment](https://pandatec.sg/products/industrial-products/workshop-equipment/): 10 products
+  - [Special Alloys](https://pandatec.sg/products/industrial-products/special-alloys/): 55 products – nickel alloys, superalloys, resistance heating alloys, precision alloys, heat-resistant steels, nickel welding wire
+    - [Nickel & Corrosion-Resistant Alloys](https://pandatec.sg/products/industrial-products/special-alloys/nickel-corrosion-resistant-alloys/): 12 products
+    - [Electric Heating Alloys](https://pandatec.sg/products/industrial-products/special-alloys/electric-heating-alloys/): 8 products
+    - [Heat-Resistant Stainless Steels](https://pandatec.sg/products/industrial-products/special-alloys/heat-resistant-stainless-steels/): 6 products
+    - [Precision Alloys](https://pandatec.sg/products/industrial-products/special-alloys/precision-alloys/): 14 products
+    - [Superalloys](https://pandatec.sg/products/industrial-products/special-alloys/superalloys/): 8 products
+    - [Nickel Alloy Welding Wire](https://pandatec.sg/products/industrial-products/special-alloys/nickel-alloy-welding-wire/): 7 products
 - [Industrial Machinery & Automation Equipment in Singapore](https://pandatec.sg/products/machinery-automation/)
   - [Automation Robotics](https://pandatec.sg/products/machinery-automation/automation-robotics/)
   - [Commercial Kitchen Equipment](https://pandatec.sg/products/machinery-automation/commercial-kitchen-equipment/): 39 products

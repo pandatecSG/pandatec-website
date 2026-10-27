@@ -397,6 +397,36 @@
         "slug": "cleaning-maintenance",
         "label": "Cleaning & Maintenance",
         "children": []
+      },
+      {
+        "slug": "special-alloys",
+        "label": "Special Alloys",
+        "children": [
+          {
+            "slug": "nickel-corrosion-resistant-alloys",
+            "label": "Nickel & Corrosion-Resistant Alloys"
+          },
+          {
+            "slug": "superalloys",
+            "label": "Superalloys"
+          },
+          {
+            "slug": "electric-heating-alloys",
+            "label": "Electric Heating Alloys"
+          },
+          {
+            "slug": "precision-alloys",
+            "label": "Precision Alloys"
+          },
+          {
+            "slug": "heat-resistant-stainless-steels",
+            "label": "Heat-Resistant Stainless Steels"
+          },
+          {
+            "slug": "nickel-alloy-welding-wire",
+            "label": "Nickel Alloy Welding Wire"
+          }
+        ]
       }
     ]
   },
