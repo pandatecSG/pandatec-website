@@ -177,10 +177,6 @@
             "label": "ESD Tools & Dispensers"
           },
           {
-            "slug": "esd-seating",
-            "label": "ESD Seating"
-          },
-          {
             "slug": "ionizers",
             "label": "Ionizers & Static Eliminators"
           },
@@ -193,7 +189,20 @@
       {
         "slug": "cleanroom-furniture-storage",
         "label": "Cleanroom Furniture & Storage",
-        "children": []
+        "children": [
+          {
+            "slug": "esd-seating",
+            "label": "ESD Chairs & Stools"
+          },
+          {
+            "slug": "esd-floor-bench-mats",
+            "label": "ESD Floor & Bench Mats"
+          },
+          {
+            "slug": "workbenches-work-tables",
+            "label": "Workbenches & Work Tables"
+          }
+        ]
       },
       {
         "slug": "contamination-control",

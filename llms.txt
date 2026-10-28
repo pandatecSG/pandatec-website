@@ -42,8 +42,8 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Cleanroom Garments](https://pandatec.sg/products/cleanroom/cleanroom-garments/): 12 products
     - [ESD Coveralls & Suits](https://pandatec.sg/products/cleanroom/cleanroom-garments/esd-coveralls-suits/): 2 products
     - [ESD Cleanroom Footwear](https://pandatec.sg/products/cleanroom/cleanroom-garments/esd-cleanroom-footwear/): 10 products
-  - [Contamination Control](https://pandatec.sg/products/cleanroom/contamination-control/): 9 products
-    - [Sticky Mats & Rollers](https://pandatec.sg/products/cleanroom/contamination-control/sticky-mats-rollers/): 7 products
+  - [Contamination Control](https://pandatec.sg/products/cleanroom/contamination-control/): 10 products
+    - [Sticky Mats & Rollers](https://pandatec.sg/products/cleanroom/contamination-control/sticky-mats-rollers/): 8 products
     - [Cleanroom Mops](https://pandatec.sg/products/cleanroom/contamination-control/cleanroom-mops/): 2 products
   - [Cleanroom Paper & Stationery](https://pandatec.sg/products/cleanroom/cleanroom-paper-stationery/): 3 products
   - [Cleanroom Bags & Packaging](https://pandatec.sg/products/cleanroom/cleanroom-bags-packaging/): 9 products
@@ -55,7 +55,6 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Bench Mats & ESD Curtains](https://pandatec.sg/products/cleanroom/esd-products/esd-bench-mats-curtains/): 2 products
     - [Bins, Racks & Totes](https://pandatec.sg/products/cleanroom/esd-products/esd-bins-racks-totes/): 5 products
     - [ESD Tools & Dispensers](https://pandatec.sg/products/cleanroom/esd-products/esd-tools/): 8 products
-    - [ESD Seating](https://pandatec.sg/products/cleanroom/esd-products/esd-seating/): 36 products
     - [Ionizers & Static Eliminators](https://pandatec.sg/products/cleanroom/esd-products/ionizers/): 13 products
     - [ESD Test Equipment](https://pandatec.sg/products/cleanroom/esd-products/esd-test-equipment/): 6 products
   - [Particle Counters & Instruments](https://pandatec.sg/products/cleanroom/cleanroom-instruments/): 7 products
@@ -63,7 +62,10 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Dispensers](https://pandatec.sg/products/cleanroom/dispensing-equipment/dispensers/): 3 products
     - [Syringes, Cartridges & Mixers](https://pandatec.sg/products/cleanroom/dispensing-equipment/syringes-cartridges/): 7 products
     - [Dispensing Tips](https://pandatec.sg/products/cleanroom/dispensing-equipment/dispensing-tips/): 10 products
-  - [Cleanroom Furniture & Storage](https://pandatec.sg/products/cleanroom/cleanroom-furniture-storage/)
+  - [Cleanroom Furniture & Storage](https://pandatec.sg/products/cleanroom/cleanroom-furniture-storage/): 44 products
+    - [ESD Chairs & Stools](https://pandatec.sg/products/cleanroom/cleanroom-furniture-storage/esd-seating/): 36 products
+    - [ESD Floor & Bench Mats](https://pandatec.sg/products/cleanroom/cleanroom-furniture-storage/esd-floor-bench-mats/): 4 products
+    - [Workbenches & Work Tables](https://pandatec.sg/products/cleanroom/cleanroom-furniture-storage/workbenches-work-tables/): 4 products
 - [Corporate Gifts Supplier in Singapore](https://pandatec.sg/products/corporate-gifts/)
   - [Art & Paintings](https://pandatec.sg/products/corporate-gifts/art-paintings/): 56 products
   - [Corporate Travel Gifts](https://pandatec.sg/products/corporate-gifts/travel-gifts/)

@@ -1,7 +1,8 @@
 """Rebuild the "All products" grid (#catalogue) on every L1 category page from product-data.json.
 
 Run: python .github/scripts/build_catalogue.py
-Every product whose category_slug matches the L1 page is listed, including all L2/L3 sub-categories.
+Every product whose category_slug matches the L1 page is listed, including all L2/L3 sub-categories,
+plus products cross-listed into that L1 through "also_in" (see cross_listing.py).
 """
 import html
 import json
@@ -47,6 +48,10 @@ def main() -> int:
             continue
         seen.add(p["slug"])
         by_cat.setdefault(p["category_slug"], []).append(p)
+    for p in products:
+        for l1 in {t.strip("/").split("/")[0] for t in p.get("also_in", [])} - {p["category_slug"]}:
+            if p not in by_cat.setdefault(l1, []):
+                by_cat[l1].append(p)
 
     for cat, items in sorted(by_cat.items()):
         if cat in SKIP:

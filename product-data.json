@@ -2026,7 +2026,11 @@
     "slug": "esd-sticky-mat",
     "image": "PT-FLR-0001.jpg",
     "status": "Draft",
-    "short_description": "Product Characteristics"
+    "short_description": "Product Characteristics",
+    "also_in": [
+      "cleanroom/cleanroom-furniture-storage/esd-floor-bench-mats",
+      "cleanroom/contamination-control/sticky-mats-rollers"
+    ]
   },
   {
     "sku": "PT-FLR-0002",
@@ -2039,7 +2043,10 @@
     "slug": "esd-anti-fatigue-mat",
     "image": "PT-FLR-0002.jpg",
     "status": "Draft",
-    "short_description": "Premium ESD Anti-Fatigue Mat"
+    "short_description": "Premium ESD Anti-Fatigue Mat",
+    "also_in": [
+      "cleanroom/cleanroom-furniture-storage/esd-floor-bench-mats"
+    ]
   },
   {
     "sku": "PT-FLR-CXB15",
@@ -2052,7 +2059,10 @@
     "slug": "esd-antistatic-rubber-mat-cxb15",
     "image": "PT-FLR-CXB15.jpg",
     "status": "Draft",
-    "short_description": "The CXB15 is a premium, double-layer anti-static mat engineered for superior electrostatic discharge protection in sensitive work environments. Unlike common mats made from recycled materials, the CXB15 is crafted from high-quality virgin rubber, imported nitrile rubber, and superconducting carbon black. This results in greater stability, enhanced durability, and consistent, long-term ESD performance with a very low odor."
+    "short_description": "The CXB15 is a premium, double-layer anti-static mat engineered for superior electrostatic discharge protection in sensitive work environments. Unlike common mats made from recycled materials, the CXB15 is crafted from high-quality virgin rubber, imported nitrile rubber, and superconducting carbon black. This results in greater stability, enhanced durability, and consistent, long-term ESD performance with a very low odor.",
+    "also_in": [
+      "cleanroom/cleanroom-furniture-storage/esd-floor-bench-mats"
+    ]
   },
   {
     "sku": "PT-SGN-0001",
@@ -2072,462 +2082,594 @@
     "name": "ESD Chair CH01B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH01B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workstations. Featuring an anti-static PU seat cushion, ergonomic design, and a durable aluminum alloy base, it provides reliable protection, stability, and comfort for daily industrial use.\nConstruction:\nAnti-static PU seat cushion\nHeavy-duty 160 mm stroke gas lift\n480 mm aluminum alloy base\n50 mm PU caster wheels\nReinforced internal frame\nFeatures:\nAnti-static PU seat cushion helps safely dissipate static electricity, protecting sensitive electronic components and equipment\n160 mm stroke gas lift provides smooth and precise seat height adjustment for improved ergonomic comfort\n480 mm aluminum alloy base offers excellent stability, strength, and corrosion resistance\n50 mm PU caster wheels ensure smooth, quiet movement while protecting floor surfaces\nErgonomic seat design promotes proper posture and reduces fatigue during extended working hours\nDurable construction is suitable for continuous use in demanding industrial, laboratory, and cleanroom environments\nEasy-to-clean PU surfaces support hygiene and require minimal maintenance\nIdeal for electronics manufacturing, semiconductor facilities, laboratories, cleanrooms, assembly lines, and ESD-protected workstations\nDesigned for safety, durability, and ergonomic efficiency, the ESD Chair CH01B provides a dependable seating solution for professional static-controlled environments.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch01bl/",
     "slug": "esd-chair-ch01bl",
     "image": "PT-ESD-CH01B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH01B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workstations. Featuring an anti-static PU seat cushion, ergonomic design, and a durable aluminum alloy base, it provides reliable protection, stability, and comfort for daily industrial use.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH02B",
     "name": "ESD Chair CH02B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH02B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workstations. Featuring an anti-static PU backrest and seat cushion, ergonomic support, and a durable aluminum alloy base, it delivers reliable protection, comfort, and long-lasting performance for industrial applications.\nConstruction:\nAnti-static PU backrest\nAnti-static PU seat cushion\nHeavy-duty 140 mm stroke gas lift\n640 mm aluminum alloy base\n50 mm swivel casters\nReinforced internal frame\nFeatures:\nAnti-static PU backrest and seat cushion help safely dissipate static electricity, protecting sensitive electronic components and equipment\n140 mm stroke gas lift provides smooth and precise seat height adjustment for improved ergonomic comfort\n640 mm aluminum alloy base offers excellent stability, strength, and corrosion resistance for long-term durability\n50 mm swivel casters enable smooth mobility and effortless movement between workstations\nErgonomic seating design promotes proper posture and reduces fatigue during extended working hours\nDurable construction is suitable for continuous use in demanding industrial, laboratory, and cleanroom environments\nEasy-to-clean PU surfaces support hygiene and require minimal maintenance\nIdeal for electronics manufacturing, semiconductor facilities, laboratories, cleanrooms, assembly lines, and ESD-protected workstations\nDesigned for safety, durability, and ergonomic performance, the ESD Chair CH02B provides a dependable seating solution for professional static-controlled environments.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch02bp/",
     "slug": "esd-chair-ch02bp",
     "image": "PT-ESD-CH02B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH02B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workstations. Featuring an anti-static PU backrest and seat cushion, ergonomic support, and a durable aluminum alloy base, it delivers reliable protection, comfort, and long-lasting performance for industrial applications.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH03B",
     "name": "ESD Chair CH03B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH03B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workshops. Featuring an anti-static PU backrest and seat cushion, ergonomic support, and a durable aluminum alloy base, it provides safe, stable, and comfortable seating for prolonged industrial use.\nConstruction:\nAnti-static PU backrest\nAnti-static PU seat cushion\nHeavy-duty 140 mm gas lift\n640 mm aluminum alloy base\n50 mm swivel casters\nReinforced internal frame\nFeatures:\nAnti-static PU backrest and seat cushion help dissipate static electricity, protecting sensitive electronic components and equipment\n140 mm gas lift enables smooth and precise seat height adjustment for improved ergonomics\n640 mm aluminum alloy base provides exceptional stability, strength, and corrosion resistance\n50 mm swivel casters ensure smooth mobility and effortless movement between workstations\nErgonomic backrest and seat design promote proper posture and reduce fatigue during extended working hours\nDurable construction is suitable for continuous use in demanding industrial and laboratory environments\nEasy-to-clean PU surfaces support hygiene and require minimal maintenance\nIdeal for electronics manufacturing, semiconductor production, laboratories, cleanrooms, assembly lines, and ESD-protected workstations\nDesigned for safety, durability, and ergonomic comfort, the ESD Chair CH03B provides a dependable seating solution for professional static-controlled environments.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch03bp/",
     "slug": "esd-chair-ch03bp",
     "image": "PT-ESD-CH03B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH03B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workshops. Featuring an anti-static PU backrest and seat cushion, ergonomic support, and a durable aluminum alloy base, it provides safe, stable, and comfortable seating for prolonged industrial use.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH04B",
     "name": "ESD Chair CH04B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH04B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workshops. Featuring an anti-static PU backrest and seat cushion, ergonomic support design, and a durable aluminum alloy base, it provides safe, stable, and comfortable seating for long hours of industrial use.\nConstruction:\nAnti-static PU backrest\nAnti-static PU seat cushion\nHeavy-duty gas lift mechanism\nAluminum alloy base structure\nReinforced internal frame\n50 mm swivel caster wheels\nFeatures:\nAnti-static PU backrest and seat cushion help prevent electrostatic discharge, protecting sensitive electronic components and equipment\n200 mm stroke gas lift enables smooth and adjustable seat height for ergonomic working positions\n400 mm footrest ring provides additional leg support and improves comfort during extended use\n640 mm aluminum alloy base ensures excellent stability, durability, and load-bearing strength\n50 mm swivel caster wheels allow smooth mobility and easy repositioning within workstation environments\nErgonomic dual-support design improves posture and reduces fatigue during long working hours\nDurable materials are suitable for high-frequency use in production lines and cleanroom environments\nIdeal for electronics factories, semiconductor industries, laboratories, cleanrooms, and precision workshops\nDesigned for safety, stability, and ergonomic efficiency, the ESD Chair CH04B provides a reliable seating solution for static-sensitive industrial environments.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch04b/",
     "slug": "esd-chair-ch04b",
     "image": "PT-ESD-CH04B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH04B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workshops. Featuring an anti-static PU backrest and seat cushion, ergonomic support design, and a durable aluminum alloy base, it provides safe, stable, and comfortable seating for long hours of industrial use.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH05B",
     "name": "ESD Chair CH05B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH05B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workshops. Featuring an anti-static PU seat cushion, ergonomic support structure, and a durable aluminum alloy base, it provides safe, stable, and comfortable seating for extended industrial use.\nConstruction:\nAnti-static PU seat cushion\nHeavy-duty gas lift mechanism\nAluminum alloy base structure\nReinforced internal frame\n50 mm swivel caster wheels\nFeatures:\nAnti-static PU seat cushion helps prevent electrostatic discharge, protecting sensitive electronic components and equipment\n200 mm stroke gas lift enables smooth and adjustable seat height for ergonomic working positions\n400 mm footrest ring provides additional support and improves comfort during long working hours\n640 mm aluminum alloy base ensures excellent stability, durability, and load-bearing strength\n50 mm swivel caster wheels allow smooth mobility and easy repositioning within workstation environments\nErgonomic design supports long-duration seating in industrial and technical environments\nDurable materials are suitable for high-frequency use in production and cleanroom settings\nIdeal for electronics factories, semiconductor industries, laboratories, cleanrooms, and precision workshops\nDesigned for safety, stability, and ergonomic efficiency, the ESD Chair CH05B provides a reliable seating solution for static-sensitive industrial environments.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch05b/",
     "slug": "esd-chair-ch05b",
     "image": "PT-ESD-CH05B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH05B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workshops. Featuring an anti-static PU seat cushion, ergonomic support structure, and a durable aluminum alloy base, it provides safe, stable, and comfortable seating for extended industrial use.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH06B",
     "name": "ESD Chair CH06B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH06B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workshops. Featuring an anti-static PU seat cushion, ergonomic structure, and a durable aluminum alloy base, it ensures safe, stable, and comfortable seating for extended industrial use.\nConstruction:\nAnti-static PU seat cushion\nHeavy-duty gas lift mechanism\nAluminum alloy base structure\nReinforced internal frame\n50 mm swivel caster wheels\nFeatures:\nAnti-static PU seat cushion helps prevent electrostatic discharge, protecting sensitive electronic components and equipment\n200 mm stroke gas lift enables smooth and adjustable seat height for ergonomic working positions\n400 mm footrest ring provides additional leg support and improves comfort during long working hours\n640 mm aluminum alloy base ensures excellent stability, durability, and load-bearing strength\n50 mm swivel caster wheels allow smooth mobility and easy repositioning within workstation environments\nErgonomic design supports long-duration use in industrial and technical environments\nDurable materials are suitable for high-frequency use in production and cleanroom settings\nIdeal for electronics factories, semiconductor industries, laboratories, cleanrooms, and precision workshops\nDesigned for safety, stability, and ergonomic efficiency, the ESD Chair CH06B provides a reliable seating solution for static-sensitive industrial environments.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch06b/",
     "slug": "esd-chair-ch06b",
     "image": "PT-ESD-CH06B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH06B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workshops. Featuring an anti-static PU seat cushion, ergonomic structure, and a durable aluminum alloy base, it ensures safe, stable, and comfortable seating for extended industrial use.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH07B",
     "name": "ESD Chair CH07B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH07B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workshops. Featuring an anti-static PU seat cushion, ergonomic support structure, and a durable aluminum alloy base, it provides safe, stable, and comfortable seating for long hours of industrial use.\nConstruction:\nAnti-static PU seat cushion\nHeavy-duty gas lift mechanism\nAluminum alloy base structure\nReinforced internal frame\n50 mm swivel caster wheels\nFeatures:\nAnti-static PU seat cushion helps prevent electrostatic discharge, protecting sensitive electronic components and equipment\n200 mm stroke gas lift enables smooth and adjustable seat height for ergonomic working positions\n400 mm footrest ring provides additional leg support and improves comfort during extended use\n640 mm aluminum alloy base ensures excellent stability, durability, and load-bearing strength\n50 mm swivel caster wheels allow smooth mobility and easy repositioning within workstation environments\nErgonomic design supports long-duration seating in industrial and technical environments\nDurable materials are suitable for high-frequency use in production and cleanroom settings\nIdeal for electronics factories, semiconductor industries, laboratories, cleanrooms, and precision workshops\nDesigned for safety, stability, and ergonomic efficiency, the ESD Chair CH07B provides a reliable seating solution for static-sensitive industrial environments.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch07b/",
     "slug": "esd-chair-ch07b",
     "image": "PT-ESD-CH07B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH07B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workshops. Featuring an anti-static PU seat cushion, ergonomic support structure, and a durable aluminum alloy base, it provides safe, stable, and comfortable seating for long hours of industrial use.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH08B",
     "name": "ESD Chair CH08B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH08B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workshops. Featuring an anti-static PU seat cushion, ergonomic structure, and a durable aluminum alloy base, it provides safe, stable, and comfortable seating for long hours of industrial operation.\nConstruction:\nAnti-static PU seat cushion\nHeavy-duty gas lift mechanism\nAluminum alloy base structure\nReinforced internal frame\n50 mm swivel caster wheels\nFeatures:\nAnti-static PU seat cushion helps prevent electrostatic discharge, protecting sensitive electronic components and equipment\n200 mm stroke gas lift enables smooth and adjustable seat height for ergonomic working positions\n400 mm footrest ring provides additional support and improves comfort during extended use\n640 mm aluminum alloy base ensures excellent stability, durability, and load-bearing strength\n50 mm swivel caster wheels allow smooth mobility and easy repositioning within workstation environments\nErgonomic design supports long-duration use in industrial and technical environments\nDurable materials are suitable for high-frequency usage in production and cleanroom settings\nIdeal for electronics factories, semiconductor industries, laboratories, cleanrooms, and precision workshops\nDesigned for safety, stability, and ergonomic efficiency, the ESD Chair CH08B provides a reliable seating solution for static-sensitive industrial environments.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch08b/",
     "slug": "esd-chair-ch08b",
     "image": "PT-ESD-CH08B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH08B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workshops. Featuring an anti-static PU seat cushion, ergonomic structure, and a durable aluminum alloy base, it provides safe, stable, and comfortable seating for long hours of industrial operation.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH09B",
     "name": "ESD Chair CH09B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH09B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workshops. Featuring an anti-static PU seat cushion, ergonomic structure, and a durable aluminum alloy base, it provides stable, safe, and comfortable seating for extended industrial use.\nConstruction:\nAnti-static PU seat cushion\nHeavy-duty gas lift mechanism\nAluminum alloy base structure\nReinforced internal frame\n50 mm swivel caster wheels\nFeatures:\nAnti-static PU seat cushion helps prevent electrostatic discharge, protecting sensitive electronic components and equipment\n200 mm stroke gas lift enables smooth and adjustable seat height for ergonomic working positions\n400 mm footrest ring provides additional support and improves comfort during long working hours\n640 mm aluminum alloy base ensures excellent stability, durability, and load-bearing strength\n50 mm swivel caster wheels allow smooth mobility and easy repositioning in workstation environments\nErgonomic design supports long-duration use in industrial and technical settings\nDurable materials are suitable for high-frequency use in production and assembly lines\nIdeal for electronics factories, cleanrooms, laboratories, semiconductor industries, and precision workshops\nDesigned for safety, stability, and ergonomic efficiency, the ESD Chair CH09B delivers a reliable seating solution for static-sensitive industrial environments.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch09b/",
     "slug": "esd-chair-ch09b",
     "image": "PT-ESD-CH09B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH09B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workshops. Featuring an anti-static PU seat cushion, ergonomic structure, and a durable aluminum alloy base, it provides stable, safe, and comfortable seating for extended industrial use.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH10B",
     "name": "ESD Chair CH10B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH10B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workshops. Featuring an anti-static PU seat cushion, ergonomic support design, and a durable aluminum alloy base, it provides safe, stable, and comfortable seating for long hours of industrial use.\nConstruction:\nAnti-static PU seat cushion\nHeavy-duty gas lift mechanism\nAluminum alloy base structure\nReinforced internal frame\n50 mm swivel caster wheels\nFeatures:\nAnti-static PU seat cushion helps prevent electrostatic discharge, protecting sensitive electronic components and equipment\n200 mm stroke gas lift enables smooth and adjustable seat height for ergonomic working positions\n400 mm footrest ring provides additional leg support and improves comfort during prolonged use\n640 mm aluminum alloy base ensures excellent stability, strength, and long-term durability\n50 mm swivel caster wheels allow smooth movement and easy repositioning within workstation environments\nErgonomic design supports long-duration seating in industrial and technical operations\nDurable materials are suitable for high-frequency use in production and cleanroom environments\nIdeal for electronics factories, semiconductor industries, laboratories, cleanrooms, and precision workshops\nDesigned for safety, stability, and ergonomic efficiency, the ESD Chair CH10B provides a reliable seating solution for static-sensitive industrial environments.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch10b/",
     "slug": "esd-chair-ch10b",
     "image": "PT-ESD-CH10B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH10B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workshops. Featuring an anti-static PU seat cushion, ergonomic support design, and a durable aluminum alloy base, it provides safe, stable, and comfortable seating for long hours of industrial use.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH11B",
     "name": "ESD Chair CH11B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH11B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly areas. Featuring an anti-static PU seat cushion, ergonomic support design, and a durable aluminum alloy base, it ensures safe, stable, and comfortable seating for long hours of industrial work.\nConstruction:\nAnti-static PU seat cushion\nHeavy-duty gas lift mechanism\nAluminum alloy base structure\nReinforced internal frame\n50 mm swivel caster wheels\nFeatures:\nAnti-static PU seat cushion helps prevent electrostatic discharge, protecting sensitive electronic components and equipment\n200 mm stroke gas lift enables smooth and adjustable seat height for ergonomic working positions\n400 mm footrest ring provides additional leg support and improves comfort during prolonged use\n640 mm aluminum alloy base ensures excellent stability, strength, and long-term durability\n50 mm swivel caster wheels allow smooth movement and easy repositioning within workstation environments\nErgonomic design supports long-duration seating in industrial and technical operations\nDurable materials are suitable for high-frequency use in production and cleanroom environments\nIdeal for electronics factories, semiconductor industries, laboratories, cleanrooms, and precision workshops\nDesigned for safety, stability, and ergonomic efficiency, the ESD Chair CH11B provides a reliable seating solution for static-sensitive industrial environments.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch11b/",
     "slug": "esd-chair-ch11b",
     "image": "PT-ESD-CH11B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH11B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly areas. Featuring an anti-static PU seat cushion, ergonomic support design, and a durable aluminum alloy base, it ensures safe, stable, and comfortable seating for long hours of industrial work.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH12B",
     "name": "ESD Chair CH12B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH12B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workshops. Featuring anti-static PU seating, ergonomic support, and a durable aluminum alloy base, it ensures safety, stability, and comfort for extended industrial use.\nConstruction:\nAnti-static PU seat cushion\nHeavy-duty gas lift mechanism\nAluminum alloy base structure\nReinforced internal frame\n50 mm swivel caster wheels\nFeatures:\nAnti-static PU seat cushion helps prevent electrostatic discharge, protecting sensitive electronic components and equipment\n200 mm stroke gas lift allows smooth and adjustable seat height for ergonomic working positions\n400 mm footrest ring provides additional support and improves seating comfort during long working hours\n640 mm aluminum alloy base ensures excellent stability, durability, and load-bearing strength\n50 mm swivel caster wheels allow smooth mobility and easy repositioning in workstation environments\nErgonomic design supports extended use in industrial and technical work settings\nDurable materials are suitable for high-frequency usage in production and assembly lines\nIdeal for electronics factories, cleanrooms, laboratories, semiconductor industries, and precision workshops\nDesigned for safety, stability, and ergonomic efficiency, the ESD Chair CH12B provides a reliable seating solution for static-sensitive and industrial environments.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch12b/",
     "slug": "esd-chair-ch12b",
     "image": "PT-ESD-CH12B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH12B is designed for electrostatic discharge (ESD) sensitive environments such as electronics manufacturing, laboratories, cleanrooms, and precision assembly workshops. Featuring anti-static PU seating, ergonomic support, and a durable aluminum alloy base, it ensures safety, stability, and comfort for extended industrial use.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH13B",
     "name": "ESD Chair Ch13B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH13B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, extended height adjustment, an integrated footrest ring, a durable aluminum alloy base, and smooth-rolling swivel casters, it provides reliable ESD protection, ergonomic comfort, and enhanced support for elevated workstations.\nConstruction:\nAnti-static PU seat cushion\nHeavy-duty gas lift with 200 mm height adjustment stroke\n400 mm metal footrest ring\n640 mm aluminum alloy five-star base\n50 mm swivel caster wheels\nReinforced construction for continuous industrial and laboratory use\nFeatures:\nAnti-static PU seat cushion safely dissipates static electricity to help protect sensitive electronic components\nErgonomic seat design provides comfortable support during prolonged working hours\n200 mm gas lift allows smooth and precise seat height adjustment, making it suitable for elevated workstations and laboratory benches\n400 mm footrest ring provides additional leg support and enhances user comfort when working at higher bench heights\nDurable 640 mm aluminum alloy base delivers excellent stability and long-term durability\n50 mm swivel caster wheels provide smooth mobility and effortless movement across various floor surfaces\n360° swivel function enhances flexibility and workplace efficiency\nEasy-to-clean PU surface resists stains, chemicals, and everyday wear\nSuitable for ESD-controlled environments, electronics assembly lines, laboratories, cleanrooms, inspection stations, manufacturing facilities, and high workbenches\nLow-maintenance construction ensures dependable long-term performance in demanding professional applications\nDesigned for comfort, durability, mobility, and reliable electrostatic discharge protection, the ESD Chair CH13B is an ideal seating solution for elevated workstations where ergonomic support, flexibility, and ESD safety are essential.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch13b/",
     "slug": "esd-chair-ch13b",
     "image": "PT-ESD-CH13B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH13B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, extended height adjustment, an integrated footrest ring, a durable aluminum alloy base, and smooth-rolling swivel casters, it provides reliable ESD protection, ergonomic comfort, and enhanced support for elevated workstations.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH14B",
     "name": "ESD Chair CH14B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH14B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, extended height adjustment, an integrated footrest ring, a durable aluminum alloy base, and smooth-rolling swivel casters, it provides reliable ESD protection, ergonomic comfort, and enhanced support for elevated workstations.\nConstruction:\nAnti-static PU seat cushion\nHeavy-duty gas lift with 200 mm height adjustment stroke\n400 mm metal footrest ring\n640 mm aluminum alloy five-star base\n50 mm swivel caster wheels\nReinforced construction for continuous industrial and laboratory use\nFeatures:\nAnti-static PU seat cushion safely dissipates static electricity to help protect sensitive electronic components\nErgonomic seat design provides comfortable support during extended working hours\n200 mm gas lift offers a wider range of height adjustment, making it ideal for elevated workstations and laboratory benches\n400 mm footrest ring provides additional leg support and improves user comfort while seated at higher working heights\nDurable 640 mm aluminum alloy base ensures outstanding stability and long-term durability\n50 mm swivel caster wheels provide smooth mobility and effortless movement across various floor surfaces\n360° swivel function enhances flexibility and workplace efficiency\nEasy-to-clean PU surface resists stains, chemicals, and everyday wear\nSuitable for ESD-controlled environments, electronics assembly lines, laboratories, cleanrooms, inspection stations, manufacturing facilities, and high workbenches\nLow-maintenance construction ensures dependable long-term performance in demanding professional applications\nDesigned for comfort, durability, mobility, and reliable electrostatic discharge protection, the ESD Chair CH14B is an ideal seating solution for elevated workstations where ergonomic support, flexibility, and ESD safety are essential.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch13b-2/",
     "slug": "esd-chair-ch13b-2",
     "image": "PT-ESD-CH14B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH14B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, extended height adjustment, an integrated footrest ring, a durable aluminum alloy base, and smooth-rolling swivel casters, it provides reliable ESD protection, ergonomic comfort, and enhanced support for elevated workstations.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH15B",
     "name": "ESD Chair CH15B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH15B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, reinforced chassis, height-adjustable gas lift, a durable aluminum alloy base, and smooth-rolling swivel casters, it provides reliable ESD protection, ergonomic comfort, and outstanding mobility for demanding workstations.\nConstruction:\nAnti-static PU seat cushion\nReinforced chassis (keel base)\nHeavy-duty gas lift with 140 mm height adjustment stroke\n640 mm aluminum alloy five-star base\n50 mm swivel caster wheels\nReinforced construction for continuous industrial and laboratory use\nFeatures:\nAnti-static PU seat cushion safely dissipates static electricity to help protect sensitive electronic components\nErgonomic seat design provides comfortable support during prolonged working hours\nReinforced keel-base chassis delivers superior structural strength, stability, and long-term durability\n140 mm gas lift enables smooth and precise seat height adjustment to accommodate different users and workstation heights\nDurable 640 mm aluminum alloy base ensures excellent stability and dependable performance\n50 mm swivel caster wheels provide smooth mobility and effortless movement across various floor surfaces\n360° swivel function enhances flexibility and workplace efficiency\nEasy-to-clean PU surface resists stains, chemicals, and everyday wear\nSuitable for ESD-controlled environments, electronics assembly lines, laboratories, cleanrooms, inspection stations, and manufacturing facilities\nLow-maintenance construction ensures reliable long-term performance in demanding professional applications\nDesigned for comfort, durability, mobility, and reliable electrostatic discharge protection, the ESD Chair CH15B is an ideal seating solution for professional environments where ergonomic support, flexibility, and ESD safety are essential.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch15b/",
     "slug": "esd-chair-ch15b",
     "image": "PT-ESD-CH15B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH15B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, reinforced chassis, height-adjustable gas lift, a durable aluminum alloy base, and smooth-rolling swivel casters, it provides reliable ESD protection, ergonomic comfort, and outstanding mobility for demanding workstations.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH16B",
     "name": "ESD Chair CH16B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH16B is a durable anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, height-adjustable gas lift, a sturdy aluminum alloy base, and smooth-rolling swivel casters, it provides reliable ESD protection, ergonomic comfort, and excellent mobility for professional workstations.\nConstruction:\nAnti-static PU seat cushion\nHeavy-duty gas lift with 160 mm height adjustment stroke\n640 mm aluminum alloy five-star base\n50 mm swivel caster wheels\nReinforced construction for continuous industrial and laboratory use\nFeatures:\nAnti-static PU seat cushion safely dissipates static electricity to help protect sensitive electronic components\nErgonomic seat design provides comfortable support during prolonged working hours\n160 mm gas lift enables smooth and precise seat height adjustment to accommodate different users and workstation heights\nDurable 640 mm aluminum alloy base delivers exceptional stability and long-lasting durability\n50 mm swivel caster wheels provide smooth mobility and effortless movement across various floor surfaces\n360° swivel function enhances flexibility and workplace efficiency\nEasy-to-clean PU surface resists stains, chemicals, and everyday wear\nSuitable for ESD-controlled environments, electronics assembly lines, laboratories, cleanrooms, inspection stations, and manufacturing facilities\nLow-maintenance construction ensures dependable long-term performance in demanding professional applications\nDesigned for comfort, durability, mobility, and reliable electrostatic discharge protection, the ESD Chair CH16B provides a dependable seating solution for professional environments where ergonomic support, flexibility, and ESD safety are essential.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch16b/",
     "slug": "esd-chair-ch16b",
     "image": "PT-ESD-CH16B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH16B is a durable anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, height-adjustable gas lift, a sturdy aluminum alloy base, and smooth-rolling swivel casters, it provides reliable ESD protection, ergonomic comfort, and excellent mobility for professional workstations.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH17B",
     "name": "ESD Chair CH17B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH17B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat and backrest, reinforced chassis, height-adjustable gas lift, durable aluminum alloy base, and smooth-rolling swivel casters, it provides reliable ESD protection, ergonomic comfort, and excellent mobility for demanding workstations.\nConstruction:\nAnti-static PU seat\nAnti-static PU backrest\nReinforced chassis (keel base)\nHeavy-duty gas lift with 140 mm height adjustment stroke\n640 mm aluminum alloy five-star base\n50 mm swivel caster wheels\nReinforced construction for continuous industrial and laboratory use\nFeatures:\nAnti-static PU seat and backrest safely dissipate static electricity to help protect sensitive electronic components\nErgonomic backrest provides enhanced lumbar support for improved comfort during extended working hours\nReinforced keel-base chassis offers superior structural strength, stability, and long-term durability\n140 mm gas lift enables smooth and precise seat height adjustment to suit different users and workstation heights\nDurable 640 mm aluminum alloy base delivers excellent stability and dependable performance\n50 mm swivel caster wheels provide smooth mobility and effortless movement across various floor surfaces\n360° swivel function enhances flexibility and workplace efficiency\nEasy-to-clean PU surfaces resist stains, chemicals, and everyday wear\nSuitable for ESD-controlled environments, electronics assembly lines, laboratories, cleanrooms, inspection stations, and manufacturing facilities\nLow-maintenance construction ensures reliable long-term performance in demanding professional environments\nDesigned for comfort, durability, mobility, and dependable electrostatic discharge protection, the ESD Chair CH17B is an ideal seating solution for professional environments where ergonomic support, flexibility, and ESD safety are essential.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch17b/",
     "slug": "esd-chair-ch17b",
     "image": "PT-ESD-CH17B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH17B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat and backrest, reinforced chassis, height-adjustable gas lift, durable aluminum alloy base, and smooth-rolling swivel casters, it provides reliable ESD protection, ergonomic comfort, and excellent mobility for demanding workstations.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH18B",
     "name": "ESD Chair CH18B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH18B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, height-adjustable gas lift, a durable aluminum alloy base, and smooth-rolling swivel caster wheels, it provides reliable ESD protection, ergonomic comfort, and excellent mobility for demanding work environments.\nConstruction:\nAnti-static PU seat cushion\nHeavy-duty gas lift with 160 mm height adjustment travel\n640 mm aluminum alloy five-star base\n50 mm swivel caster wheels\nReinforced construction for continuous industrial and laboratory use\nFeatures:\nAnti-static PU seat cushion safely dissipates static electricity to help protect sensitive electronic components\nErgonomic seat design provides comfortable support during prolonged working hours\n160 mm gas lift allows smooth and precise seat height adjustment for different users and workstation heights\nDurable 640 mm aluminum alloy base delivers excellent stability and long-term durability\n50 mm swivel caster wheels provide smooth mobility and effortless movement across various floor surfaces\n360° swivel function enhances flexibility and workplace efficiency\nEasy-to-clean PU surface resists stains, chemicals, and everyday wear\nSuitable for ESD-controlled environments, electronics assembly lines, laboratories, cleanrooms, inspection stations, and manufacturing facilities\nLow-maintenance construction ensures dependable long-term performance in demanding professional applications\nDesigned for comfort, durability, mobility, and reliable electrostatic discharge protection, the ESD Chair CH18B provides a dependable seating solution for professional environments where ergonomic support, flexibility, and ESD safety are essential.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch18/",
     "slug": "esd-chair-ch18",
     "image": "PT-ESD-CH18B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH18B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, height-adjustable gas lift, a durable aluminum alloy base, and smooth-rolling swivel caster wheels, it provides reliable ESD protection, ergonomic comfort, and excellent mobility for demanding work environments.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH19B",
     "name": "ESD Chair CH19B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH19B is a durable anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat and cushion, height-adjustable gas lift, a sturdy aluminum alloy base, and smooth-rolling swivel casters, it provides reliable ESD protection, ergonomic comfort, and excellent mobility for professional workspaces.\nConstruction:\nAnti-static PU seat and cushion\nHeavy-duty gas lift with 140 mm height adjustment travel\n640 mm aluminum alloy five-star base\n50 mm swivel caster wheels\nReinforced construction for continuous industrial and laboratory use\nFeatures:\nAnti-static PU seat and cushion safely dissipate static electricity to help protect sensitive electronic components\nErgonomic seating design provides comfortable support during extended working hours\n140 mm gas lift enables smooth and precise seat height adjustment to suit different users and workstation heights\nDurable 640 mm aluminum alloy base delivers excellent stability and long-term durability\n50 mm swivel caster wheels provide smooth mobility and effortless movement across various floor surfaces\n360° swivel function enhances flexibility and workplace efficiency\nEasy-to-clean PU surface resists stains, chemicals, and everyday wear\nSuitable for ESD-controlled environments, electronics assembly lines, laboratories, cleanrooms, inspection stations, and manufacturing facilities\nLow-maintenance construction ensures dependable long-term performance in demanding professional applications\nDesigned for comfort, durability, mobility, and reliable electrostatic discharge protection, the ESD Chair CH19B provides a dependable seating solution for professional environments where ergonomic support and ESD safety are essential.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch19b/",
     "slug": "esd-chair-ch19b",
     "image": "PT-ESD-CH19B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH19B is a durable anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat and cushion, height-adjustable gas lift, a sturdy aluminum alloy base, and smooth-rolling swivel casters, it provides reliable ESD protection, ergonomic comfort, and excellent mobility for professional workspaces.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH20B",
     "name": "ESD Chair CH20B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH20B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat and cushion, height-adjustable gas lift, a durable aluminum alloy base, and metal foot caps, it provides reliable ESD protection, ergonomic comfort, and excellent stability for precision workstations.\nConstruction:\nAnti-static PU seat and cushion\nHeavy-duty gas lift with 160 mm height adjustment travel\n450 mm aluminum alloy base\nMetal foot caps\nReinforced construction for continuous industrial and laboratory use\nFeatures:\nAnti-static PU seat and cushion safely dissipate static electricity to help protect sensitive electronic components\nErgonomic seating design provides comfortable support during prolonged working hours\n160 mm gas lift enables smooth and precise seat height adjustment for different users and workstation heights\nDurable 450 mm aluminum alloy base offers excellent stability and long-lasting performance\nMetal foot caps provide a secure, non-slip, and stationary seating solution for precision workstations\nEasy-to-clean PU surface resists stains, chemicals, and everyday wear\nStable design is ideal for electronics assembly, laboratory work, cleanrooms, and inspection areas\nSuitable for ESD-controlled environments, electronics manufacturing facilities, laboratories, cleanrooms, production lines, and quality control stations\nLow-maintenance construction ensures dependable long-term performance in demanding professional environments\nDesigned for comfort, durability, and reliable electrostatic discharge protection, the ESD Chair CH20B provides a dependable seating solution for professional environments where ergonomic support, stability, and ESD safety are essential.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch20b/",
     "slug": "esd-chair-ch20b",
     "image": "PT-ESD-CH20B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH20B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat and cushion, height-adjustable gas lift, a durable aluminum alloy base, and metal foot caps, it provides reliable ESD protection, ergonomic comfort, and excellent stability for precision workstations.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH21B",
     "name": "ESD Chair CH21B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH21B is a durable anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat and cushion, height-adjustable gas lift, a sturdy aluminum alloy base, and metal foot caps, it provides dependable ESD protection, ergonomic comfort, and excellent stability for precision workstations.\nConstruction:\nAnti-static PU seat and cushion\nHeavy-duty gas lift with 160 mm height adjustment travel\n450 mm aluminum alloy base\nMetal foot caps\nReinforced construction for continuous industrial and laboratory use\nFeatures:\nAnti-static PU seat and cushion safely dissipate static electricity to help protect sensitive electronic components\nErgonomic seating design provides comfortable support during extended working hours\n160 mm gas lift allows smooth and precise seat height adjustment for different users and workstation heights\nDurable 450 mm aluminum alloy base ensures outstanding stability and long-term durability\nMetal foot caps provide a secure, stationary seating solution for precision tasks and elevated workstations\nEasy-to-clean PU surface resists stains, chemicals, and everyday wear\nStable design is ideal for environments requiring consistent positioning and reliable ESD protection\nSuitable for ESD-controlled environments, electronics assembly lines, laboratories, cleanrooms, inspection stations, and manufacturing facilities\nLow-maintenance construction delivers dependable long-term performance in demanding professional applications\nDesigned for comfort, durability, and reliable electrostatic discharge protection, the ESD Chair CH21B provides a dependable seating solution for workplaces where ergonomic support, stability, and ESD safety are essential.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch21b/",
     "slug": "esd-chair-ch21b",
     "image": "PT-ESD-CH21B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH21B is a durable anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat and cushion, height-adjustable gas lift, a sturdy aluminum alloy base, and metal foot caps, it provides dependable ESD protection, ergonomic comfort, and excellent stability for precision workstations.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH22B",
     "name": "ESD Chair CH22B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH22B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat and cushion, height-adjustable gas lift, a durable aluminum alloy base, and metal foot caps, it provides reliable ESD protection, ergonomic comfort, and exceptional stability for precision work.\nConstruction:\nAnti-static PU seat and cushion\nHeavy-duty gas lift with 160 mm height adjustment travel\n450 mm aluminum alloy base\nMetal foot caps\nReinforced construction for continuous industrial and laboratory use\nFeatures:\nAnti-static PU seat and cushion safely dissipate static electricity to help protect sensitive electronic components\nErgonomic seating design provides comfortable support during prolonged working hours\n160 mm gas lift enables smooth and precise seat height adjustment to accommodate different users and workstation heights\nDurable 450 mm aluminum alloy base delivers excellent stability and long-lasting performance\nMetal foot caps provide a secure, non-slip, and stationary seating solution for precision workstations\nEasy-to-clean PU surface resists stains, chemicals, and everyday wear\nStable design is ideal for elevated workbenches and tasks requiring consistent positioning\nSuitable for ESD-controlled environments, electronics assembly lines, laboratories, cleanrooms, inspection stations, and manufacturing facilities\nLow-maintenance construction ensures dependable long-term performance in demanding professional environments\nDesigned for comfort, durability, and reliable electrostatic discharge protection, the ESD Chair CH22B is an ideal seating solution for professional environments where stability, ergonomic support, and ESD safety are essential.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch22b/",
     "slug": "esd-chair-ch22b",
     "image": "PT-ESD-CH22B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH22B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat and cushion, height-adjustable gas lift, a durable aluminum alloy base, and metal foot caps, it provides reliable ESD protection, ergonomic comfort, and exceptional stability for precision work.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH23B",
     "name": "ESD Chair CH23B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH23B is a reliable anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat and cushion, height-adjustable gas lift, a durable aluminum alloy base, and metal foot caps, it provides dependable ESD protection, ergonomic comfort, and excellent stability for precision workstations.\nConstruction:\nAnti-static PU seat and cushion\nHeavy-duty gas lift with 160 mm height adjustment travel\n450 mm aluminum alloy base\nMetal foot caps\nReinforced construction for continuous industrial and laboratory use\nFeatures:\nAnti-static PU seat and cushion safely dissipate static electricity to help protect sensitive electronic components\nErgonomic seating design provides comfortable support during extended working hours\n160 mm gas lift allows smooth and precise seat height adjustment for different users and workstation heights\nDurable 450 mm aluminum alloy base ensures excellent stability and long-lasting performance\nMetal foot caps provide a secure, stationary seating solution with enhanced floor stability\nEasy-to-clean PU surface resists stains, chemicals, and everyday wear\nStable design is ideal for precision tasks and elevated workstations requiring consistent positioning\nSuitable for ESD-controlled environments, electronics assembly lines, laboratories, cleanrooms, inspection stations, and manufacturing facilities\nLow-maintenance construction ensures dependable long-term performance in demanding professional environments\nDesigned for comfort, durability, and reliable electrostatic discharge protection, the ESD Chair CH23B provides a stable and ergonomic seating solution for workplaces where ESD safety, precision, and user comfort are essential.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch23b/",
     "slug": "esd-chair-ch23b",
     "image": "PT-ESD-CH23B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH23B is a reliable anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat and cushion, height-adjustable gas lift, a durable aluminum alloy base, and metal foot caps, it provides dependable ESD protection, ergonomic comfort, and excellent stability for precision workstations.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH24B",
     "name": "ESD Chair CH24B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH24B is a durable anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat and cushion, height-adjustable gas lift, a sturdy aluminum alloy base, and metal foot caps, it provides reliable ESD protection, ergonomic comfort, and excellent stability for precision work.\nConstruction:\nAnti-static PU seat and cushion\nHeavy-duty gas lift with 160 mm height adjustment travel\n450 mm aluminum alloy base\nMetal foot caps\nReinforced construction for continuous industrial and laboratory use\nFeatures:\nAnti-static PU seat and cushion safely dissipate static electricity to help protect sensitive electronic components\nErgonomic seating design provides comfortable support during extended working hours\n160 mm gas lift enables smooth and precise seat height adjustment for different users and workstation heights\nDurable 450 mm aluminum alloy base delivers excellent stability and long-lasting performance\nMetal foot caps provide a secure, non-slip, and stationary seating solution for precision workstations\nEasy-to-clean PU surface resists stains, chemicals, and everyday wear\nStable design is ideal for elevated workbenches and tasks requiring consistent positioning\nSuitable for ESD-controlled environments, electronics assembly lines, laboratories, cleanrooms, inspection stations, and manufacturing facilities\nLow-maintenance construction ensures dependable long-term performance in demanding professional applications\nDesigned for comfort, durability, and reliable electrostatic discharge protection, the ESD Chair CH24B is an ideal seating solution for professional environments where stability, ergonomic support, and ESD safety are essential.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch24b/",
     "slug": "esd-chair-ch24b",
     "image": "PT-ESD-CH24B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH24B is a durable anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat and cushion, height-adjustable gas lift, a sturdy aluminum alloy base, and metal foot caps, it provides reliable ESD protection, ergonomic comfort, and excellent stability for precision work.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH25B",
     "name": "ESD Chair CH25B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH25B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, height-adjustable gas lift, a durable aluminum alloy base, and smooth-rolling casters, it provides reliable ESD protection, ergonomic comfort, and excellent mobility for dynamic workspaces.\nConstruction:\nAnti-static PU seat cushion\nHeavy-duty gas lift with 160 mm height adjustment travel\n640 mm aluminum alloy five-star base\n50 mm swivel and rolling casters\nReinforced construction for continuous industrial and laboratory use\nFeatures:\nAnti-static PU seat cushion safely dissipates static electricity to help protect sensitive electronic components\nErgonomic seat design provides comfortable support during prolonged working hours\n160 mm gas lift enables smooth and precise seat height adjustment to accommodate different users and workstation heights\nDurable 640 mm aluminum alloy base delivers exceptional stability and long-term durability\n50 mm swivel casters provide smooth mobility and easy maneuverability across various floor surfaces\n360° swivel function enhances flexibility and workplace efficiency\nEasy-to-clean PU surface resists stains, chemicals, and everyday wear\nSuitable for ESD-controlled environments, electronics assembly lines, laboratories, cleanrooms, inspection stations, and manufacturing facilities\nLow-maintenance construction ensures dependable long-term performance in demanding professional applications\nDesigned for comfort, durability, and reliable electrostatic discharge protection, the ESD Chair CH25B provides a dependable seating solution that combines ergonomic support, mobility, and ESD safety for professional work environments.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch25b/",
     "slug": "esd-chair-ch25b",
     "image": "PT-ESD-CH25B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH25B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, height-adjustable gas lift, a durable aluminum alloy base, and smooth-rolling casters, it provides reliable ESD protection, ergonomic comfort, and excellent mobility for dynamic workspaces.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH26B",
     "name": "ESD Chair CH26B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH26B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, height-adjustable gas lift, durable aluminum alloy base, and integrated metal footrest pads, it provides reliable ESD protection, ergonomic comfort, and outstanding stability for elevated workstations.\nConstruction:\nAnti-static PU seat cushion\nHeavy-duty gas lift with 160 mm height adjustment travel\n480 mm aluminum alloy base\nIntegrated metal footrest pads\nReinforced construction for continuous industrial and laboratory use\nFeatures:\nAnti-static PU seat cushion safely dissipates static electricity to help protect sensitive electronic components\nErgonomic seat design provides comfortable support during extended working hours\n160 mm gas lift allows smooth and precise seat height adjustment for different users and workstation heights\nDurable 480 mm aluminum alloy base ensures excellent stability and long-lasting performance\nIntegrated metal footrest pads provide additional comfort and support when working at elevated benches and workstations\nEasy-to-clean PU surface resists stains, chemicals, and everyday wear\nStable stationary design is ideal for precision tasks requiring consistent seating position\nSuitable for ESD-controlled environments, electronics assembly lines, laboratories, cleanrooms, inspection stations, and manufacturing facilities\nLow-maintenance construction delivers dependable long-term performance in demanding professional environments\nDesigned for comfort, durability, and reliable electrostatic discharge protection, the ESD Chair CH26B provides a dependable seating solution for elevated workstations where stability, ergonomic support, and ESD safety are essential.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch26b/",
     "slug": "esd-chair-ch26b",
     "image": "PT-ESD-CH26B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH26B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, height-adjustable gas lift, durable aluminum alloy base, and integrated metal footrest pads, it provides reliable ESD protection, ergonomic comfort, and outstanding stability for elevated workstations.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH27B",
     "name": "ESD Chair CH27B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH27B is a durable anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, height-adjustable gas lift, aluminum alloy base, and integrated metal footrest pads, it provides reliable ESD protection, ergonomic comfort, and enhanced support for elevated workstations.\nConstruction:\nAnti-static PU seat cushion\nHeavy-duty gas lift with 160 mm height adjustment travel\n480 mm aluminum alloy base\nIntegrated metal footrest pads\nReinforced construction for continuous industrial and laboratory use\nFeatures:\nAnti-static PU seat cushion safely dissipates static electricity to help protect sensitive electronic components\nErgonomic seat design provides comfortable support during prolonged working hours\n160 mm gas lift enables smooth seat height adjustment to accommodate different users and workstation heights\nDurable 480 mm aluminum alloy base offers excellent stability and long-lasting performance\nIntegrated metal footrest pads provide additional comfort and support when working at elevated benches or workstations\nEasy-to-clean PU surface resists stains, chemicals, and everyday wear\nStable, stationary design is suitable for precision tasks requiring consistent positioning\nIdeal for ESD-controlled environments, electronics assembly lines, laboratories, cleanrooms, inspection stations, and manufacturing facilities\nLow-maintenance construction ensures dependable long-term performance in demanding professional applications\nDesigned for comfort, stability, and reliable electrostatic discharge protection, the ESD Chair CH27B is an ideal seating solution for elevated workstations where ergonomic support and ESD safety are essential.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch27b/",
     "slug": "esd-chair-ch27b",
     "image": "PT-ESD-CH27B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH27B is a durable anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, height-adjustable gas lift, aluminum alloy base, and integrated metal footrest pads, it provides reliable ESD protection, ergonomic comfort, and enhanced support for elevated workstations.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH28B",
     "name": "ESD Chair CH28B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH28B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, height-adjustable gas lift, and a durable aluminum alloy base with fixed foot pads, it provides reliable ESD protection, ergonomic comfort, and exceptional stability for precision work.\nConstruction:\nAnti-static PU seat cushion\nHeavy-duty gas lift with 160 mm height adjustment travel\n536 mm aluminum alloy five-star base\nBlack fixed foot pads\nReinforced construction for continuous industrial and laboratory use\nFeatures:\nAnti-static PU seat cushion safely dissipates static electricity to help protect sensitive electronic components\nErgonomic seat design provides comfortable support during extended working hours\n160 mm gas lift enables smooth seat height adjustment to suit different users and workstation heights\nDurable 536 mm aluminum alloy base delivers excellent stability and long-lasting performance\nBlack fixed foot pads provide a secure, non-movable seating solution for precision and static-sensitive workstations\nEasy-to-clean PU surface resists stains, chemicals, and everyday wear\nSuitable for ESD-controlled environments, electronics assembly lines, laboratories, cleanrooms, inspection stations, and manufacturing facilities\nLow-maintenance design ensures dependable long-term performance in demanding professional applications\nDesigned for stability, durability, and reliable electrostatic discharge protection, the ESD Chair CH28B provides a dependable seating solution for workplaces where ergonomic support and ESD safety are essential.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch28b/",
     "slug": "esd-chair-ch28b",
     "image": "PT-ESD-CH28B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH28B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, height-adjustable gas lift, and a durable aluminum alloy base with fixed foot pads, it provides reliable ESD protection, ergonomic comfort, and exceptional stability for precision work.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH30B",
     "name": "ESD Chair CH30B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH30B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU backrest and seat cushion, reinforced metal chassis with back support, height-adjustable gas lift, and a durable aluminum alloy base with fixed foot pads, it provides reliable ESD protection, ergonomic comfort, and exceptional stability for demanding work environments.\nConstruction:\nAnti-static PU backrest\nAnti-static PU seat cushion\nReinforced metal chassis with integrated back support\nHeavy-duty gas lift with 140 mm height adjustment travel\n536 mm aluminum alloy five-star base\nBlack fixed foot pads\nReinforced construction for continuous industrial and laboratory use\nFeatures:\nAnti-static PU backrest and seat cushion safely dissipate static electricity to help protect sensitive electronic components\nErgonomic backrest provides enhanced lumbar support for improved comfort during extended working hours\nReinforced metal chassis offers superior strength, stability, and long-lasting durability\n140 mm gas lift enables smooth and convenient seat height adjustment to accommodate different users and workstation heights\nDurable 536 mm aluminum alloy base ensures excellent stability and dependable performance\nBlack fixed foot pads provide a secure, stationary seating solution for precision and ESD-sensitive workstations\nEasy-to-clean PU surfaces resist stains, chemicals, and everyday wear\nSuitable for ESD-controlled environments, electronics assembly lines, laboratories, cleanrooms, inspection stations, and manufacturing facilities\nLow-maintenance design ensures reliable long-term performance in demanding professional applications\nDesigned for comfort, durability, and dependable electrostatic discharge protection, the ESD Chair CH30B provides a stable and ergonomic seating solution for workplaces where ESD safety and user support are essential.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch30b/",
     "slug": "esd-chair-ch30b",
     "image": "PT-ESD-CH30B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH30B is a professional anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU backrest and seat cushion, reinforced metal chassis with back support, height-adjustable gas lift, and a durable aluminum alloy base with fixed foot pads, it provides reliable ESD protection, ergonomic comfort, and exceptional stability for demanding ",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH32B",
     "name": "ESD Chair CH32B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH32B is an ergonomically designed anti-static chair developed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU backrest and seat cushion, reinforced metal chassis with back support, height-adjustable gas lift, and a durable aluminum alloy base with fixed foot pads, it provides reliable ESD protection, exceptional stability, and long-lasting user comfort.\nConstruction:\nAnti-static PU backrest\nAnti-static PU seat cushion\nReinforced metal chassis with integrated back support\nHeavy-duty gas lift with 140 mm height adjustment travel\n536 mm aluminum alloy five-star base\nBlack fixed foot pads\nDurable construction designed for continuous industrial and laboratory use\nFeatures:\nAnti-static PU backrest and seat cushion safely dissipate static electricity to protect sensitive electronic components\nErgonomic backrest provides enhanced lumbar support and improved seating comfort during extended working hours\nReinforced metal chassis offers superior strength, stability, and durability\n140 mm gas lift allows smooth and convenient seat height adjustment for different users and workstation heights\nDurable 536 mm aluminum alloy base ensures excellent stability and long-term performance\nBlack fixed foot pads provide a secure, non-movable seating solution for precision workstations\nEasy-to-clean PU surfaces resist stains, chemicals, and everyday wear\nSuitable for ESD-controlled environments, electronics assembly lines, laboratories, cleanrooms, inspection stations, and manufacturing facilities\nLow-maintenance design delivers dependable long-term performance in demanding professional applications\nDesigned for comfort, durability, and reliable electrostatic discharge protection, the ESD Chair CH32B is an ideal seating solution for professional environments where ergonomic support, stability, and ESD safety are essential.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch32b/",
     "slug": "esd-chair-ch32b",
     "image": "PT-ESD-CH32B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH32B is an ergonomically designed anti-static chair developed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU backrest and seat cushion, reinforced metal chassis with back support, height-adjustable gas lift, and a durable aluminum alloy base with fixed foot pads, it provides reliable ESD protection, exceptional stability, and long-lasting user comfort.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH33B",
     "name": "ESD Chair CH33B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH33B is a reliable anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, height-adjustable gas lift, and a durable aluminum alloy base, it provides dependable ESD protection, ergonomic comfort, and long-lasting performance for professional workspaces.\nConstruction:\nAnti-static PU seat cushion\nHeavy-duty gas lift with 140 mm height adjustment stroke\n536 mm aluminum alloy five-star base\n50 mm swivel and rolling casters\nReinforced construction for continuous industrial and laboratory use\nFeatures:\nAnti-static PU seat cushion safely dissipates static electricity to protect sensitive electronic components\nErgonomic seat design provides comfortable support during extended working hours\n140 mm gas lift enables smooth seat height adjustment to suit different users and workstation heights\nDurable 536 mm aluminum alloy base delivers excellent stability and long-term durability\n50 mm swivel casters provide smooth mobility and effortless movement across various floor surfaces\n360° swivel function enhances flexibility and workplace efficiency\nEasy-to-clean PU surface resists stains, chemicals, and daily wear\nSuitable for ESD-controlled areas, electronics assembly lines, laboratories, cleanrooms, inspection stations, and manufacturing environments\nLow-maintenance design ensures reliable performance in demanding professional applications\nDesigned for comfort, durability, and electrostatic discharge protection, the ESD Chair CH33B offers a dependable seating solution that supports productivity and safety in ESD-sensitive work environments.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch33b/",
     "slug": "esd-chair-ch33b",
     "image": "PT-ESD-CH33B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH33B is a reliable anti-static seating solution designed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, height-adjustable gas lift, and a durable aluminum alloy base, it provides dependable ESD protection, ergonomic comfort, and long-lasting performance for professional workspaces.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH34B",
     "name": "ESD Chair CH34B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH34B is a durable and ergonomically designed anti-static chair engineered for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, height-adjustable gas lift, and a robust aluminum alloy base, it delivers reliable ESD protection, user comfort, and long-lasting performance.\nConstruction:\nAnti-static PU seat cushion\nHeavy-duty gas lift with 140 mm height adjustment stroke\n536 mm aluminum alloy five-star base\n50 mm swivel and rolling casters\nReinforced construction for continuous industrial and laboratory use\nFeatures:\nAnti-static PU seat cushion safely dissipates static electricity to help protect sensitive electronic components\nErgonomic seating design provides lasting comfort and support during prolonged use\n140 mm gas lift enables smooth and convenient seat height adjustment for different users and workstations\nDurable 536 mm aluminum alloy base ensures excellent stability and strength\n50 mm swivel casters allow smooth mobility and effortless movement across various floor surfaces\n360° swivel function improves flexibility and workplace efficiency\nEasy-to-clean PU surface is resistant to stains, chemicals, and everyday wear\nSuitable for ESD-controlled environments, electronics assembly lines, laboratories, cleanrooms, inspection stations, and manufacturing facilities\nLow-maintenance design provides dependable long-term performance in demanding work environments\nDesigned for comfort, durability, and reliable electrostatic discharge protection, the ESD Chair CH34B is an ideal seating solution for professional environments where safety, mobility, and ergonomic support are essential.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch34b/",
     "slug": "esd-chair-ch34b",
     "image": "PT-ESD-CH34B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH34B is a durable and ergonomically designed anti-static chair engineered for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring an anti-static PU seat cushion, height-adjustable gas lift, and a robust aluminum alloy base, it delivers reliable ESD protection, user comfort, and long-lasting performance.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-ESD-CH35B",
     "name": "ESD Chair CH35B",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "subcategory": "ESD Products",
+    "subcategory": "Cleanroom Furniture & Storage",
     "description": "The ESD Chair CH35B is an ergonomically designed anti-static seating solution developed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring a durable anti-static PU seat, height-adjustable gas lift, and sturdy aluminum alloy base, it provides exceptional comfort, stability, and reliable ESD protection for daily industrial use.\nConstruction:\nAnti-static PU seat cushion\nHeavy-duty gas lift with 140 mm height adjustment stroke\n536 mm aluminum alloy five-star base\n50 mm swivel and rolling casters for smooth mobility\nDurable construction designed for long-term industrial use\nFeatures:\nAnti-static PU seat cushion helps safely dissipate static electricity, protecting sensitive electronic components\nErgonomic seat design provides comfortable support during extended working hours\n140 mm gas lift allows easy seat height adjustment to accommodate different users and workstations\nSturdy 536 mm aluminum alloy base offers excellent stability and durability\n50 mm swivel casters provide smooth movement and easy maneuverability on various floor surfaces\n360° swivel function enhances flexibility and workplace efficiency\nEasy-to-clean PU surface resists stains, chemicals, and daily wear\nSuitable for ESD-protected areas, electronics assembly lines, laboratories, cleanrooms, inspection stations, and manufacturing facilities\nLow-maintenance design ensures reliable long-term performance in demanding work environments\nDesigned for comfort, durability, and electrostatic protection, the ESD Chair CH35B provides a dependable seating solution for professional environments where ESD safety and ergonomic support are essential.",
     "old_url": "https://pandatec.sg/product/esd-chair-ch35b/",
     "slug": "esd-chair-ch35b",
     "image": "PT-ESD-CH35B.jpg",
     "status": "Draft",
     "short_description": "The ESD Chair CH35B is an ergonomically designed anti-static seating solution developed for electronics manufacturing, laboratories, cleanrooms, production facilities, and other electrostatic discharge (ESD) controlled environments. Featuring a durable anti-static PU seat, height-adjustable gas lift, and sturdy aluminum alloy base, it provides exceptional comfort, stability, and reliable ESD protection for daily industrial use.",
-    "level3": "esd-seating"
+    "level3": "esd-seating",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-POD-0001",
@@ -17076,7 +17218,10 @@
     "slug": "lab-steel-wall-bench-h-frame",
     "image": "PT-LAB-0005.jpg",
     "status": "Draft",
-    "short_description": "Lab Steel Wall Bench-H Frame"
+    "short_description": "Lab Steel Wall Bench-H Frame",
+    "also_in": [
+      "cleanroom/cleanroom-furniture-storage/workbenches-work-tables"
+    ]
   },
   {
     "sku": "PT-LAB-0006",
@@ -17089,7 +17234,10 @@
     "slug": "lab-steel-wall-bench-c-frame",
     "image": "PT-LAB-0006.jpg",
     "status": "Draft",
-    "short_description": "Lab Steel Wall Bench-C Frame"
+    "short_description": "Lab Steel Wall Bench-C Frame",
+    "also_in": [
+      "cleanroom/cleanroom-furniture-storage/workbenches-work-tables"
+    ]
   },
   {
     "sku": "PT-LAB-0007",
@@ -17102,7 +17250,10 @@
     "slug": "lab-steel-wall-bench-floor-mounted",
     "image": "PT-LAB-0007.jpg",
     "status": "Draft",
-    "short_description": "Lab Steel Wall Bench-Floor mounted"
+    "short_description": "Lab Steel Wall Bench-Floor mounted",
+    "also_in": [
+      "cleanroom/cleanroom-furniture-storage/workbenches-work-tables"
+    ]
   },
   {
     "sku": "PT-MCB-SKS007-4",
@@ -17700,7 +17851,10 @@
     "slug": "skm-b-work-table-stainless-steel-body",
     "image": "PT-SSF-0003.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Work Table SKH070 is designed for durable and hygienic use in hospitals, laboratories, clinics, and commercial work environments. Built with high-quality stainless steel and a strong structural frame, it provides a stable and easy-to-clean working surface suitable for medical and general applications."
+    "short_description": "The SKM-B Work Table SKH070 is designed for durable and hygienic use in hospitals, laboratories, clinics, and commercial work environments. Built with high-quality stainless steel and a strong structural frame, it provides a stable and easy-to-clean working surface suitable for medical and general applications.",
+    "also_in": [
+      "cleanroom/cleanroom-furniture-storage/workbenches-work-tables"
+    ]
   },
   {
     "sku": "PT-SSF-0004",
@@ -27538,7 +27692,10 @@
     "country": "China",
     "brand": "PANDA COLLECTIONS",
     "image": "/wp-content/uploads/products/PT-SKX-ESD-00006.jpg",
-    "keywords": "ESD bench mat, anti-static table mat Singapore"
+    "keywords": "ESD bench mat, anti-static table mat Singapore",
+    "also_in": [
+      "cleanroom/cleanroom-furniture-storage/esd-floor-bench-mats"
+    ]
   },
   {
     "sku": "PT-SKX-ESD-00007",
@@ -27818,8 +27975,8 @@
     "name": "ESD Round Four-Leg Stools",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "sub_category": "ESD Products > ESD Seating",
-    "subcategory": "ESD Products",
+    "sub_category": "Cleanroom Furniture & Storage > ESD Chairs & Stools",
+    "subcategory": "Cleanroom Furniture & Storage",
     "level3": "esd-seating",
     "slug": "esd-round-four-leg-stools",
     "status": "Active",
@@ -27832,15 +27989,19 @@
     "country": "China",
     "brand": "PANDA COLLECTIONS",
     "image": "/wp-content/uploads/products/PT-SKX-ESD-00020.jpg",
-    "keywords": "ESD stool, anti-static stool Singapore"
+    "keywords": "ESD stool, anti-static stool Singapore",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-SKX-ESD-00021",
     "name": "ESD Plastic Back Chairs",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "sub_category": "ESD Products > ESD Seating",
-    "subcategory": "ESD Products",
+    "sub_category": "Cleanroom Furniture & Storage > ESD Chairs & Stools",
+    "subcategory": "Cleanroom Furniture & Storage",
     "level3": "esd-seating",
     "slug": "esd-plastic-back-chairs",
     "status": "Active",
@@ -27853,15 +28014,19 @@
     "country": "China",
     "brand": "PANDA COLLECTIONS",
     "image": "/wp-content/uploads/products/PT-SKX-ESD-00021.jpg",
-    "keywords": "ESD plastic chair, cleanroom chair Singapore"
+    "keywords": "ESD plastic chair, cleanroom chair Singapore",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-SKX-ESD-00022",
     "name": "ESD Foam Chairs and Stools",
     "category": "Cleanroom & Controlled Environment",
     "category_slug": "cleanroom",
-    "sub_category": "ESD Products > ESD Seating",
-    "subcategory": "ESD Products",
+    "sub_category": "Cleanroom Furniture & Storage > ESD Chairs & Stools",
+    "subcategory": "Cleanroom Furniture & Storage",
     "level3": "esd-seating",
     "slug": "esd-foam-chairs-and-stools",
     "status": "Active",
@@ -27874,7 +28039,11 @@
     "country": "China",
     "brand": "PANDA COLLECTIONS",
     "image": "/wp-content/uploads/products/PT-SKX-ESD-00022.jpg",
-    "keywords": "ESD office chair, anti-static chair Singapore"
+    "keywords": "ESD office chair, anti-static chair Singapore",
+    "also_in": [
+      "furniture-workplace/office-chairs",
+      "cleanroom/esd-products"
+    ]
   },
   {
     "sku": "PT-SKX-ESD-00023",
