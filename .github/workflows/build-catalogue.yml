@@ -1,0 +1,35 @@
+name: Build All products catalogue
+on:
+  push:
+    branches: [main]
+    paths:
+      - product-data.json
+      - 'products/**'
+      - .github/scripts/build_catalogue.py
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: build-catalogue
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Rebuild L1 "All products" grids from product-data.json
+        run: python .github/scripts/build_catalogue.py
+      - name: Commit changes and rebuild GitHub Pages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet; then echo "Catalogue already up to date"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Auto: rebuild All products catalogue"
+          git push
+          gh api -X POST "repos/${{ github.repository }}/pages/builds"
