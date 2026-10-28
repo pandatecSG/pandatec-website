@@ -65,37 +65,177 @@
       {
         "slug": "cleanroom-garments",
         "label": "Cleanroom Garments",
-        "children": []
+        "children": [
+          {
+            "slug": "esd-coveralls-suits",
+            "label": "ESD Coveralls & Suits"
+          },
+          {
+            "slug": "esd-cleanroom-footwear",
+            "label": "ESD Cleanroom Footwear"
+          }
+        ]
       },
       {
         "slug": "cleanroom-gloves",
         "label": "Cleanroom Gloves",
-        "children": []
+        "children": [
+          {
+            "slug": "nitrile-gloves",
+            "label": "Nitrile Gloves"
+          },
+          {
+            "slug": "latex-pvc-gloves",
+            "label": "Latex & PVC Gloves"
+          },
+          {
+            "slug": "assembly-esd-gloves",
+            "label": "Assembly & ESD Gloves"
+          },
+          {
+            "slug": "finger-cots",
+            "label": "Finger Cots"
+          }
+        ]
       },
       {
         "slug": "masks-shoe-covers",
         "label": "Masks & Shoe Covers",
-        "children": []
+        "children": [
+          {
+            "slug": "cleanroom-face-masks",
+            "label": "Cleanroom Face Masks"
+          },
+          {
+            "slug": "kn95-respirator-masks",
+            "label": "KN95 Respirator Masks"
+          },
+          {
+            "slug": "headwear-sleeve-covers",
+            "label": "Headwear & Sleeve Covers"
+          },
+          {
+            "slug": "shoe-covers",
+            "label": "Shoe Covers"
+          }
+        ]
       },
       {
         "slug": "cleanroom-wipes",
         "label": "Cleanroom Wipes",
-        "children": []
+        "children": [
+          {
+            "slug": "cleanroom-wipers",
+            "label": "Cleanroom Wipers"
+          },
+          {
+            "slug": "wiper-rolls-wiping-paper",
+            "label": "Wiper Rolls & Wiping Paper"
+          },
+          {
+            "slug": "cleanroom-swabs",
+            "label": "Cleanroom Swabs"
+          }
+        ]
       },
       {
         "slug": "cleanroom-bags-packaging",
         "label": "Cleanroom Bags & Packaging",
-        "children": []
+        "children": [
+          {
+            "slug": "esd-packaging-materials",
+            "label": "ESD Packaging Materials"
+          },
+          {
+            "slug": "esd-bags-film",
+            "label": "ESD & Cleanroom Bags"
+          },
+          {
+            "slug": "anti-static-foam",
+            "label": "Anti-Static Foam"
+          }
+        ]
       },
       {
         "slug": "esd-products",
         "label": "ESD Products",
-        "children": []
+        "children": [
+          {
+            "slug": "esd-wrist-heel-straps",
+            "label": "Wrist & Heel Straps"
+          },
+          {
+            "slug": "esd-bench-mats-curtains",
+            "label": "Bench Mats & ESD Curtains"
+          },
+          {
+            "slug": "esd-bins-racks-totes",
+            "label": "Bins, Racks & Totes"
+          },
+          {
+            "slug": "esd-tools",
+            "label": "ESD Tools & Dispensers"
+          },
+          {
+            "slug": "esd-seating",
+            "label": "ESD Seating"
+          },
+          {
+            "slug": "ionizers",
+            "label": "Ionizers & Static Eliminators"
+          },
+          {
+            "slug": "esd-test-equipment",
+            "label": "ESD Test Equipment"
+          }
+        ]
       },
       {
         "slug": "cleanroom-furniture-storage",
         "label": "Cleanroom Furniture & Storage",
         "children": []
+      },
+      {
+        "slug": "contamination-control",
+        "label": "Contamination Control",
+        "children": [
+          {
+            "slug": "sticky-mats-rollers",
+            "label": "Sticky Mats & Rollers"
+          },
+          {
+            "slug": "cleanroom-mops",
+            "label": "Cleanroom Mops"
+          }
+        ]
+      },
+      {
+        "slug": "cleanroom-paper-stationery",
+        "label": "Cleanroom Paper & Stationery",
+        "children": []
+      },
+      {
+        "slug": "cleanroom-instruments",
+        "label": "Particle Counters & Instruments",
+        "children": []
+      },
+      {
+        "slug": "dispensing-equipment",
+        "label": "Dispensing Equipment",
+        "children": [
+          {
+            "slug": "dispensers",
+            "label": "Dispensers"
+          },
+          {
+            "slug": "syringes-cartridges",
+            "label": "Syringes, Cartridges & Mixers"
+          },
+          {
+            "slug": "dispensing-tips",
+            "label": "Dispensing Tips"
+          }
+        ]
       }
     ]
   },

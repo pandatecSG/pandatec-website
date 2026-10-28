@@ -1,6 +1,6 @@
 # PANDA COLLECTIONS (PANDATEC PTE. LTD.)
 
-> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 1694 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories and corporate gifting in Singapore. Prices are quoted on request.
+> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 1907 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories and corporate gifting in Singapore. Prices are quoted on request.
 
 - Address: 35 Tannery Road #05-06, Ruby Industrial Complex, Singapore 347740
 - Phone / WhatsApp: +65 8472 6456
@@ -24,14 +24,46 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Pipes](https://pandatec.sg/products/building-infrastructure/pipes/)
   - [Road Traffic Products](https://pandatec.sg/products/building-infrastructure/road-traffic-products/)
   - [Signage](https://pandatec.sg/products/building-infrastructure/signage/): 1 product
-- [Cleanroom Supplies & Consumables in Singapore](https://pandatec.sg/products/cleanroom/)
-  - [Cleanroom Bags Packaging](https://pandatec.sg/products/cleanroom/cleanroom-bags-packaging/)
-  - [Cleanroom Furniture Storage](https://pandatec.sg/products/cleanroom/cleanroom-furniture-storage/)
-  - [Cleanroom Garments](https://pandatec.sg/products/cleanroom/cleanroom-garments/)
-  - [Cleanroom Gloves](https://pandatec.sg/products/cleanroom/cleanroom-gloves/)
-  - [Cleanroom Wipes](https://pandatec.sg/products/cleanroom/cleanroom-wipes/)
-  - [Esd Products](https://pandatec.sg/products/cleanroom/esd-products/): 33 products
-  - [Masks Shoe Covers](https://pandatec.sg/products/cleanroom/masks-shoe-covers/)
+- [Cleanroom Supplies & Consumables in Singapore](https://pandatec.sg/products/cleanroom/): cleanroom consumables, ESD products, particle counters and dispensing equipment
+  - [Cleanroom Wipes](https://pandatec.sg/products/cleanroom/cleanroom-wipes/): 19 products
+    - [Cleanroom Wipers](https://pandatec.sg/products/cleanroom/cleanroom-wipes/cleanroom-wipers/): 8 products
+    - [Wiper Rolls & Wiping Paper](https://pandatec.sg/products/cleanroom/cleanroom-wipes/wiper-rolls-wiping-paper/): 5 products
+    - [Cleanroom Swabs](https://pandatec.sg/products/cleanroom/cleanroom-wipes/cleanroom-swabs/): 6 products
+  - [Cleanroom Gloves](https://pandatec.sg/products/cleanroom/cleanroom-gloves/): 20 products
+    - [Nitrile Gloves](https://pandatec.sg/products/cleanroom/cleanroom-gloves/nitrile-gloves/): 5 products
+    - [Latex & PVC Gloves](https://pandatec.sg/products/cleanroom/cleanroom-gloves/latex-pvc-gloves/): 4 products
+    - [Assembly & ESD Gloves](https://pandatec.sg/products/cleanroom/cleanroom-gloves/assembly-esd-gloves/): 2 products
+    - [Finger Cots](https://pandatec.sg/products/cleanroom/cleanroom-gloves/finger-cots/): 9 products
+  - [Masks & Shoe Covers](https://pandatec.sg/products/cleanroom/masks-shoe-covers/): 18 products
+    - [Cleanroom Face Masks](https://pandatec.sg/products/cleanroom/masks-shoe-covers/cleanroom-face-masks/): 3 products
+    - [KN95 Respirator Masks](https://pandatec.sg/products/cleanroom/masks-shoe-covers/kn95-respirator-masks/): 5 products
+    - [Headwear & Sleeve Covers](https://pandatec.sg/products/cleanroom/masks-shoe-covers/headwear-sleeve-covers/): 7 products
+    - [Shoe Covers](https://pandatec.sg/products/cleanroom/masks-shoe-covers/shoe-covers/): 3 products
+  - [Cleanroom Garments](https://pandatec.sg/products/cleanroom/cleanroom-garments/): 12 products
+    - [ESD Coveralls & Suits](https://pandatec.sg/products/cleanroom/cleanroom-garments/esd-coveralls-suits/): 2 products
+    - [ESD Cleanroom Footwear](https://pandatec.sg/products/cleanroom/cleanroom-garments/esd-cleanroom-footwear/): 10 products
+  - [Contamination Control](https://pandatec.sg/products/cleanroom/contamination-control/): 9 products
+    - [Sticky Mats & Rollers](https://pandatec.sg/products/cleanroom/contamination-control/sticky-mats-rollers/): 7 products
+    - [Cleanroom Mops](https://pandatec.sg/products/cleanroom/contamination-control/cleanroom-mops/): 2 products
+  - [Cleanroom Paper & Stationery](https://pandatec.sg/products/cleanroom/cleanroom-paper-stationery/): 3 products
+  - [Cleanroom Bags & Packaging](https://pandatec.sg/products/cleanroom/cleanroom-bags-packaging/): 9 products
+    - [ESD Packaging Materials](https://pandatec.sg/products/cleanroom/cleanroom-bags-packaging/esd-packaging-materials/): 4 products
+    - [ESD & Cleanroom Bags](https://pandatec.sg/products/cleanroom/cleanroom-bags-packaging/esd-bags-film/): 3 products
+    - [Anti-Static Foam](https://pandatec.sg/products/cleanroom/cleanroom-bags-packaging/anti-static-foam/): 2 products
+  - [ESD Products](https://pandatec.sg/products/cleanroom/esd-products/): 74 products
+    - [Wrist & Heel Straps](https://pandatec.sg/products/cleanroom/esd-products/esd-wrist-heel-straps/): 4 products
+    - [Bench Mats & ESD Curtains](https://pandatec.sg/products/cleanroom/esd-products/esd-bench-mats-curtains/): 2 products
+    - [Bins, Racks & Totes](https://pandatec.sg/products/cleanroom/esd-products/esd-bins-racks-totes/): 5 products
+    - [ESD Tools & Dispensers](https://pandatec.sg/products/cleanroom/esd-products/esd-tools/): 8 products
+    - [ESD Seating](https://pandatec.sg/products/cleanroom/esd-products/esd-seating/): 36 products
+    - [Ionizers & Static Eliminators](https://pandatec.sg/products/cleanroom/esd-products/ionizers/): 13 products
+    - [ESD Test Equipment](https://pandatec.sg/products/cleanroom/esd-products/esd-test-equipment/): 6 products
+  - [Particle Counters & Instruments](https://pandatec.sg/products/cleanroom/cleanroom-instruments/): 7 products
+  - [Dispensing Equipment](https://pandatec.sg/products/cleanroom/dispensing-equipment/): 20 products
+    - [Dispensers](https://pandatec.sg/products/cleanroom/dispensing-equipment/dispensers/): 3 products
+    - [Syringes, Cartridges & Mixers](https://pandatec.sg/products/cleanroom/dispensing-equipment/syringes-cartridges/): 7 products
+    - [Dispensing Tips](https://pandatec.sg/products/cleanroom/dispensing-equipment/dispensing-tips/): 10 products
+  - [Cleanroom Furniture & Storage](https://pandatec.sg/products/cleanroom/cleanroom-furniture-storage/)
 - [Corporate Gifts Supplier in Singapore](https://pandatec.sg/products/corporate-gifts/)
   - [Art & Paintings](https://pandatec.sg/products/corporate-gifts/art-paintings/): 56 products
   - [Corporate Travel Gifts](https://pandatec.sg/products/corporate-gifts/travel-gifts/)
