@@ -402,8 +402,25 @@
       },
       {
         "slug": "luxury-collection",
-        "label": "Luxury Collection",
-        "children": []
+        "label": "Sofas & Lounge Chairs",
+        "children": [
+          {
+            "slug": "sofas",
+            "label": "Sofas"
+          },
+          {
+            "slug": "lounge-chairs",
+            "label": "Lounge Chairs"
+          },
+          {
+            "slug": "coffee-side-tables",
+            "label": "Coffee & Side Tables"
+          },
+          {
+            "slug": "accent-furniture",
+            "label": "Accent Furniture"
+          }
+        ]
       },
       {
         "slug": "dining-furniture",
@@ -574,6 +591,56 @@
           {
             "slug": "nickel-alloy-welding-wire",
             "label": "Nickel Alloy Welding Wire"
+          }
+        ]
+      },
+      {
+        "slug": "instruments-meters",
+        "label": "Instruments & Meters",
+        "children": [
+          {
+            "slug": "pressure-gauges",
+            "label": "Pressure Gauges"
+          },
+          {
+            "slug": "flow-meters",
+            "label": "Flow Meters"
+          },
+          {
+            "slug": "test-measurement",
+            "label": "Test & Measurement"
+          }
+        ]
+      },
+      {
+        "slug": "electric-motors",
+        "label": "Electric Motors",
+        "children": [
+          {
+            "slug": "ac-motors",
+            "label": "AC Motors"
+          },
+          {
+            "slug": "servo-stepper-motors",
+            "label": "Servo & Stepper Motors"
+          },
+          {
+            "slug": "gear-motors",
+            "label": "Gear Motors"
+          }
+        ]
+      },
+      {
+        "slug": "moulds-dies",
+        "label": "Moulds & Dies",
+        "children": [
+          {
+            "slug": "injection-moulds",
+            "label": "Injection Moulds"
+          },
+          {
+            "slug": "stamping-dies",
+            "label": "Stamping Dies"
           }
         ]
       }

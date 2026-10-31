@@ -94,7 +94,11 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Dining Table](https://pandatec.sg/products/furniture-workplace/dining-furniture/dining-table/): 16 products
     - [Plastic Chair](https://pandatec.sg/products/furniture-workplace/dining-furniture/plastic-chair/): 95 products
   - [Hotel Accommodation](https://pandatec.sg/products/furniture-workplace/hotel-accommodation/): 70 products
-  - [Luxury Collection](https://pandatec.sg/products/furniture-workplace/luxury-collection/): 99 products
+  - [Sofas & Lounge Chairs](https://pandatec.sg/products/furniture-workplace/luxury-collection/): 99 products – leather and fabric sofas, lounge chairs, armchairs, coffee and side tables
+    - [Sofas](https://pandatec.sg/products/furniture-workplace/luxury-collection/sofas/): 42 products
+    - [Lounge Chairs](https://pandatec.sg/products/furniture-workplace/luxury-collection/lounge-chairs/): 34 products
+    - [Coffee & Side Tables](https://pandatec.sg/products/furniture-workplace/luxury-collection/coffee-side-tables/): 16 products
+    - [Accent Furniture](https://pandatec.sg/products/furniture-workplace/luxury-collection/accent-furniture/): 7 products
   - [Office Accessories](https://pandatec.sg/products/furniture-workplace/office-accessories/): 28 products
   - [Office Chairs](https://pandatec.sg/products/furniture-workplace/office-chairs/): 162 products
     - [BIFMA Certified](https://pandatec.sg/products/furniture-workplace/office-chairs/bifma-certified/): 55 products
@@ -109,13 +113,13 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Sofa](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/sofa/): 45 products
     - [Table](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/table/): 28 products
     - [Umbrella](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/umbrella/): 32 products
-  - [Reception & Breakout](https://pandatec.sg/products/furniture-workplace/reception-lounge/): 97 products
+  - [Reception & Breakout](https://pandatec.sg/products/furniture-workplace/reception-lounge/): 173 products
     - [Coffee Table](https://pandatec.sg/products/furniture-workplace/reception-lounge/coffee-table/): 51 products
     - [Compressed Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/compressed-sofa/): 11 products
     - [High Back Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/high-back-sofa/): 3 products
-    - [Lounge Chair](https://pandatec.sg/products/furniture-workplace/reception-lounge/lounge-chair/): 14 products
+    - [Lounge Chair](https://pandatec.sg/products/furniture-workplace/reception-lounge/lounge-chair/): 48 products
     - [Modular Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/modular-sofa/): 3 products
-    - [Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/sofa/): 15 products
+    - [Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/sofa/): 57 products
   - [School Furniture](https://pandatec.sg/products/furniture-workplace/school-furniture/): 66 products
   - [System Furniture](https://pandatec.sg/products/furniture-workplace/system-furniture/): 112 products
   - [Office & Pantry Electrical Appliances](https://pandatec.sg/products/industrial-products/facility-appliances/): 35 products
@@ -140,6 +144,17 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Precision Alloys](https://pandatec.sg/products/industrial-products/special-alloys/precision-alloys/): 14 products
     - [Superalloys](https://pandatec.sg/products/industrial-products/special-alloys/superalloys/): 8 products
     - [Nickel Alloy Welding Wire](https://pandatec.sg/products/industrial-products/special-alloys/nickel-alloy-welding-wire/): 7 products
+  - [Instruments & Meters](https://pandatec.sg/products/industrial-products/instruments-meters/) – pressure gauges, flow meters, test & measurement instruments
+    - [Pressure Gauges](https://pandatec.sg/products/industrial-products/instruments-meters/pressure-gauges/)
+    - [Flow Meters](https://pandatec.sg/products/industrial-products/instruments-meters/flow-meters/)
+    - [Test & Measurement](https://pandatec.sg/products/industrial-products/instruments-meters/test-measurement/)
+  - [Electric Motors](https://pandatec.sg/products/industrial-products/electric-motors/) – AC induction motors, servo and stepper motors, gear motors
+    - [AC Motors](https://pandatec.sg/products/industrial-products/electric-motors/ac-motors/)
+    - [Servo & Stepper Motors](https://pandatec.sg/products/industrial-products/electric-motors/servo-stepper-motors/)
+    - [Gear Motors](https://pandatec.sg/products/industrial-products/electric-motors/gear-motors/)
+  - [Moulds & Dies](https://pandatec.sg/products/industrial-products/moulds-dies/) – custom plastic injection moulds and metal stamping dies
+    - [Injection Moulds](https://pandatec.sg/products/industrial-products/moulds-dies/injection-moulds/)
+    - [Stamping Dies](https://pandatec.sg/products/industrial-products/moulds-dies/stamping-dies/)
 - [Industrial Machinery & Automation Equipment in Singapore](https://pandatec.sg/products/machinery-automation/)
   - [Automation Robotics](https://pandatec.sg/products/machinery-automation/automation-robotics/)
   - [Commercial Kitchen Equipment](https://pandatec.sg/products/machinery-automation/commercial-kitchen-equipment/): 39 products
