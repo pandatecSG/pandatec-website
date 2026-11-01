@@ -19,6 +19,7 @@ APPROVED_CATEGORIES = {
     "PPE & Safety",
     "Warehouse & Logistics",
     "Machinery & Automation",
+    "Chemicals & Industrial Chemicals",
 }
 OUTPUT_HEADERS = [
     "PIC", "* SKU / Product ID", "* Product Name", "* Product Category", "Sub Category",

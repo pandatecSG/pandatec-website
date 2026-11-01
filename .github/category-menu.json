@@ -835,5 +835,146 @@
         "children": []
       }
     ]
+  },
+  "chemicals": {
+    "label": "Chemicals & Industrial Chemicals",
+    "children": [
+      {
+        "slug": "plastic-raw-materials-synthetic-resins",
+        "label": "Plastic Raw Materials & Synthetic Resins",
+        "children": [
+          {
+            "slug": "commodity-plastics",
+            "label": "Commodity Plastics"
+          },
+          {
+            "slug": "engineering-plastics",
+            "label": "Engineering Plastics"
+          },
+          {
+            "slug": "compounds-specialty-grades",
+            "label": "Compounds & Specialty Grades"
+          }
+        ]
+      },
+      {
+        "slug": "industrial-solvents-basic-chemicals",
+        "label": "Industrial Solvents & Basic Chemicals",
+        "children": [
+          {
+            "slug": "alcohols-oxygenated-solvents",
+            "label": "Alcohols & Oxygenated Solvents"
+          },
+          {
+            "slug": "ketones-esters",
+            "label": "Ketones & Esters"
+          },
+          {
+            "slug": "aromatic-hydrocarbon-solvents",
+            "label": "Aromatic & Hydrocarbon Solvents"
+          },
+          {
+            "slug": "basic-inorganic-chemicals",
+            "label": "Basic Inorganic Chemicals"
+          }
+        ]
+      },
+      {
+        "slug": "petrochemical-raw-materials",
+        "label": "Petrochemical Raw Materials",
+        "children": [
+          {
+            "slug": "olefin-feedstocks",
+            "label": "Olefin Feedstocks"
+          },
+          {
+            "slug": "aromatics",
+            "label": "Aromatics (BTX)"
+          },
+          {
+            "slug": "gas-based-inorganic-feedstocks",
+            "label": "Ammonia, Ethane & Gas Feedstocks"
+          },
+          {
+            "slug": "petrochemical-intermediates",
+            "label": "Petrochemical Intermediates"
+          }
+        ]
+      },
+      {
+        "slug": "fertilizers-agrochemicals",
+        "label": "Fertilizers & Agrochemicals",
+        "children": [
+          {
+            "slug": "nitrogen-fertilizers",
+            "label": "Nitrogen Fertilizers"
+          },
+          {
+            "slug": "phosphate-fertilizers",
+            "label": "Phosphate Fertilizers"
+          },
+          {
+            "slug": "potash-compound-fertilizers",
+            "label": "Potash & NPK Compound Fertilizers"
+          },
+          {
+            "slug": "agrochemical-raw-materials",
+            "label": "Pesticide & Herbicide Raw Materials"
+          }
+        ]
+      },
+      {
+        "slug": "coatings-resins-adhesive-raw-materials",
+        "label": "Coatings, Resins & Adhesive Raw Materials",
+        "children": [
+          {
+            "slug": "resins-binders",
+            "label": "Resins & Binders"
+          },
+          {
+            "slug": "curing-agents-hardeners",
+            "label": "Curing Agents & Hardeners"
+          },
+          {
+            "slug": "pigments-fillers-additives",
+            "label": "Pigments, Fillers & Additives"
+          },
+          {
+            "slug": "adhesive-sealant-raw-materials",
+            "label": "Adhesive & Sealant Raw Materials"
+          }
+        ]
+      },
+      {
+        "slug": "specialty-industrial-maintenance-chemicals",
+        "label": "Specialty Chemicals & Industrial Consumables",
+        "children": [
+          {
+            "slug": "water-treatment-chemicals",
+            "label": "Water Treatment Chemicals"
+          },
+          {
+            "slug": "industrial-cleaning-chemicals",
+            "label": "Industrial Cleaning Chemicals"
+          },
+          {
+            "slug": "surfactants-additives",
+            "label": "Surfactants & Additives"
+          },
+          {
+            "slug": "metalworking-process-chemicals",
+            "label": "Metalworking Fluids & Process Chemicals"
+          },
+          {
+            "slug": "lubricant-maintenance-additives",
+            "label": "Lubricant Additives"
+          },
+          {
+            "slug": "electronic-semiconductor-chemicals",
+            "label": "Electronic & Semiconductor Chemicals"
+          }
+        ]
+      }
+    ]
   }
 }
