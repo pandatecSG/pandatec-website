@@ -15,3 +15,5 @@ jobs:
         run: python .github/scripts/category_menus.py check
       - name: Cross-listed products must show on every also_in category page
         run: python .github/scripts/cross_listing.py check
+      - name: Every L1 category must have card data, an FAQ entry and an llms.txt entry
+        run: python .github/scripts/site_sync.py check
