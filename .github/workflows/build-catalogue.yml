@@ -5,7 +5,11 @@ on:
     paths:
       - product-data.json
       - 'products/**'
+      - 'product/**'
+      - 'industries/**'
+      - 'services/**'
       - .github/scripts/build_catalogue.py
+      - .github/scripts/build_search_index.py
   workflow_dispatch:
 permissions:
   contents: write
@@ -23,13 +27,16 @@ jobs:
           python-version: '3.12'
       - name: Rebuild L1 "All products" grids from product-data.json
         run: python .github/scripts/build_catalogue.py
+      - name: Rebuild site search index from product-data.json and pages
+        run: python .github/scripts/build_search_index.py
       - name: Commit changes and rebuild GitHub Pages
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if git diff --quiet; then echo "Catalogue already up to date"; exit 0; fi
+          if [ -z "$(git status --porcelain products search-index.json)" ]; then echo "Catalogue and search index already up to date"; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
-          git commit -am "Auto: rebuild All products catalogue"
+          git add -A products search-index.json
+          git commit -m "Auto: rebuild All products catalogue and search index"
           git push
           gh api -X POST "repos/${{ github.repository }}/pages/builds"
