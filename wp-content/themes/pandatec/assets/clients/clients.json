@@ -1,0 +1,287 @@
+[
+  {
+    "name": "P&G",
+    "file": "01-p-g.webp",
+    "alt": "P&G logo"
+  },
+  {
+    "name": "SATS",
+    "file": "02-sats.webp",
+    "alt": "SATS logo"
+  },
+  {
+    "name": "Shell Singapore",
+    "file": "03-shell-singapore.webp",
+    "alt": "Shell Singapore logo"
+  },
+  {
+    "name": "Esso Singapore",
+    "file": "04-esso-singapore.webp",
+    "alt": "Esso Singapore logo"
+  },
+  {
+    "name": "Caltex Singapore",
+    "file": "05-caltex-singapore.webp",
+    "alt": "Caltex Singapore logo"
+  },
+  {
+    "name": "BYD Singapore",
+    "file": "06-byd-singapore.webp",
+    "alt": "BYD Singapore logo"
+  },
+  {
+    "name": "Hazukido Singapore",
+    "file": "07-hazukido-singapore.webp",
+    "alt": "Hazukido Singapore logo"
+  },
+  {
+    "name": "Singapore Red Cross",
+    "file": "08-singapore-red-cross.webp",
+    "alt": "Singapore Red Cross logo"
+  },
+  {
+    "name": "CSCEC",
+    "file": "09-cscec.webp",
+    "alt": "CSCEC logo"
+  },
+  {
+    "name": "NTU Singapore",
+    "file": "10-ntu-singapore.webp",
+    "alt": "NTU Singapore logo"
+  },
+  {
+    "name": "Marcum Asia",
+    "file": "11-marcum-asia.webp",
+    "alt": "Marcum Asia logo"
+  },
+  {
+    "name": "UWCSEA",
+    "file": "12-uwcsea.webp",
+    "alt": "UWCSEA logo"
+  },
+  {
+    "name": "Under Armour",
+    "file": "13-under-armour.webp",
+    "alt": "Under Armour logo"
+  },
+  {
+    "name": "Temasek Polytechnic",
+    "file": "14-temasek-polytechnic.webp",
+    "alt": "Temasek Polytechnic logo"
+  },
+  {
+    "name": "TJ Products & Technology",
+    "file": "15-tj-products-technology.webp",
+    "alt": "TJ Products & Technology logo"
+  },
+  {
+    "name": "Tai Cheong Bakery",
+    "file": "16-tai-cheong-bakery.webp",
+    "alt": "Tai Cheong Bakery logo"
+  },
+  {
+    "name": "SPX Express",
+    "file": "17-spx-express.webp",
+    "alt": "SPX Express logo"
+  },
+  {
+    "name": "SMRT",
+    "file": "18-smrt.webp",
+    "alt": "SMRT logo"
+  },
+  {
+    "name": "SMF Singapore",
+    "file": "19-smf-singapore.webp",
+    "alt": "SMF Singapore logo"
+  },
+  {
+    "name": "Sky Creation",
+    "file": "20-sky-creation.webp",
+    "alt": "Sky Creation logo"
+  },
+  {
+    "name": "Singapore Institute of Technology",
+    "file": "21-singapore-institute-of-technology.webp",
+    "alt": "Singapore Institute of Technology logo"
+  },
+  {
+    "name": "SHATEC",
+    "file": "22-shatec.webp",
+    "alt": "SHATEC logo"
+  },
+  {
+    "name": "SG Diagnostics",
+    "file": "23-sg-diagnostics.webp",
+    "alt": "SG Diagnostics logo"
+  },
+  {
+    "name": "SAESL",
+    "file": "24-saesl.webp",
+    "alt": "SAESL logo"
+  },
+  {
+    "name": "PSA Singapore",
+    "file": "25-psa-singapore.webp",
+    "alt": "PSA Singapore logo"
+  },
+  {
+    "name": "Nanshan Group",
+    "file": "26-nanshan-group.webp",
+    "alt": "Nanshan Group logo"
+  },
+  {
+    "name": "Meiban",
+    "file": "27-meiban.webp",
+    "alt": "Meiban logo"
+  },
+  {
+    "name": "Marina Bay Sands",
+    "file": "28-marina-bay-sands.webp",
+    "alt": "Marina Bay Sands logo"
+  },
+  {
+    "name": "China Unicom",
+    "file": "29-china-unicom.webp",
+    "alt": "China Unicom logo"
+  },
+  {
+    "name": "Lian Beng Group",
+    "file": "30-lian-beng-group.webp",
+    "alt": "Lian Beng Group logo"
+  },
+  {
+    "name": "Koufu",
+    "file": "31-koufu.webp",
+    "alt": "Koufu logo"
+  },
+  {
+    "name": "Innova Medical Group",
+    "file": "32-innova-medical-group.webp",
+    "alt": "Innova Medical Group logo"
+  },
+  {
+    "name": "Embassy of Indonesia (SG)",
+    "file": "33-embassy-of-indonesia-sg.webp",
+    "alt": "Embassy of Indonesia (SG) logo"
+  },
+  {
+    "name": "Hoe Leong Corporation",
+    "file": "34-hoe-leong-corporation.webp",
+    "alt": "Hoe Leong Corporation logo"
+  },
+  {
+    "name": "HDB",
+    "file": "35-hdb.webp",
+    "alt": "HDB logo"
+  },
+  {
+    "name": "Harry's Singapore",
+    "file": "36-harry-s-singapore.webp",
+    "alt": "Harry's Singapore logo"
+  },
+  {
+    "name": "Furama Hotel",
+    "file": "37-furama-hotel.webp",
+    "alt": "Furama Hotel logo"
+  },
+  {
+    "name": "DMC Consulting",
+    "file": "38-dmc-consulting.webp",
+    "alt": "DMC Consulting logo"
+  },
+  {
+    "name": "Defence Collective Singapore",
+    "file": "39-defence-collective-singapore.webp",
+    "alt": "Defence Collective Singapore logo"
+  },
+  {
+    "name": "Cedele Singapore",
+    "file": "40-cedele-singapore.webp",
+    "alt": "Cedele Singapore logo"
+  },
+  {
+    "name": "Bakery Depot",
+    "file": "41-bakery-depot.webp",
+    "alt": "Bakery Depot logo"
+  },
+  {
+    "name": "AWWA",
+    "file": "42-awwa.webp",
+    "alt": "AWWA logo"
+  },
+  {
+    "name": "Sea Limited",
+    "file": "43-sea-limited.webp",
+    "alt": "Sea Limited logo"
+  },
+  {
+    "name": "Shopee",
+    "file": "44-shopee.webp",
+    "alt": "Shopee logo"
+  },
+  {
+    "name": "Turkish Airlines",
+    "file": "45-turkish-airlines.webp",
+    "alt": "Turkish Airlines logo"
+  },
+  {
+    "name": "Geylang Methodist School",
+    "file": "46-geylang-methodist-school.webp",
+    "alt": "Geylang Methodist School logo"
+  },
+  {
+    "name": "National University Hospital",
+    "file": "47-national-university-hospital.webp",
+    "alt": "National University Hospital logo"
+  },
+  {
+    "name": "Ley Choon Group",
+    "file": "48-ley-choon-group.webp",
+    "alt": "Ley Choon Group logo"
+  },
+  {
+    "name": "LionsBot",
+    "file": "49-lionsbot.webp",
+    "alt": "LionsBot logo"
+  },
+  {
+    "name": "ST Engineering",
+    "file": "50-st-engineering.webp",
+    "alt": "ST Engineering logo"
+  },
+  {
+    "name": "CTM Facilities",
+    "file": "51-ctm-facilities.webp",
+    "alt": "CTM Facilities logo"
+  },
+  {
+    "name": "JTC Corporation",
+    "file": "52-jtc-corporation.webp",
+    "alt": "JTC Corporation logo"
+  },
+  {
+    "name": "deugro",
+    "file": "53-deugro.webp",
+    "alt": "deugro logo"
+  },
+  {
+    "name": "Ministry of Manpower",
+    "file": "54-ministry-of-manpower.webp",
+    "alt": "Ministry of Manpower logo"
+  },
+  {
+    "name": "REAYNG Technology",
+    "file": "55-reayng-technology.webp",
+    "alt": "REAYNG Technology logo"
+  },
+  {
+    "name": "Nanas Design & Construction",
+    "file": "56-nanas-design-construction.webp",
+    "alt": "Nanas Design & Construction logo"
+  },
+  {
+    "name": "Canossa Catholic Primary School",
+    "file": "57-canossa-catholic-primary-school.webp",
+    "alt": "Canossa Catholic Primary School logo"
+  }
+]
