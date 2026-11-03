@@ -8,7 +8,7 @@
     "/product-category/school-training/folding-table/": "/products/furniture-workplace/school-furniture/",
     "/product-category/office-chair/": "/products/furniture-workplace/office-chairs/",
     "/product-category/flooring/anti-static-floor-matt-esd/": "/products/cleanroom/cleanroom-furniture-storage/esd-floor-bench-mats/",
-    "/product-category/school-training/canteen-tables-chairs/": "/products/furniture-workplace/dining-furniture/",
+    "/product-category/school-training/canteen-tables-chairs/": "/products/furniture-workplace/school-furniture/",
     "/product-category/light-machinery/welding-machines/": "/products/machinery-automation/welding-machines/",
     "/product-category/system-furniture/cabinet/": "/products/furniture-workplace/system-furniture/",
     "/product-category/laboratory/": "/products/medical-healthcare/laboratory-furniture/",
@@ -35,6 +35,10 @@
     "/product-category/system-furniture/dining-chairs/dining-furniture/dining-chair/": "/products/furniture-workplace/dining-furniture/dining-chair/",
     "/shop/": "/products/",
     "/product-category/office-chair/training-chair/": "/products/furniture-workplace/office-chairs/training-chair/",
-    "/product-category/system-furniture/metal-cabinet-system-furniture/": "/products/furniture-workplace/system-furniture/"
+    "/product-category/system-furniture/metal-cabinet-system-furniture/": "/products/furniture-workplace/system-furniture/",
+    "/blog/how-to-choose-the-best-office-chair-with-an-ergonomic-design-for-all-day-comfort/": "/insights/choosing-an-ergonomic-office-chair/",
+    "/blog/how-to-select-dining-table-sets-that-fit-your-lifestyle-and-interior/": "/insights/choosing-a-dining-table-set/",
+    "/blog/the-complete-guide-to-ergonomic-office-design-in-singapore/": "/insights/ergonomic-office-design-singapore/",
+    "/blog/how-to-design-a-productive-workspace-that-inspires-focus-and-collaboration/": "/insights/ergonomic-office-design-singapore/"
   }
 }

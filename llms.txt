@@ -240,3 +240,9 @@ Every product page lists the product code (PT-…), category path, material, dim
 - [FAQ](https://pandatec.sg/faq/)
 - [Contact](https://pandatec.sg/contact/)
 - [Sitemap](https://pandatec.sg/sitemap.xml)
+
+## Insights & buying guides
+
+- [How to choose an ergonomic office chair for a business](https://pandatec.sg/insights/choosing-an-ergonomic-office-chair/)
+- [How to choose a dining table set for your space](https://pandatec.sg/insights/choosing-a-dining-table-set/)
+- [Ergonomic office design in Singapore: a practical planning guide](https://pandatec.sg/insights/ergonomic-office-design-singapore/)
