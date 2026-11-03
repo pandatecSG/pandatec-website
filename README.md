@@ -12,3 +12,8 @@ To add a new category:
 3. To change a menu label or order, edit `.github/category-menu.json`, then run the build command again.
 
 The GitHub check "Category menu check" runs on every push and fails if a category page has no menu or an outdated menu.
+
+## Old Google URLs (no redirects)
+
+Old WordPress URLs that still get Google impressions are listed in `.github/legacy-pages.json` (`"/old/path/": "/new/path/"`).
+`python .github/scripts/legacy_pages.py build` writes each old URL as a copy of its new page; the copy keeps the new page's canonical link, so Google moves the old URL's ranking to the new page. The copies are not in sitemap.xml or the site search, and the "Build All products catalogue" workflow refreshes them on every push. To add an old URL, add a line to the JSON and run the build command.

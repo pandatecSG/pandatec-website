@@ -12,6 +12,8 @@ on:
       - .github/scripts/build_search_index.py
       - .github/scripts/site_sync.py
       - .github/category-menu.json
+      - .github/legacy-pages.json
+      - .github/scripts/legacy_pages.py
       - index.html
       - 'about-us/**'
       - 'faq/**'
@@ -37,6 +39,8 @@ jobs:
         run: python .github/scripts/site_sync.py build
       - name: Rebuild site search index from product-data.json and pages
         run: python .github/scripts/build_search_index.py
+      - name: Refresh old Google URLs (copies of their new pages, canonical to new page)
+        run: python .github/scripts/legacy_pages.py build
       - name: Commit changes and rebuild GitHub Pages
         env:
           GH_TOKEN: ${{ github.token }}

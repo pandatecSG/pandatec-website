@@ -16,7 +16,8 @@ DATA = ROOT / "product-data.json"
 OUT = ROOT / "search-index.json"
 IMG_DIR = "/wp-content/uploads/products/"
 TEXT_LEN = 260
-PAGE_SKIP = {"product", "wp-content", "product-upload-tool", "review", "sitemap", ".github", ".git"}
+PAGE_SKIP = {"product", "wp-content", "product-upload-tool", "review", "sitemap", ".github", ".git",
+             "product-category", "shop", "our-factory"}  # last three: legacy URL copies (legacy_pages.py)
 
 TITLE_RE = re.compile(r"<title>(.*?)</title>", re.S)
 H1_RE = re.compile(r"<h1[^>]*>(.*?)</h1>", re.S)
