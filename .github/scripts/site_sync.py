@@ -58,7 +58,7 @@ def blocks(cats: list[tuple[str, dict]]) -> dict[str, str]:
     n = len(cats)
     return {
         "l1-cards": "".join(
-            f'<article class="category-card"><img src="{c["card"]["image"]}" alt="" loading="lazy"><div>'
+            f'<article class="category-card"><img src="{c["card"]["image"]}" alt="{html.escape(c["label"])} products supplied by PANDA COLLECTIONS" loading="lazy"><div>'
             f'<span class="category-icon">{c["card"]["icon"]}</span>'
             f'<h3><a href="/products/{s}/">{esc(c["label"])}</a></h3><p>{esc(c["card"]["tagline"])}</p></div></article>'
             for s, c in cats
