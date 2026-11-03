@@ -44,11 +44,13 @@ def main() -> int:
     by_cat: dict[str, list[dict]] = {}
     seen: set[str] = set()
     for p in products:
-        if p["slug"] in seen:
+        if p["slug"] in seen or p.get("listed") is False:  # "listed": false = keep the product page, hide it from category grids (e.g. no photo yet)
             continue
         seen.add(p["slug"])
         by_cat.setdefault(p["category_slug"], []).append(p)
     for p in products:
+        if p.get("listed") is False:
+            continue
         for l1 in {t.strip("/").split("/")[0] for t in p.get("also_in", [])} - {p["category_slug"]}:
             if p not in by_cat.setdefault(l1, []):
                 by_cat[l1].append(p)

@@ -40,7 +40,8 @@ def image_url(value: str) -> str:
     value = (value or "").strip()
     if not value:
         return ""
-    return value if value.startswith("/") else IMG_DIR + value
+    url = value if value.startswith("/") else IMG_DIR + value
+    return url if (ROOT / url.lstrip("/")).is_file() else ""  # no photo yet -> plain placeholder, not a broken image
 
 
 def category_path(p: dict) -> str:
