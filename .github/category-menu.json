@@ -547,6 +547,26 @@
             "label": "Water Purifiers & Dispensers"
           },
           {
+            "slug": "washers-dryers",
+            "label": "Washers & Dryers"
+          },
+          {
+            "slug": "kitchen-appliances",
+            "label": "Kitchen Appliances"
+          },
+          {
+            "slug": "hobs-hoods",
+            "label": "Hobs & Cooker Hoods"
+          },
+          {
+            "slug": "fans-air-coolers",
+            "label": "Fans & Air Coolers"
+          },
+          {
+            "slug": "water-heaters",
+            "label": "Water Heaters"
+          },
+          {
             "slug": "others",
             "label": "Dishwashers & Others"
           }
