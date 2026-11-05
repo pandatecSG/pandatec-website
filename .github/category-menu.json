@@ -582,7 +582,11 @@
           },
           {
             "slug": "crystal-pendant-lights",
-            "label": "Crystal Pendant Lights"
+            "label": "Pendant Lights"
+          },
+          {
+            "slug": "art-glass-installations",
+            "label": "Art Glass Installations"
           },
           {
             "slug": "wall-lamps-sconces",
@@ -591,6 +595,14 @@
           {
             "slug": "table-floor-lamps",
             "label": "Table & Floor Lamps"
+          },
+          {
+            "slug": "led-downlights-spotlights",
+            "label": "LED Downlights & Spotlights"
+          },
+          {
+            "slug": "garden-landscape-lighting",
+            "label": "Garden & Landscape Lighting"
           }
         ]
       },

@@ -138,12 +138,15 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Loft Beds](https://pandatec.sg/products/furniture-workplace/dormitory-furniture/loft-beds/): 2 products
     - [Bunk & Single Beds](https://pandatec.sg/products/furniture-workplace/dormitory-furniture/bunk-single-beds/): 4 products
     - [Barracks Furniture](https://pandatec.sg/products/furniture-workplace/dormitory-furniture/barracks-furniture/): 4 products
-  - [Lighting](https://pandatec.sg/products/furniture-workplace/lighting/): 139 products – crystal chandeliers, crystal ceiling lights, raindrop pendants, wall sconces, table and floor lamps
-    - [Crystal Chandeliers](https://pandatec.sg/products/furniture-workplace/lighting/crystal-chandeliers/): 77 products
-    - [Crystal Ceiling Lights](https://pandatec.sg/products/furniture-workplace/lighting/crystal-ceiling-lights/): 6 products
-    - [Crystal Pendant Lights](https://pandatec.sg/products/furniture-workplace/lighting/crystal-pendant-lights/): 9 products
-    - [Wall Lamps & Sconces](https://pandatec.sg/products/furniture-workplace/lighting/wall-lamps-sconces/): 43 products
-    - [Table & Floor Lamps](https://pandatec.sg/products/furniture-workplace/lighting/table-floor-lamps/): 4 products
+  - [Lighting](https://pandatec.sg/products/furniture-workplace/lighting/): 189 products – crystal chandeliers, crystal ceiling fixtures, pendant lights, art glass, wall sconces, table and floor lamps, LED downlights and spotlights, garden lighting
+    - [Crystal Chandeliers](https://pandatec.sg/products/furniture-workplace/lighting/crystal-chandeliers/): 85 products
+    - [Crystal Ceiling Lights](https://pandatec.sg/products/furniture-workplace/lighting/crystal-ceiling-lights/): 11 products
+    - [Pendant Lights](https://pandatec.sg/products/furniture-workplace/lighting/crystal-pendant-lights/): 11 products
+    - [Art Glass Installations](https://pandatec.sg/products/furniture-workplace/lighting/art-glass-installations/): 3 products
+    - [Wall Lamps & Sconces](https://pandatec.sg/products/furniture-workplace/lighting/wall-lamps-sconces/): 45 products
+    - [Table & Floor Lamps](https://pandatec.sg/products/furniture-workplace/lighting/table-floor-lamps/): 18 products
+    - [LED Downlights & Spotlights](https://pandatec.sg/products/furniture-workplace/lighting/led-downlights-spotlights/): 8 products
+    - [Garden & Landscape Lighting](https://pandatec.sg/products/furniture-workplace/lighting/garden-landscape-lighting/): 8 products
   - [Sofas & Lounge Chairs](https://pandatec.sg/products/furniture-workplace/luxury-collection/): 99 products – leather and fabric sofas, lounge chairs, armchairs, coffee and side tables
     - [Sofas](https://pandatec.sg/products/furniture-workplace/luxury-collection/sofas/): 42 products
     - [Lounge Chairs](https://pandatec.sg/products/furniture-workplace/luxury-collection/lounge-chairs/): 34 products
@@ -156,7 +159,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Mesh Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/mesh-chair/): 11 products
     - [PU/Leather Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/pu-leather-chair/): 29 products
     - [Training Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/training-chair/): 42 products
-  - [Outdoor Furniture](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/): 151 products
+  - [Outdoor Furniture](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/): 159 products
     - [ABS Furniture](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/abs-furniture/): 2 products
     - [Bench](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/bench/): 27 products
     - [Chair / Stool](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/chair-stool/): 17 products
@@ -186,7 +189,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Dishwashers, Dehumidifiers & Other Appliances](https://pandatec.sg/products/industrial-products/facility-appliances/others/): 9 products
 - [Industrial Products & MRO Supplies in Singapore](https://pandatec.sg/products/industrial-products/)
   - [Cleaning Maintenance](https://pandatec.sg/products/industrial-products/cleaning-maintenance/)
-  - [Electrical Accessories](https://pandatec.sg/products/industrial-products/electrical-accessories/)
+  - [Electrical Accessories](https://pandatec.sg/products/industrial-products/electrical-accessories/): 8 products
   - [Fasteners](https://pandatec.sg/products/industrial-products/fasteners/)
   - [Mro Consumables](https://pandatec.sg/products/industrial-products/mro-consumables/)
   - [Safety Storage Cabinets](https://pandatec.sg/products/industrial-products/safety-storage-cabinets/): 17 products
