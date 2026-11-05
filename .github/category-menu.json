@@ -534,6 +534,26 @@
           {
             "slug": "sofa",
             "label": "Sofa"
+          },
+          {
+            "slug": "dining-bar-sets",
+            "label": "Outdoor Dining & Bar Sets"
+          },
+          {
+            "slug": "sun-loungers-daybeds",
+            "label": "Sun Loungers & Daybeds"
+          },
+          {
+            "slug": "hanging-chairs-swings",
+            "label": "Hanging Chairs & Swings"
+          },
+          {
+            "slug": "gazebos-pergolas",
+            "label": "Gazebos & Pergolas"
+          },
+          {
+            "slug": "planters-landscape",
+            "label": "Planters & Landscape Features"
           }
         ]
       },
