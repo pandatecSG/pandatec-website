@@ -164,15 +164,15 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Mesh Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/mesh-chair/): 11 products
     - [PU/Leather Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/pu-leather-chair/): 29 products
     - [Training Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/training-chair/): 40 products
-  - [Outdoor Furniture](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/): 797 products
+  - [Outdoor Furniture](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/): 989 products
     - [ABS Furniture](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/abs-furniture/): 2 products
-    - [Bench](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/bench/): 44 products
-    - [Chair / Stool](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/chair-stool/): 77 products
-    - [Sofa](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/sofa/): 101 products
-    - [Table](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/table/): 86 products
+    - [Bench](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/bench/): 45 products
+    - [Chair / Stool](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/chair-stool/): 126 products
+    - [Sofa](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/sofa/): 114 products
+    - [Table](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/table/): 103 products
     - [Umbrella](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/umbrella/): 51 products
-    - [Outdoor Dining & Bar Sets](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/dining-bar-sets/): 286 products
-    - [Sun Loungers & Daybeds](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/sun-loungers-daybeds/): 85 products
+    - [Outdoor Dining & Bar Sets](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/dining-bar-sets/): 393 products
+    - [Sun Loungers & Daybeds](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/sun-loungers-daybeds/): 90 products
     - [Hanging Chairs & Swings](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/hanging-chairs-swings/): 43 products
     - [Gazebos & Pergolas](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/gazebos-pergolas/): 14 products
     - [Planters & Landscape Features](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/planters-landscape/)
