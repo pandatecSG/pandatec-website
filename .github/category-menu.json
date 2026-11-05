@@ -569,6 +569,32 @@
         ]
       },
       {
+        "slug": "lighting",
+        "label": "Lighting",
+        "children": [
+          {
+            "slug": "crystal-chandeliers",
+            "label": "Crystal Chandeliers"
+          },
+          {
+            "slug": "crystal-ceiling-lights",
+            "label": "Crystal Ceiling Lights"
+          },
+          {
+            "slug": "crystal-pendant-lights",
+            "label": "Crystal Pendant Lights"
+          },
+          {
+            "slug": "wall-lamps-sconces",
+            "label": "Wall Lamps & Sconces"
+          },
+          {
+            "slug": "table-floor-lamps",
+            "label": "Table & Floor Lamps"
+          }
+        ]
+      },
+      {
         "slug": "custom-carpentry",
         "label": "Custom Carpentry",
         "children": []

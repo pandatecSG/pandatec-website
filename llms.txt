@@ -138,6 +138,12 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Loft Beds](https://pandatec.sg/products/furniture-workplace/dormitory-furniture/loft-beds/): 2 products
     - [Bunk & Single Beds](https://pandatec.sg/products/furniture-workplace/dormitory-furniture/bunk-single-beds/): 4 products
     - [Barracks Furniture](https://pandatec.sg/products/furniture-workplace/dormitory-furniture/barracks-furniture/): 4 products
+  - [Lighting](https://pandatec.sg/products/furniture-workplace/lighting/): 139 products – crystal chandeliers, crystal ceiling lights, raindrop pendants, wall sconces, table and floor lamps
+    - [Crystal Chandeliers](https://pandatec.sg/products/furniture-workplace/lighting/crystal-chandeliers/): 77 products
+    - [Crystal Ceiling Lights](https://pandatec.sg/products/furniture-workplace/lighting/crystal-ceiling-lights/): 6 products
+    - [Crystal Pendant Lights](https://pandatec.sg/products/furniture-workplace/lighting/crystal-pendant-lights/): 9 products
+    - [Wall Lamps & Sconces](https://pandatec.sg/products/furniture-workplace/lighting/wall-lamps-sconces/): 43 products
+    - [Table & Floor Lamps](https://pandatec.sg/products/furniture-workplace/lighting/table-floor-lamps/): 4 products
   - [Sofas & Lounge Chairs](https://pandatec.sg/products/furniture-workplace/luxury-collection/): 99 products – leather and fabric sofas, lounge chairs, armchairs, coffee and side tables
     - [Sofas](https://pandatec.sg/products/furniture-workplace/luxury-collection/sofas/): 42 products
     - [Lounge Chairs](https://pandatec.sg/products/furniture-workplace/luxury-collection/lounge-chairs/): 34 products
