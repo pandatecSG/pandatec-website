@@ -447,6 +447,10 @@
           {
             "slug": "accent-furniture",
             "label": "Accent Furniture"
+          },
+          {
+            "slug": "tea-room-furniture",
+            "label": "Tea Tables & Tea Room Furniture"
           }
         ]
       },

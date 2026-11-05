@@ -151,11 +151,12 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Table & Floor Lamps](https://pandatec.sg/products/furniture-workplace/lighting/table-floor-lamps/): 18 products
     - [LED Downlights & Spotlights](https://pandatec.sg/products/furniture-workplace/lighting/led-downlights-spotlights/): 8 products
     - [Garden & Landscape Lighting](https://pandatec.sg/products/furniture-workplace/lighting/garden-landscape-lighting/): 8 products
-  - [Sofas & Lounge Chairs](https://pandatec.sg/products/furniture-workplace/luxury-collection/): 243 products – leather and fabric sofas, lounge chairs, armchairs, coffee and side tables
+  - [Sofas & Lounge Chairs](https://pandatec.sg/products/furniture-workplace/luxury-collection/): 492 products – leather and fabric sofas, lounge chairs, armchairs, coffee and side tables, Chinese tea tables and tea room furniture
     - [Sofas](https://pandatec.sg/products/furniture-workplace/luxury-collection/sofas/): 42 products
     - [Lounge Chairs](https://pandatec.sg/products/furniture-workplace/luxury-collection/lounge-chairs/): 34 products
-    - [Coffee & Side Tables](https://pandatec.sg/products/furniture-workplace/luxury-collection/coffee-side-tables/): 160 products
+    - [Coffee & Side Tables](https://pandatec.sg/products/furniture-workplace/luxury-collection/coffee-side-tables/): 177 products
     - [Accent Furniture](https://pandatec.sg/products/furniture-workplace/luxury-collection/accent-furniture/): 7 products
+    - [Tea Tables & Tea Room Furniture](https://pandatec.sg/products/furniture-workplace/luxury-collection/tea-room-furniture/): 232 products
   - [Office Accessories](https://pandatec.sg/products/furniture-workplace/office-accessories/): 28 products
   - [Office Chairs](https://pandatec.sg/products/furniture-workplace/office-chairs/): 196 products
     - [BIFMA Certified](https://pandatec.sg/products/furniture-workplace/office-chairs/bifma-certified/): 55 products
@@ -170,8 +171,8 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Sofa](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/sofa/): 45 products
     - [Table](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/table/): 28 products
     - [Umbrella](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/umbrella/): 32 products
-  - [Reception & Breakout](https://pandatec.sg/products/furniture-workplace/reception-lounge/): 381 products
-    - [Coffee Table](https://pandatec.sg/products/furniture-workplace/reception-lounge/coffee-table/): 195 products
+  - [Reception & Breakout](https://pandatec.sg/products/furniture-workplace/reception-lounge/): 398 products
+    - [Coffee Table](https://pandatec.sg/products/furniture-workplace/reception-lounge/coffee-table/): 212 products
     - [Compressed Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/compressed-sofa/): 11 products
     - [High Back Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/high-back-sofa/): 3 products
     - [Lounge Chair](https://pandatec.sg/products/furniture-workplace/reception-lounge/lounge-chair/): 48 products
