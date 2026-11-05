@@ -939,7 +939,28 @@
       {
         "slug": "medical-consumables",
         "label": "Medical Consumables",
-        "children": []
+        "children": [
+          {
+            "slug": "face-masks-respirators",
+            "label": "Face Masks & Respirators"
+          },
+          {
+            "slug": "protective-apparel",
+            "label": "Protective Apparel & PPE"
+          },
+          {
+            "slug": "surgical-packs-drapes",
+            "label": "Surgical Packs & Drapes"
+          },
+          {
+            "slug": "dental-wound-care",
+            "label": "Dental & Wound Care"
+          },
+          {
+            "slug": "hygiene-disinfection",
+            "label": "Hygiene & Disinfection"
+          }
+        ]
       }
     ]
   },
