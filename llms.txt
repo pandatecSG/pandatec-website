@@ -223,8 +223,17 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Sanding Grinding Machines](https://pandatec.sg/products/machinery-automation/sanding-grinding-machines/)
   - [Welding Machines](https://pandatec.sg/products/machinery-automation/welding-machines/): 4 products
 - [Medical Furniture & Healthcare Equipment Supplier in Singapore](https://pandatec.sg/products/medical-healthcare/)
+  - [Aged Care & Nursing](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/): 86 products – nursing beds, lift recliners and transfer aids, aged-care furniture, bathroom safety, smart safety sensors, mobility aids, rehabilitation and recreation equipment
+    - [Lift Chairs & Transfer Aids](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/lift-chairs-transfer-aids/): 7 products
+    - [Nursing Beds](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/nursing-beds/): 10 products
+    - [Aged-Care Furniture](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/aged-care-furniture/): 20 products
+    - [Bedroom & Bathroom Safety](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/bedroom-bathroom-safety/): 15 products
+    - [Daily Living & Smart Safety](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/daily-living-smart-safety/): 8 products
+    - [Mobility & Walking Aids](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/mobility-walking-aids/): 8 products
+    - [Rehabilitation & Care Aids](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/rehabilitation-care-aids/): 8 products
+    - [Recreation & Cognitive Games](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/recreation-games/): 10 products
   - [Examination Treatment Tables](https://pandatec.sg/products/medical-healthcare/examination-treatment-tables/): 20 products
-  - [Hospital Beds](https://pandatec.sg/products/medical-healthcare/hospital-beds/): 41 products
+  - [Hospital Beds](https://pandatec.sg/products/medical-healthcare/hospital-beds/): 51 products
   - [Laboratory Furniture](https://pandatec.sg/products/medical-healthcare/laboratory-furniture/): 7 products
   - [Medical Cabinets](https://pandatec.sg/products/medical-healthcare/medical-cabinets/): 16 products
   - [Medical Consumables](https://pandatec.sg/products/medical-healthcare/medical-consumables/): 10 products
@@ -232,7 +241,7 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Stainless Steel Furniture](https://pandatec.sg/products/medical-healthcare/stainless-steel-furniture/): 51 products
   - [Stretchers](https://pandatec.sg/products/medical-healthcare/stretchers/): 25 products
   - [Waiting Chairs](https://pandatec.sg/products/medical-healthcare/waiting-chairs/): 13 products
-  - [Wheelchairs Stools](https://pandatec.sg/products/medical-healthcare/wheelchairs-stools/): 8 products
+  - [Wheelchairs Stools](https://pandatec.sg/products/medical-healthcare/wheelchairs-stools/): 11 products
 - [PPE & Safety Equipment Supplier in Singapore](https://pandatec.sg/products/ppe-safety/)
   - [Eye Face Protection](https://pandatec.sg/products/ppe-safety/eye-face-protection/)
   - [Fall Protection](https://pandatec.sg/products/ppe-safety/fall-protection/)

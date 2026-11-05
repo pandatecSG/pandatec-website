@@ -859,6 +859,44 @@
         "children": []
       },
       {
+        "slug": "aged-care-nursing",
+        "label": "Aged Care & Nursing",
+        "children": [
+          {
+            "slug": "lift-chairs-transfer-aids",
+            "label": "Lift Chairs & Transfer Aids"
+          },
+          {
+            "slug": "nursing-beds",
+            "label": "Nursing Beds"
+          },
+          {
+            "slug": "aged-care-furniture",
+            "label": "Aged-Care Furniture"
+          },
+          {
+            "slug": "bedroom-bathroom-safety",
+            "label": "Bedroom & Bathroom Safety"
+          },
+          {
+            "slug": "daily-living-smart-safety",
+            "label": "Daily Living & Smart Safety"
+          },
+          {
+            "slug": "mobility-walking-aids",
+            "label": "Mobility & Walking Aids"
+          },
+          {
+            "slug": "rehabilitation-care-aids",
+            "label": "Rehabilitation & Care Aids"
+          },
+          {
+            "slug": "recreation-games",
+            "label": "Recreation & Cognitive Games"
+          }
+        ]
+      },
+      {
         "slug": "medical-trolleys-carts",
         "label": "Medical Trolleys & Carts",
         "children": []
