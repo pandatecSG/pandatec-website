@@ -962,7 +962,32 @@
       {
         "slug": "carts-trolleys",
         "label": "Carts & Trolleys",
-        "children": []
+        "children": [
+          {
+            "slug": "shopping-trolleys",
+            "label": "Shopping Trolleys"
+          },
+          {
+            "slug": "platform-trolleys",
+            "label": "Platform Trolleys"
+          },
+          {
+            "slug": "wire-shelf-trolleys",
+            "label": "Wire Shelf Trolleys"
+          },
+          {
+            "slug": "roll-cages",
+            "label": "Roll Cages"
+          },
+          {
+            "slug": "tool-carts",
+            "label": "Tool Carts"
+          },
+          {
+            "slug": "medical-hospital-trolleys",
+            "label": "Medical & Hospital Trolleys"
+          }
+        ]
       },
       {
         "slug": "pallets-packaging",

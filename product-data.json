@@ -18403,7 +18403,10 @@
     "slug": "tool-cart-2",
     "image": "PT-WSE-0002.jpg",
     "status": "Draft",
-    "short_description": "The tool cart is designed for efficient tool storage and easy mobility in workshops, production areas, and maintenance environments. Built with a sturdy frame and smooth mobility, it helps improve organisation and workflow efficiency."
+    "short_description": "The tool cart is designed for efficient tool storage and easy mobility in workshops, production areas, and maintenance environments. Built with a sturdy frame and smooth mobility, it helps improve organisation and workflow efficiency.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/tool-carts"
+    ]
   },
   {
     "sku": "PT-WSE-0003",
@@ -18416,7 +18419,10 @@
     "slug": "tool-cart",
     "image": "PT-WSE-0003.jpg",
     "status": "Draft",
-    "short_description": "The Tool Cart is designed for efficient tool storage and easy mobility in workshops, production areas, and maintenance environments. Built with a sturdy frame and smooth-rolling mobility, it helps improve organisation and workflow efficiency."
+    "short_description": "The Tool Cart is designed for efficient tool storage and easy mobility in workshops, production areas, and maintenance environments. Built with a sturdy frame and smooth-rolling mobility, it helps improve organisation and workflow efficiency.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/tool-carts"
+    ]
   },
   {
     "sku": "PT-WSE-0004",
@@ -18494,7 +18500,10 @@
     "slug": "three-drawer-heavy-duty-tool-cart-kh03",
     "image": "PT-WSE-KH03.jpg",
     "status": "Draft",
-    "short_description": "The Three-Drawer Heavy-Duty Tool Cart KH03 is designed for efficient tool storage and mobility in workshops, factories, and maintenance environments. Built with a strong structure and practical compartment design, it provides reliable organisation and easy access to tools."
+    "short_description": "The Three-Drawer Heavy-Duty Tool Cart KH03 is designed for efficient tool storage and mobility in workshops, factories, and maintenance environments. Built with a strong structure and practical compartment design, it provides reliable organisation and easy access to tools.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/tool-carts"
+    ]
   },
   {
     "sku": "PT-WSE-KH07",
@@ -18507,7 +18516,10 @@
     "slug": "seven-drawer-heavy-duty-tool-cart-kh07",
     "image": "PT-WSE-KH07.jpg",
     "status": "Draft",
-    "short_description": "The Seven-Drawer Heavy-Duty Tool Cart KH07 is designed for industrial-grade tool storage and mobility in workshops, factories, and maintenance environments. Built with a strong frame and anti-tip safety design, it ensures stability, durability, and efficient tool organisation."
+    "short_description": "The Seven-Drawer Heavy-Duty Tool Cart KH07 is designed for industrial-grade tool storage and mobility in workshops, factories, and maintenance environments. Built with a strong frame and anti-tip safety design, it ensures stability, durability, and efficient tool organisation.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/tool-carts"
+    ]
   },
   {
     "sku": "PT-WSE-0001",
@@ -20298,7 +20310,10 @@
     "slug": "skm-a-new-all-in-one-computer-cart",
     "image": "PT-MTC-0001.jpg",
     "status": "Draft",
-    "short_description": "Key Features & Technical Parameters"
+    "short_description": "Key Features & Technical Parameters",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0021",
@@ -20311,7 +20326,10 @@
     "slug": "information-nursing-cart",
     "image": "PT-MTC-0021.jpg",
     "status": "Draft",
-    "short_description": "The Information Nursing Cart SKR-R01 is designed to streamline nursing workflows by combining secure medication storage with mobile computer support. Ideal for hospitals, clinics, and healthcare facilities, it features a durable medical-grade construction, organised drawer system, and compact mobile design for efficient bedside documentation and medication management."
+    "short_description": "The Information Nursing Cart SKR-R01 is designed to streamline nursing workflows by combining secure medication storage with mobile computer support. Ideal for hospitals, clinics, and healthcare facilities, it features a durable medical-grade construction, organised drawer system, and compact mobile design for efficient bedside documentation and medication management.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0022",
@@ -20324,7 +20342,10 @@
     "slug": "mobile-multi-function-information-search-cart",
     "image": "PT-MTC-0022.jpg",
     "status": "Draft",
-    "short_description": "The Mobile Multi-Function Information Search Cart SKR-R02 is designed to provide healthcare professionals with a flexible and mobile workstation for accessing patient information, documentation, and clinical applications. Featuring an ergonomic height-adjustable design, durable medical-grade construction, and optional accessories, it enhances workflow efficiency in hospitals, clinics, and healthcare facilities."
+    "short_description": "The Mobile Multi-Function Information Search Cart SKR-R02 is designed to provide healthcare professionals with a flexible and mobile workstation for accessing patient information, documentation, and clinical applications. Featuring an ergonomic height-adjustable design, durable medical-grade construction, and optional accessories, it enhances workflow efficiency in hospitals, clinics, and healthcare facilities.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0023",
@@ -20337,7 +20358,10 @@
     "slug": "ward-rounds-cart",
     "image": "PT-MTC-0023.jpg",
     "status": "Draft",
-    "short_description": "The Ward Rounds Cart SKR-R04 is designed to provide healthcare professionals with a compact and mobile workstation for ward rounds, patient documentation, and information access. Featuring a height-adjustable work surface, durable aluminium construction, and smooth mobility, it enhances efficiency and convenience in hospitals and healthcare facilities."
+    "short_description": "The Ward Rounds Cart SKR-R04 is designed to provide healthcare professionals with a compact and mobile workstation for ward rounds, patient documentation, and information access. Featuring a height-adjustable work surface, durable aluminium construction, and smooth mobility, it enhances efficiency and convenience in hospitals and healthcare facilities.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0024",
@@ -20350,7 +20374,10 @@
     "slug": "laptop-cart",
     "image": "PT-MTC-0024.jpg",
     "status": "Draft",
-    "short_description": "The Laptop Cart SKR-R03 is designed to provide a compact and ergonomic mobile workstation for hospitals, clinics, and healthcare facilities. Featuring a height-adjustable work surface, integrated keyboard tray, and durable aluminium construction, it enables healthcare professionals to access patient information and complete documentation efficiently at the point of care."
+    "short_description": "The Laptop Cart SKR-R03 is designed to provide a compact and ergonomic mobile workstation for hospitals, clinics, and healthcare facilities. Featuring a height-adjustable work surface, integrated keyboard tray, and durable aluminium construction, it enables healthcare professionals to access patient information and complete documentation efficiently at the point of care.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0025",
@@ -20363,7 +20390,10 @@
     "slug": "tablet-cart",
     "image": "PT-MTC-0025.jpg",
     "status": "Draft",
-    "short_description": "The Tablet Cart SKR-R05 is a lightweight and compact mobile workstation designed for healthcare professionals to access electronic medical records, patient information, and clinical applications using a tablet device. Its durable aluminium construction, height-adjustable design, and smooth mobility make it ideal for hospitals, clinics, and healthcare facilities."
+    "short_description": "The Tablet Cart SKR-R05 is a lightweight and compact mobile workstation designed for healthcare professionals to access electronic medical records, patient information, and clinical applications using a tablet device. Its durable aluminium construction, height-adjustable design, and smooth mobility make it ideal for hospitals, clinics, and healthcare facilities.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0026",
@@ -20376,7 +20406,10 @@
     "slug": "monitor-cart",
     "image": "PT-MTC-0026.jpg",
     "status": "Draft",
-    "short_description": "The Monitor Cart SKR-R06 is a lightweight and mobile solution designed for securely supporting medical monitors and display devices in hospitals, clinics, and healthcare facilities. Built with premium aviation-grade aluminium alloy, it offers durability, stability, and smooth mobility for point-of-care monitoring and information display."
+    "short_description": "The Monitor Cart SKR-R06 is a lightweight and mobile solution designed for securely supporting medical monitors and display devices in hospitals, clinics, and healthcare facilities. Built with premium aviation-grade aluminium alloy, it offers durability, stability, and smooth mobility for point-of-care monitoring and information display.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0027",
@@ -20389,7 +20422,10 @@
     "slug": "skm-a-endoscopic-system-equipment-cart",
     "image": "PT-MTC-0027.jpg",
     "status": "Draft",
-    "short_description": "The SKM-A Endoscopic System Equipment Cart SKR-J21 is designed to provide a stable and flexible platform for endoscopic systems and medical equipment in hospitals, clinics, and operating theatres. Featuring adjustable shelving, an integrated monitor arm, and organised cable management, it ensures efficient equipment setup and mobility for clinical procedures."
+    "short_description": "The SKM-A Endoscopic System Equipment Cart SKR-J21 is designed to provide a stable and flexible platform for endoscopic systems and medical equipment in hospitals, clinics, and operating theatres. Featuring adjustable shelving, an integrated monitor arm, and organised cable management, it ensures efficient equipment setup and mobility for clinical procedures.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0028",
@@ -20402,7 +20438,10 @@
     "slug": "ecg-monitor-cart",
     "image": "PT-MTC-0028.jpg",
     "status": "Draft",
-    "short_description": "ECG Monitor Cart SKR-R10"
+    "short_description": "ECG Monitor Cart SKR-R10",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0029",
@@ -20415,7 +20454,10 @@
     "slug": "skm-a-simple-all-in-one-computer-cart",
     "image": "PT-MTC-0029.jpg",
     "status": "Draft",
-    "short_description": "The SKM-A Simple All-in-One Computer Cart SKR-A01 is a compact and mobile workstation designed to support 22-inch all-in-one computers in hospitals, clinics, and healthcare facilities. With an ergonomic layout, integrated storage, and built-in power management, it provides healthcare professionals with convenient access to electronic medical records and clinical applications."
+    "short_description": "The SKM-A Simple All-in-One Computer Cart SKR-A01 is a compact and mobile workstation designed to support 22-inch all-in-one computers in hospitals, clinics, and healthcare facilities. With an ergonomic layout, integrated storage, and built-in power management, it provides healthcare professionals with convenient access to electronic medical records and clinical applications.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0002",
@@ -20428,7 +20470,10 @@
     "slug": "skm-b-emergency-trolley",
     "image": "PT-MTC-0002.jpg",
     "status": "Draft",
-    "short_description": "SKM-B Emergency trolley"
+    "short_description": "SKM-B Emergency trolley",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0003",
@@ -20441,7 +20486,10 @@
     "slug": "emergency-trolley",
     "image": "PT-MTC-0003.jpg",
     "status": "Draft",
-    "short_description": "Emergency trolley"
+    "short_description": "Emergency trolley",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0004",
@@ -20454,7 +20502,10 @@
     "slug": "skm-b-oxygen-bottle-trolley",
     "image": "PT-MTC-0004.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Oxygen Bottle Trolley SKH048 is designed for the safe and convenient transportation of oxygen and gas cylinders in hospitals, clinics, and healthcare facilities. Built with a strong MS body frame and smooth-rolling castors, it ensures stability, durability, and ease of movement during daily medical operations."
+    "short_description": "The SKM-B Oxygen Bottle Trolley SKH048 is designed for the safe and convenient transportation of oxygen and gas cylinders in hospitals, clinics, and healthcare facilities. Built with a strong MS body frame and smooth-rolling castors, it ensures stability, durability, and ease of movement during daily medical operations.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0005",
@@ -20467,7 +20518,10 @@
     "slug": "skm-b-wet-linen-trolley",
     "image": "PT-MTC-0005.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Wet Linen Trolley SKH105 is designed for efficient collection and transport of wet or soiled linen in hospitals, clinics, and healthcare facilities. Built with a durable stainless steel frame and HDPE container, it offers excellent waterproof and chemical-resistant performance for hygienic operations."
+    "short_description": "The SKM-B Wet Linen Trolley SKH105 is designed for efficient collection and transport of wet or soiled linen in hospitals, clinics, and healthcare facilities. Built with a durable stainless steel frame and HDPE container, it offers excellent waterproof and chemical-resistant performance for hygienic operations.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0006",
@@ -20480,7 +20534,10 @@
     "slug": "5724",
     "image": "PT-MTC-0006.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Laundry Trolleys series is designed for efficient collection, transport, and management of laundry in hospitals, clinics, hotels, and healthcare facilities. Built with durable stainless steel structures and smooth-rolling castors, these trolleys ensure hygiene, stability, and easy operation in daily use."
+    "short_description": "The SKM-B Laundry Trolleys series is designed for efficient collection, transport, and management of laundry in hospitals, clinics, hotels, and healthcare facilities. Built with durable stainless steel structures and smooth-rolling castors, these trolleys ensure hygiene, stability, and easy operation in daily use.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0007",
@@ -20493,7 +20550,10 @@
     "slug": "skm-b-case-history-trolley",
     "image": "PT-MTC-0007.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Case History Trolley SKR021-5 is designed for efficient storage, organisation, and transport of patient medical records in hospitals and healthcare facilities. Built with durable ABS engineering plastic, it provides a lightweight, wear-resistant, and easy-to-clean solution for daily clinical record management."
+    "short_description": "The SKM-B Case History Trolley SKR021-5 is designed for efficient storage, organisation, and transport of patient medical records in hospitals and healthcare facilities. Built with durable ABS engineering plastic, it provides a lightweight, wear-resistant, and easy-to-clean solution for daily clinical record management.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0008",
@@ -20506,7 +20566,10 @@
     "slug": "5720",
     "image": "PT-MTC-0008.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Clinical Trolley SKR-CT601 is designed to support efficient clinical operations in hospitals, clinics, and healthcare environments. With a multifunctional layout and multiple storage compartments, it allows organised placement of medical instruments, consumables, and waste disposal items, improving workflow efficiency and hygiene control."
+    "short_description": "The SKM-B Clinical Trolley SKR-CT601 is designed to support efficient clinical operations in hospitals, clinics, and healthcare environments. With a multifunctional layout and multiple storage compartments, it allows organised placement of medical instruments, consumables, and waste disposal items, improving workflow efficiency and hygiene control.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0009",
@@ -20519,7 +20582,10 @@
     "slug": "skm-b-clinical-trolley-4",
     "image": "PT-MTC-0009.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Clinical Trolley SKR-CT232 is designed for efficient organisation and mobility in hospitals, clinics, and healthcare environments. Built with a combination of plastic, aluminium, and steel structure, it provides strong load-bearing capacity, durability, and smooth operation for daily clinical use."
+    "short_description": "The SKM-B Clinical Trolley SKR-CT232 is designed for efficient organisation and mobility in hospitals, clinics, and healthcare environments. Built with a combination of plastic, aluminium, and steel structure, it provides strong load-bearing capacity, durability, and smooth operation for daily clinical use.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0010",
@@ -20532,7 +20598,10 @@
     "slug": "skm-b-clinical-trolley-3",
     "image": "PT-MTC-0010.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Clinical Trolley SKR-MT606 is designed for efficient storage and transport of medical supplies in hospitals, clinics, and healthcare environments. With a multi-drawer configuration and organised storage layout, it supports fast clinical workflow and hygienic operation in daily medical use."
+    "short_description": "The SKM-B Clinical Trolley SKR-MT606 is designed for efficient storage and transport of medical supplies in hospitals, clinics, and healthcare environments. With a multi-drawer configuration and organised storage layout, it supports fast clinical workflow and hygienic operation in daily medical use.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0011",
@@ -20545,7 +20614,10 @@
     "slug": "skm-b-clinical-trolley-2",
     "image": "PT-MTC-0011.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Clinical Trolley SKR-CT600 is designed for efficient organisation and mobility in hospitals, clinics, and healthcare environments. Built with a practical storage layout and durable construction, it supports smooth clinical workflow and hygienic handling of medical supplies and instruments."
+    "short_description": "The SKM-B Clinical Trolley SKR-CT600 is designed for efficient organisation and mobility in hospitals, clinics, and healthcare environments. Built with a practical storage layout and durable construction, it supports smooth clinical workflow and hygienic handling of medical supplies and instruments.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0012",
@@ -20558,7 +20630,10 @@
     "slug": "skm-b-clinical-trolley",
     "image": "PT-MTC-0012.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Clinical Trolley SKR-CT625-1 is designed for efficient storage, organisation, and mobility in hospitals, clinics, and healthcare environments. Built with a combination of aluminium, steel, and ABS engineering plastic, it offers strong load-bearing performance, durability, and hygienic usability for daily clinical operations."
+    "short_description": "The SKM-B Clinical Trolley SKR-CT625-1 is designed for efficient storage, organisation, and mobility in hospitals, clinics, and healthcare environments. Built with a combination of aluminium, steel, and ABS engineering plastic, it offers strong load-bearing performance, durability, and hygienic usability for daily clinical operations.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0013",
@@ -20571,7 +20646,10 @@
     "slug": "skm-b-medicine-trolley",
     "image": "PT-MTC-0013.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Medicine Trolley SKR-MT625 is designed for efficient medication storage, distribution, and clinical workflow support in hospitals, clinics, and healthcare environments. Built with a durable aluminium, steel, and ABS engineering plastic structure, it ensures stability, hygiene, and smooth mobility for daily medical operations."
+    "short_description": "The SKM-B Medicine Trolley SKR-MT625 is designed for efficient medication storage, distribution, and clinical workflow support in hospitals, clinics, and healthcare environments. Built with a durable aluminium, steel, and ABS engineering plastic structure, it ensures stability, hygiene, and smooth mobility for daily medical operations.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0014",
@@ -20584,7 +20662,10 @@
     "slug": "skm-b-anesthesia-trolley",
     "image": "PT-MTC-0014.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Anesthesia Trolley SKR-AT625-1 is designed for efficient organisation and transport of anaesthesia and clinical supplies in hospitals and operating environments. Built with a durable aluminium, steel, and ABS engineering plastic structure, it ensures stability, hygiene, and smooth mobility for critical medical procedures."
+    "short_description": "The SKM-B Anesthesia Trolley SKR-AT625-1 is designed for efficient organisation and transport of anaesthesia and clinical supplies in hospitals and operating environments. Built with a durable aluminium, steel, and ABS engineering plastic structure, it ensures stability, hygiene, and smooth mobility for critical medical procedures.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0015",
@@ -20597,7 +20678,10 @@
     "slug": "skm-b-emergency-trolley-4",
     "image": "PT-MTC-0015.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Emergency Trolley SKR-ET625 is designed for rapid response and efficient organisation of emergency medical equipment in hospitals, clinics, and critical care environments. Built with a durable aluminium, steel, and ABS engineering plastic structure, it provides high stability, functionality, and smooth mobility for emergency situations."
+    "short_description": "The SKM-B Emergency Trolley SKR-ET625 is designed for rapid response and efficient organisation of emergency medical equipment in hospitals, clinics, and critical care environments. Built with a durable aluminium, steel, and ABS engineering plastic structure, it provides high stability, functionality, and smooth mobility for emergency situations.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0016",
@@ -20610,7 +20694,10 @@
     "slug": "skm-b-emergency-trolley-3",
     "image": "PT-MTC-0016.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Emergency Trolley SKR-ET850 is designed for advanced emergency response and efficient organisation of critical medical equipment in hospitals, clinics, and emergency departments. Built with a durable aluminium, steel, and ABS engineering plastic structure, it provides excellent stability, functionality, and smooth mobility during urgent medical operations."
+    "short_description": "The SKM-B Emergency Trolley SKR-ET850 is designed for advanced emergency response and efficient organisation of critical medical equipment in hospitals, clinics, and emergency departments. Built with a durable aluminium, steel, and ABS engineering plastic structure, it provides excellent stability, functionality, and smooth mobility during urgent medical operations.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0017",
@@ -20623,7 +20710,10 @@
     "slug": "skm-b-emergency-trolley-2",
     "image": "PT-MTC-0017.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Emergency Trolley SK-ET75077A is designed to provide rapid access to emergency equipment and medical supplies in hospitals, emergency departments, and critical care units. Constructed with a durable aluminium alloy frame and ABS engineering plastics, it offers excellent strength, organised storage, and smooth mobility for fast-paced clinical environments."
+    "short_description": "The SKM-B Emergency Trolley SK-ET75077A is designed to provide rapid access to emergency equipment and medical supplies in hospitals, emergency departments, and critical care units. Constructed with a durable aluminium alloy frame and ABS engineering plastics, it offers excellent strength, organised storage, and smooth mobility for fast-paced clinical environments.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0018",
@@ -20636,7 +20726,10 @@
     "slug": "nursing-trolley",
     "image": "PT-MTC-0018.jpg",
     "status": "Draft",
-    "short_description": "The Nursing Trolley SKR058-NT is designed to improve efficiency and organisation in hospitals, clinics, and healthcare facilities. Featuring a spacious storage system, smooth mobility, and practical accessories, it provides a reliable solution for the transport and management of medical supplies during daily nursing operations."
+    "short_description": "The Nursing Trolley SKR058-NT is designed to improve efficiency and organisation in hospitals, clinics, and healthcare facilities. Featuring a spacious storage system, smooth mobility, and practical accessories, it provides a reliable solution for the transport and management of medical supplies during daily nursing operations.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0019",
@@ -20649,7 +20742,10 @@
     "slug": "anesthesia-trolley",
     "image": "PT-MTC-0019.jpg",
     "status": "Draft",
-    "short_description": "The Anesthesia Trolley SKR058-MT is designed to provide organised storage and efficient access to anaesthesia supplies and medications in hospitals, operating theatres, and healthcare facilities. Featuring multiple storage compartments, a dedicated anaesthesia rack, and smooth mobility, it enhances workflow efficiency during medical procedures."
+    "short_description": "The Anesthesia Trolley SKR058-MT is designed to provide organised storage and efficient access to anaesthesia supplies and medications in hospitals, operating theatres, and healthcare facilities. Featuring multiple storage compartments, a dedicated anaesthesia rack, and smooth mobility, it enhances workflow efficiency during medical procedures.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-MTC-0020",
@@ -20662,7 +20758,10 @@
     "slug": "emergency-trolley-2",
     "image": "PT-MTC-0020.jpg",
     "status": "Draft",
-    "short_description": "The Emergency Trolley SKR058-ET is designed to provide rapid access to emergency medical equipment and supplies in hospitals, emergency departments, and critical care environments. With dedicated storage compartments and essential emergency accessories, it supports fast, organised, and efficient response during medical emergencies."
+    "short_description": "The Emergency Trolley SKR058-ET is designed to provide rapid access to emergency medical equipment and supplies in hospitals, emergency departments, and critical care environments. With dedicated storage compartments and essential emergency accessories, it supports fast, organised, and efficient response during medical emergencies.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-SSF-0001",
@@ -20675,7 +20774,10 @@
     "slug": "skm-b-instrument-trolley-stainless-steel-body-2",
     "image": "PT-SSF-0001.jpg",
     "status": "Draft",
-    "short_description": "SKM-B Instrument trolley"
+    "short_description": "SKM-B Instrument trolley",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-SSF-0002",
@@ -20717,7 +20819,10 @@
     "slug": "skm-b-stainless-steel-trolley-stainless-steel-body",
     "image": "PT-SSF-0004.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Stainless Steel Trolley SKH013 is designed for efficient storage and transport of medical records and essential items in hospitals, clinics, and healthcare facilities. Built with durable stainless steel construction and smooth-rolling castors, it ensures reliability, hygiene, and ease of use in daily operations."
+    "short_description": "The SKM-B Stainless Steel Trolley SKH013 is designed for efficient storage and transport of medical records and essential items in hospitals, clinics, and healthcare facilities. Built with durable stainless steel construction and smooth-rolling castors, it ensures reliability, hygiene, and ease of use in daily operations.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-SSF-0005",
@@ -20730,7 +20835,10 @@
     "slug": "skm-b-insulated-food-cart-stainless-steel-body",
     "image": "PT-SSF-0005.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Insulated Food Cart SKH012 is designed for efficient and hygienic food transport in hospitals, canteens, hotels, and institutional catering environments. Built with stainless steel construction and an electric heat storage system, it ensures food is kept warm and safe during delivery."
+    "short_description": "The SKM-B Insulated Food Cart SKH012 is designed for efficient and hygienic food transport in hospitals, canteens, hotels, and institutional catering environments. Built with stainless steel construction and an electric heat storage system, it ensures food is kept warm and safe during delivery.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-SSF-0006",
@@ -20743,7 +20851,10 @@
     "slug": "skm-b-fan-shaped-instrument-trolley-stainless-steel-body",
     "image": "PT-SSF-0006.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Fan-shaped Instrument Trolley SKH005 is designed for efficient storage and transportation of medical instruments in hospitals, clinics, and healthcare facilities. Built with a full stainless steel structure and multi-layer shelving, it provides durability, hygiene, and smooth mobility for daily clinical use."
+    "short_description": "The SKM-B Fan-shaped Instrument Trolley SKH005 is designed for efficient storage and transportation of medical instruments in hospitals, clinics, and healthcare facilities. Built with a full stainless steel structure and multi-layer shelving, it provides durability, hygiene, and smooth mobility for daily clinical use.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-SSF-0007",
@@ -20756,7 +20867,10 @@
     "slug": "skm-b-treatment-trolley-stainless-steel-body-2",
     "image": "PT-SSF-0007.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Treatment Trolley SKH006-5 is designed for efficient handling and organisation of medical supplies and instruments in hospitals, clinics, and healthcare environments. Built with a durable stainless steel structure and multi-level storage design, it ensures reliability, hygiene, and smooth mobility for daily clinical use."
+    "short_description": "The SKM-B Treatment Trolley SKH006-5 is designed for efficient handling and organisation of medical supplies and instruments in hospitals, clinics, and healthcare environments. Built with a durable stainless steel structure and multi-level storage design, it ensures reliability, hygiene, and smooth mobility for daily clinical use.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-SSF-0008",
@@ -20769,7 +20883,10 @@
     "slug": "skm-b-treatment-trolley-stainless-steel-body",
     "image": "PT-SSF-0008.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Treatment Trolley SKH001 is designed for efficient storage and transportation of medical supplies and instruments in hospitals, clinics, and healthcare environments. Built with a durable stainless steel structure and practical shelving design, it ensures hygiene, stability, and smooth mobility for daily medical use."
+    "short_description": "The SKM-B Treatment Trolley SKH001 is designed for efficient storage and transportation of medical supplies and instruments in hospitals, clinics, and healthcare environments. Built with a durable stainless steel structure and practical shelving design, it ensures hygiene, stability, and smooth mobility for daily medical use.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-SSF-0009",
@@ -20782,7 +20899,10 @@
     "slug": "skm-b-instrument-trolley-stainless-steel-body",
     "image": "PT-SSF-0009.jpg",
     "status": "Draft",
-    "short_description": "The SKM-B Instrument Trolley SKH006C is designed for efficient storage and transportation of medical instruments and supplies in hospitals, clinics, and healthcare environments. Built with a full stainless steel structure, it ensures durability, hygiene, and smooth mobility for daily clinical operations."
+    "short_description": "The SKM-B Instrument Trolley SKH006C is designed for efficient storage and transportation of medical instruments and supplies in hospitals, clinics, and healthcare environments. Built with a full stainless steel structure, it ensures durability, hygiene, and smooth mobility for daily clinical operations.",
+    "also_in": [
+      "warehouse-logistics/carts-trolleys/medical-hospital-trolleys"
+    ]
   },
   {
     "sku": "PT-STR-SKB037",
@@ -21436,68 +21556,132 @@
   },
   {
     "sku": "PT-BOX-TROLLEY-TGL-1",
-    "name": "Logistics trolley-TGL-1",
+    "name": "4-Tier Chrome Wire Shelving Trolley TGL-1 (1200 × 450 × 1800 mm)",
     "category": "Warehouse & Logistics",
     "category_slug": "warehouse-logistics",
-    "subcategory": "Turnover Boxes & Bins",
-    "description": "The Logistics Trolley TGL-1 is a heavy-duty storage and transport trolley designed for warehouses, distribution centres, factories, retail stores, and commercial facilities. Built with a robust frame and spacious storage capacity, it provides an efficient solution for organising and transporting cartons, packages, tools, and materials while maximising storage space.\nProduct Highlights\nModel: TGL-1\nHeavy-duty construction for long-lasting durability\nLarge storage capacity for efficient material handling\nStrong and stable frame for reliable daily use\nSmooth-rolling castors for easy manoeuvrability\nDesigned for transporting and organising cartons, tools, equipment, and supplies\nEasy to maintain and suitable for high-traffic commercial environments\nStandard Size\n1200W × 450D × 1800H mm\nSuitable for warehouses, logistics centres, factories, retail stores, stockrooms, distribution centres, and commercial environments.",
+    "subcategory": "Carts & Trolleys",
+    "description": "Mobile four-tier chrome wire shelving trolley, model TGL-1, for storing and moving cartons and supplies. Open wire shelves keep stock visible and ventilated, and castors let the whole unit move between stockroom and shop floor. Model: TGL-1. Type: Mobile wire shelving trolley. Tiers: 4, as shown. Size (W × D × H): 1200 × 450 × 1800 mm.",
     "old_url": "https://pandatec.sg/product/logistics-trolley-tgl-1/",
     "slug": "logistics-trolley-tgl-1",
-    "image": "PT-BOX-TROLLEY-TGL-1.jpg",
+    "image": "/wp-content/uploads/products/PT-BOX-TROLLEY-TGL-1.jpg",
     "status": "Draft",
-    "short_description": "The Logistics Trolley TGL-1 is a heavy-duty storage and transport trolley designed for warehouses, distribution centres, factories, retail stores, and commercial facilities. Built with a robust frame and spacious storage capacity, it provides an efficient solution for organising and transporting cartons, packages, tools, and materials while maximising storage space."
+    "short_description": "Mobile four-tier chrome wire shelving trolley, model TGL-1, for storing and moving cartons and supplies.",
+    "sub_category": "Carts & Trolleys > Wire Shelf Trolleys",
+    "level3": "Wire Shelf Trolleys",
+    "key_features": "Four open wire shelves\nCastors for mobile storage\nChrome finish, as shown",
+    "specifications": "Model: TGL-1\nType: Mobile wire shelving trolley\nTiers: 4, as shown\nSize (W × D × H): 1200 × 450 × 1800 mm",
+    "application": "Warehouses and stockrooms, Distribution centres, Factories, Retail back-of-house, Kitchens and food storage",
+    "industries": "Retail, Logistics, Warehousing, Manufacturing, Food & Beverage",
+    "moq": "On request",
+    "country": "China",
+    "brand": "PANDA COLLECTIONS",
+    "keywords": "wire shelving trolley, mobile wire shelving, chrome shelving on wheels, storage trolley Singapore",
+    "meta_description": "4-Tier Chrome Wire Shelving Trolley TGL-1 (1200 × 450 × 1800 mm). Four open wire shelves. Price on request from PANDA COLLECTIONS, Singapore.",
+    "also_in": [
+      "warehouse-logistics/shelving"
+    ]
   },
   {
     "sku": "PT-BOX-TROLLEY-TGL-2",
-    "name": "Logistics trolley-TGL-2",
+    "name": "3-Tier Wire Service Trolley TGL-2 (900 × 355 × 1040 mm)",
     "category": "Warehouse & Logistics",
     "category_slug": "warehouse-logistics",
-    "subcategory": "Turnover Boxes & Bins",
-    "description": "The Logistics Trolley TGL-2 is a durable and efficient transport trolley designed for warehouses, distribution centres, factories, retail stores, and commercial facilities. Built with a sturdy frame and smooth-rolling castors, it provides a reliable solution for transporting cartons, packages, equipment, and materials safely and efficiently.\nProduct Highlights\nModel: TGL-2\nHeavy-duty construction for long-lasting durability\nStrong and stable frame for reliable material handling\nSmooth-rolling castors for easy manoeuvrability\nSuitable for transporting cartons, tools, equipment, and supplies\nEasy to maintain and designed for everyday commercial use\nStandard Size\n900W × 355D × 1040H mm\nSuitable for warehouses, logistics centres, factories, retail stores, stockrooms, and commercial environments.",
+    "subcategory": "Carts & Trolleys",
+    "description": "Three-tier chrome wire service trolley with push handles, model TGL-2, for moving cartons, parts and supplies. A compact service trolley for stockrooms, workshops, offices and kitchens. Model: TGL-2. Type: Wire service trolley. Tiers: 3, as shown. Size (W × D × H): 900 × 355 × 1040 mm.",
     "old_url": "https://pandatec.sg/product/logistics-trolley-tgl-2/",
     "slug": "logistics-trolley-tgl-2",
-    "image": "PT-BOX-TROLLEY-TGL-2.jpg",
+    "image": "/wp-content/uploads/products/PT-BOX-TROLLEY-TGL-2.jpg",
     "status": "Draft",
-    "short_description": "The Logistics Trolley TGL-2 is a durable and efficient transport trolley designed for warehouses, distribution centres, factories, retail stores, and commercial facilities. Built with a sturdy frame and smooth-rolling castors, it provides a reliable solution for transporting cartons, packages, equipment, and materials safely and efficiently."
+    "short_description": "Three-tier chrome wire service trolley with push handles, model TGL-2, for moving cartons, parts and supplies.",
+    "sub_category": "Carts & Trolleys > Wire Shelf Trolleys",
+    "level3": "Wire Shelf Trolleys",
+    "key_features": "Three wire shelves\nPush handles\nSmooth-rolling castors",
+    "specifications": "Model: TGL-2\nType: Wire service trolley\nTiers: 3, as shown\nSize (W × D × H): 900 × 355 × 1040 mm",
+    "application": "Warehouses and stockrooms, Distribution centres, Factories, Retail back-of-house, Offices, Kitchens",
+    "industries": "Retail, Logistics, Warehousing, Manufacturing, Food & Beverage",
+    "moq": "On request",
+    "country": "China",
+    "brand": "PANDA COLLECTIONS",
+    "keywords": "3 tier wire trolley, wire service cart, utility trolley, service trolley Singapore",
+    "meta_description": "3-Tier Wire Service Trolley TGL-2 (900 × 355 × 1040 mm). Three wire shelves. Push handles. Price on request from PANDA COLLECTIONS, Singapore."
   },
   {
     "sku": "PT-BOX-TROLLEY-TGL-3",
-    "name": "Logistics trolley-TGL-3",
+    "name": "2-Tier Wire Service Trolley TGL-3 (900 × 355 × 1040 mm)",
     "category": "Warehouse & Logistics",
     "category_slug": "warehouse-logistics",
-    "subcategory": "Turnover Boxes & Bins",
-    "description": "The Logistics Trolley TGL-3 is a practical and heavy-duty transport trolley designed for warehouses, distribution centres, factories, retail stores, and commercial facilities. Built with a sturdy frame and smooth-rolling castors, it provides an efficient solution for transporting cartons, packages, equipment, and materials with ease.\nProduct Highlights\nModel: TGL-3\nHeavy-duty construction for long-lasting durability\nStrong and stable frame for reliable material handling\nSmooth-rolling castors for easy manoeuvrability\nSuitable for transporting cartons, tools, equipment, and supplies\nEasy to maintain and designed for everyday commercial use\nStandard Size\n900W × 355D × 1040H mm\nSuitable for warehouses, logistics centres, factories, retail stores, stockrooms, and commercial environments.",
+    "subcategory": "Carts & Trolleys",
+    "description": "Two-tier chrome wire service trolley with push handles, model TGL-3, for moving cartons, parts and supplies. Two deep wire shelves give room for taller items than the three-tier version. Model: TGL-3. Type: Wire service trolley. Tiers: 2, as shown. Size (W × D × H): 900 × 355 × 1040 mm.",
     "old_url": "https://pandatec.sg/product/logistics-trolley-tgl-3/",
     "slug": "logistics-trolley-tgl-3",
-    "image": "PT-BOX-TROLLEY-TGL-3.jpg",
+    "image": "/wp-content/uploads/products/PT-BOX-TROLLEY-TGL-3.jpg",
     "status": "Draft",
-    "short_description": "The Logistics Trolley TGL-3 is a practical and heavy-duty transport trolley designed for warehouses, distribution centres, factories, retail stores, and commercial facilities. Built with a sturdy frame and smooth-rolling castors, it provides an efficient solution for transporting cartons, packages, equipment, and materials with ease."
+    "short_description": "Two-tier chrome wire service trolley with push handles, model TGL-3, for moving cartons, parts and supplies.",
+    "sub_category": "Carts & Trolleys > Wire Shelf Trolleys",
+    "level3": "Wire Shelf Trolleys",
+    "key_features": "Two wire shelves for taller items\nPush handles\nSmooth-rolling castors",
+    "specifications": "Model: TGL-3\nType: Wire service trolley\nTiers: 2, as shown\nSize (W × D × H): 900 × 355 × 1040 mm",
+    "application": "Warehouses and stockrooms, Distribution centres, Factories, Retail back-of-house, Offices, Kitchens",
+    "industries": "Retail, Logistics, Warehousing, Manufacturing, Food & Beverage",
+    "moq": "On request",
+    "country": "China",
+    "brand": "PANDA COLLECTIONS",
+    "keywords": "2 tier wire trolley, wire utility cart, service trolley, trolley Singapore",
+    "meta_description": "2-Tier Wire Service Trolley TGL-3 (900 × 355 × 1040 mm). Two wire shelves for taller items. Push handles. Price on request from PANDA COLLECTIONS, Singapore."
   },
   {
     "sku": "PT-WIR-0001",
-    "name": "Europe type trolley-TGL-B",
+    "name": "European-Style Supermarket Shopping Trolley TGL-B (1000 × 585 × 1020 mm)",
     "category": "Warehouse & Logistics",
     "category_slug": "warehouse-logistics",
-    "subcategory": "Wire Containers",
-    "description": "The Europe Type Trolley TGL-B is a durable and versatile utility trolley designed for warehouses, workshops, retail stores, offices, and commercial facilities. Built with a sturdy steel frame and spacious storage compartments, it provides a reliable solution for transporting tools, equipment, supplies, and materials efficiently.\nProduct Highlights\nModel: TGL-B\nHeavy-duty steel construction for long-lasting durability\nSpacious storage design for efficient organisation\nSmooth-rolling castors for easy manoeuvrability\nStrong and stable frame for everyday commercial use\nSuitable for transporting tools, equipment, and supplies\nStandard Size\n1000W × 585D × 1020H mm\nSuitable for warehouses, workshops, factories, retail stores, maintenance facilities, offices, and commercial environments.",
+    "subcategory": "Carts & Trolleys",
+    "description": "European-style steel wire supermarket shopping trolley, model TGL-B, with a child seat area and smooth-rolling castors. A full-size European-style shopping trolley for supermarkets, hypermarkets and retail stores. Model: TGL-B. Type: European-style supermarket shopping trolley. Construction: Steel wire basket and frame. Size (W × D × H): 1000 × 585 × 1020 mm.",
     "old_url": "https://pandatec.sg/product/europe-type-trolley-tgl-b/",
     "slug": "europe-type-trolley-tgl-b",
-    "image": "PT-WIR-0001.jpg",
+    "image": "/wp-content/uploads/products/PT-WIR-0001.jpg",
     "status": "Draft",
-    "short_description": "The Europe Type Trolley TGL-B is a durable and versatile utility trolley designed for warehouses, workshops, retail stores, offices, and commercial facilities. Built with a sturdy steel frame and spacious storage compartments, it provides a reliable solution for transporting tools, equipment, supplies, and materials efficiently."
+    "short_description": "European-style steel wire supermarket shopping trolley, model TGL-B, with a child seat area and smooth-rolling castors.",
+    "sub_category": "Carts & Trolleys > Shopping Trolleys",
+    "level3": "Shopping Trolleys",
+    "key_features": "European-style steel wire basket\nSmooth-rolling castors\nChild seat area, as shown",
+    "specifications": "Model: TGL-B\nType: European-style supermarket shopping trolley\nConstruction: Steel wire basket and frame\nSize (W × D × H): 1000 × 585 × 1020 mm",
+    "application": "Supermarkets and hypermarkets, Retail stores, Wholesale clubs, Pharmacies and convenience stores",
+    "industries": "Retail, Logistics, Warehousing, Manufacturing, Food & Beverage",
+    "moq": "On request",
+    "country": "China",
+    "brand": "PANDA COLLECTIONS",
+    "keywords": "European shopping trolley, supermarket trolley TGL-B, shopping cart Singapore, steel wire shopping trolley",
+    "meta_description": "European-Style Supermarket Shopping Trolley TGL-B (1000 × 585 × 1020 mm). European-style steel wire basket. Price on request from PANDA COLLECTIONS, Singapore.",
+    "also_in": [
+      "warehouse-logistics/wire-containers"
+    ]
   },
   {
     "sku": "PT-WIR-0002",
-    "name": "American trolley-TGL-C",
+    "name": "American-Style Supermarket Shopping Trolley TGL-C (1000 × 585 × 1020 mm)",
     "category": "Warehouse & Logistics",
     "category_slug": "warehouse-logistics",
-    "subcategory": "Wire Containers",
-    "description": "The American Trolley TGL-C is a heavy-duty utility trolley designed for warehouses, workshops, factories, retail stores, and commercial facilities. Built with a robust steel frame and spacious storage platform, it provides a reliable solution for transporting tools, equipment, materials, and supplies with ease.\nProduct Highlights\nModel: TGL-C\nHeavy-duty steel construction for enhanced durability\nSpacious platform for transporting tools, equipment, and supplies\nSmooth-rolling castors for easy manoeuvrability\nStrong and stable frame for everyday commercial and industrial use\nEasy to maintain and suitable for high-traffic environments\nStandard Size\n1000W × 585D × 1020H mm\nSuitable for warehouses, workshops, factories, retail stores, maintenance facilities, offices, and commercial environments.",
+    "subcategory": "Carts & Trolleys",
+    "description": "American-style steel wire supermarket shopping trolley, model TGL-C, with a lower tray and smooth-rolling castors. The lower tray carries bulky items such as drink packs below the main basket. Model: TGL-C. Type: American-style supermarket shopping trolley. Construction: Steel wire basket and frame. Size (W × D × H): 1000 × 585 × 1020 mm.",
     "old_url": "https://pandatec.sg/product/american-trolley-tgl-c/",
     "slug": "american-trolley-tgl-c",
-    "image": "PT-WIR-0002.jpg",
+    "image": "/wp-content/uploads/products/PT-WIR-0002.jpg",
     "status": "Draft",
-    "short_description": "The American Trolley TGL-C is a heavy-duty utility trolley designed for warehouses, workshops, factories, retail stores, and commercial facilities. Built with a robust steel frame and spacious storage platform, it provides a reliable solution for transporting tools, equipment, materials, and supplies with ease."
+    "short_description": "American-style steel wire supermarket shopping trolley, model TGL-C, with a lower tray and smooth-rolling castors.",
+    "sub_category": "Carts & Trolleys > Shopping Trolleys",
+    "level3": "Shopping Trolleys",
+    "key_features": "American-style steel wire basket\nLower tray for bulky items\nSmooth-rolling castors",
+    "specifications": "Model: TGL-C\nType: American-style supermarket shopping trolley\nConstruction: Steel wire basket and frame\nSize (W × D × H): 1000 × 585 × 1020 mm",
+    "application": "Supermarkets and hypermarkets, Retail stores, Wholesale clubs, Pharmacies and convenience stores",
+    "industries": "Retail, Logistics, Warehousing, Manufacturing, Food & Beverage",
+    "moq": "On request",
+    "country": "China",
+    "brand": "PANDA COLLECTIONS",
+    "keywords": "American shopping trolley, supermarket trolley TGL-C, shopping cart Singapore, retail shopping trolley",
+    "meta_description": "American-Style Supermarket Shopping Trolley TGL-C (1000 × 585 × 1020 mm). American-style steel wire basket. Price on request from PANDA COLLECTIONS, Singapore.",
+    "also_in": [
+      "warehouse-logistics/wire-containers"
+    ]
   },
   {
     "sku": "PT-WIR-CAGE-TGL-K001",
@@ -21514,55 +21698,111 @@
   },
   {
     "sku": "PT-WIR-GL-J002",
-    "name": "Trolley-GL-J002",
+    "name": "Shopping Basket Trolley GL-J002 (680 × 460 × 900 mm)",
     "category": "Warehouse & Logistics",
     "category_slug": "warehouse-logistics",
-    "subcategory": "Wire Containers",
-    "description": "The Trolley GL-J002 is a compact and durable utility trolley designed for warehouses, workshops, retail stores, offices, and commercial facilities. Built with a sturdy frame and smooth-rolling castors, it provides a practical solution for transporting tools, equipment, supplies, and materials with ease.\nProduct Highlights\nModel: GL-J002\nHeavy-duty construction for long-lasting durability\nCompact design for easy handling in confined spaces\nSmooth-rolling castors for effortless manoeuvrability\nStrong and stable frame for everyday commercial use\nEasy to maintain and suitable for frequent use\nStandard Size\n680W × 460D × 900H mm\nSuitable for warehouses, workshops, factories, retail stores, offices, maintenance facilities, and commercial environments.",
+    "subcategory": "Carts & Trolleys",
+    "description": "Compact steel trolley that carries hand shopping baskets, model GL-J002, for supermarkets and convenience stores. Shoppers place hand baskets on the frame instead of carrying them, in a compact footprint for narrow aisles. Model: GL-J002. Type: Shopping basket trolley. Size (W × D × H): 680 × 460 × 900 mm.",
     "old_url": "https://pandatec.sg/product/trolley-gl-j002/",
     "slug": "trolley-gl-j002",
-    "image": "PT-WIR-GL-J002.jpg",
+    "image": "/wp-content/uploads/products/PT-WIR-GL-J002.jpg",
     "status": "Draft",
-    "short_description": "The Trolley GL-J002 is a compact and durable utility trolley designed for warehouses, workshops, retail stores, offices, and commercial facilities. Built with a sturdy frame and smooth-rolling castors, it provides a practical solution for transporting tools, equipment, supplies, and materials with ease."
+    "short_description": "Compact steel trolley that carries hand shopping baskets, model GL-J002, for supermarkets and convenience stores.",
+    "sub_category": "Carts & Trolleys > Shopping Trolleys",
+    "level3": "Shopping Trolleys",
+    "key_features": "Carries hand shopping baskets\nCompact for narrow aisles\nSmooth-rolling castors",
+    "specifications": "Model: GL-J002\nType: Shopping basket trolley\nSize (W × D × H): 680 × 460 × 900 mm",
+    "application": "Supermarkets, Convenience stores, Pharmacies, Retail stores",
+    "industries": "Retail, Logistics, Warehousing, Manufacturing, Food & Beverage",
+    "moq": "On request",
+    "country": "China",
+    "brand": "PANDA COLLECTIONS",
+    "keywords": "shopping basket trolley, basket cart GL-J002, convenience store trolley, shopping trolley Singapore",
+    "meta_description": "Shopping Basket Trolley GL-J002 (680 × 460 × 900 mm). Carries hand shopping baskets. Price on request from PANDA COLLECTIONS, Singapore.",
+    "also_in": [
+      "warehouse-logistics/wire-containers"
+    ]
   },
   {
     "sku": "PT-WIR-TGL-F006",
-    "name": "Trolley-TGL-F006",
+    "name": "Platform Trolley with Basket TGL-F006 (1170 × 610 × 1080 mm)",
     "category": "Warehouse & Logistics",
     "category_slug": "warehouse-logistics",
-    "subcategory": "Wire Containers",
-    "description": "The Trolley TGL-F006 is a heavy-duty utility trolley designed for warehouses, workshops, factories, retail stores, offices, and commercial facilities. Built with a robust frame and spacious storage capacity, it provides a reliable solution for transporting tools, equipment, materials, and supplies safely and efficiently.\nProduct Highlights\nModel: TGL-F006\nHeavy-duty construction for enhanced durability\nSpacious storage platform for efficient material handling\nSmooth-rolling castors for easy manoeuvrability\nStrong and stable frame for everyday commercial and industrial use\nEasy to maintain and suitable for high-traffic environments\nStandard Size\n1170W × 610D × 1080H mm\nSuitable for warehouses, workshops, factories, retail stores, maintenance facilities, offices, and commercial environments.",
+    "subcategory": "Carts & Trolleys",
+    "description": "Steel platform trolley with a flat wire deck, upright handle and basket, model TGL-F006, for moving cartons and bulky goods. Used in warehouses, cash-and-carry stores, garden centres and stockrooms for cartons and bulky items. Model: TGL-F006. Type: Platform trolley with basket. Size (W × D × H): 1170 × 610 × 1080 mm.",
     "old_url": "https://pandatec.sg/product/trolley-tgl-f006/",
     "slug": "trolley-tgl-f006",
-    "image": "PT-WIR-TGL-F006.jpg",
+    "image": "/wp-content/uploads/products/PT-WIR-TGL-F006.jpg",
     "status": "Draft",
-    "short_description": "The Trolley TGL-F006 is a heavy-duty utility trolley designed for warehouses, workshops, factories, retail stores, offices, and commercial facilities. Built with a robust frame and spacious storage capacity, it provides a reliable solution for transporting tools, equipment, materials, and supplies safely and efficiently."
+    "short_description": "Steel platform trolley with a flat wire deck, upright handle and basket, model TGL-F006, for moving cartons and bulky goods.",
+    "sub_category": "Carts & Trolleys > Platform Trolleys",
+    "level3": "Platform Trolleys",
+    "key_features": "Flat platform deck\nUpright handle with basket\nSmooth-rolling castors",
+    "specifications": "Model: TGL-F006\nType: Platform trolley with basket\nSize (W × D × H): 1170 × 610 × 1080 mm",
+    "application": "Cash-and-carry and wholesale stores, Warehouses and stockrooms, Garden centres, Retail back-of-house",
+    "industries": "Retail, Logistics, Warehousing, Manufacturing, Food & Beverage",
+    "moq": "On request",
+    "country": "China",
+    "brand": "PANDA COLLECTIONS",
+    "keywords": "platform trolley, flatbed trolley with basket, cash and carry trolley, platform trolley Singapore",
+    "meta_description": "Platform Trolley with Basket TGL-F006 (1170 × 610 × 1080 mm). Flat platform deck. Price on request from PANDA COLLECTIONS, Singapore.",
+    "also_in": [
+      "warehouse-logistics/wire-containers"
+    ]
   },
   {
     "sku": "PT-WIR-TGL-F008",
-    "name": "Trolley-TGL-F008",
+    "name": "Supermarket Shopping Trolley with Lower Tray TGL-F008 (1068 × 640 × 1100 mm)",
     "category": "Warehouse & Logistics",
     "category_slug": "warehouse-logistics",
-    "subcategory": "Wire Containers",
-    "description": "The Trolley TGL-F008 is a durable and versatile utility trolley designed for warehouses, workshops, factories, retail stores, offices, and commercial facilities. Built with a sturdy frame and spacious storage capacity, it provides a reliable solution for transporting tools, equipment, materials, and supplies efficiently.\nProduct Highlights\nModel: TGL-F008\nHeavy-duty construction for long-lasting durability\nSpacious storage platform for efficient transport\nSmooth-rolling castors for easy manoeuvrability\nStrong and stable frame for everyday commercial and industrial use\nEasy to maintain and suitable for high-traffic environments\nStandard Size\n1068W × 640D × 1100H mm\nSuitable for warehouses, workshops, factories, retail stores, maintenance facilities, offices, and commercial environments.",
+    "subcategory": "Carts & Trolleys",
+    "description": "Steel wire supermarket shopping trolley, model TGL-F008, with a lower carrying tray. A full-size shopping trolley for supermarkets and retail stores. Model: TGL-F008. Type: Supermarket shopping trolley. Construction: Steel wire basket and frame. Size (W × D × H): 1068 × 640 × 1100 mm.",
     "old_url": "https://pandatec.sg/product/trolley-tgl-f008/",
     "slug": "trolley-tgl-f008",
-    "image": "PT-WIR-TGL-F008.jpg",
+    "image": "/wp-content/uploads/products/PT-WIR-TGL-F008.jpg",
     "status": "Draft",
-    "short_description": "The Trolley TGL-F008 is a durable and versatile utility trolley designed for warehouses, workshops, factories, retail stores, offices, and commercial facilities. Built with a sturdy frame and spacious storage capacity, it provides a reliable solution for transporting tools, equipment, materials, and supplies efficiently."
+    "short_description": "Steel wire supermarket shopping trolley, model TGL-F008, with a lower carrying tray.",
+    "sub_category": "Carts & Trolleys > Shopping Trolleys",
+    "level3": "Shopping Trolleys",
+    "key_features": "Full-size steel wire basket\nLower carrying tray\nSmooth-rolling castors",
+    "specifications": "Model: TGL-F008\nType: Supermarket shopping trolley\nConstruction: Steel wire basket and frame\nSize (W × D × H): 1068 × 640 × 1100 mm",
+    "application": "Supermarkets and hypermarkets, Retail stores, Wholesale clubs, Pharmacies and convenience stores",
+    "industries": "Retail, Logistics, Warehousing, Manufacturing, Food & Beverage",
+    "moq": "On request",
+    "country": "China",
+    "brand": "PANDA COLLECTIONS",
+    "keywords": "shopping trolley TGL-F008, supermarket cart, shopping trolley Singapore, wire shopping trolley",
+    "meta_description": "Supermarket Shopping Trolley with Lower Tray TGL-F008 (1068 × 640 × 1100 mm). Full-size steel wire basket. Price on request from PANDA COLLECTIONS, Singapore.",
+    "also_in": [
+      "warehouse-logistics/wire-containers"
+    ]
   },
   {
     "sku": "PT-WIR-TGL-L005",
-    "name": "Large logistics Security Cage TGL-L005",
+    "name": "Large Logistics Security Roll Cage TGL-L005 (1100 × 800 × 1700 mm)",
     "category": "Warehouse & Logistics",
     "category_slug": "warehouse-logistics",
-    "subcategory": "Wire Containers",
-    "description": "The Large Logistics Security Cage TGL-L005 is a heavy-duty storage and transport cage designed for warehouses, distribution centres, factories, retail stores, and logistics operations. Built with a durable steel mesh structure, it provides secure storage and efficient handling of goods while protecting valuable inventory during transport and storage.\nProduct Highlights\nModel: TGL-L005\nHeavy-duty steel mesh construction\nSecure cage design for safe storage and transport\nLarge storage capacity for cartons, packages, and bulk materials\nStrong and stable frame for long-lasting durability\nSuitable for warehouse and logistics operations\nEasy to move and maintain\nStandard Size\n1100W × 800D × 1700H mm\nSuitable for warehouses, logistics centres, distribution facilities, factories, retail stockrooms, and commercial storage environments.",
+    "subcategory": "Carts & Trolleys",
+    "description": "Steel mesh roll cage on castors, model TGL-L005, for secure storage and transport of cartons and goods. Roll cages carry goods from warehouse to store and lock contents inside the mesh during transport. Model: TGL-L005. Type: Logistics security roll cage. Construction: Steel mesh. Size (W × D × H): 1100 × 800 × 1700 mm.",
     "old_url": "https://pandatec.sg/product/large-logistics-trolleys-tgl-l005/",
     "slug": "large-logistics-trolleys-tgl-l005",
-    "image": "PT-WIR-TGL-L005.jpg",
+    "image": "/wp-content/uploads/products/PT-WIR-TGL-L005.jpg",
     "status": "Draft",
-    "short_description": "The Large Logistics Security Cage TGL-L005 is a heavy-duty storage and transport cage designed for warehouses, distribution centres, factories, retail stores, and logistics operations. Built with a durable steel mesh structure, it provides secure storage and efficient handling of goods while protecting valuable inventory during transport and storage."
+    "short_description": "Steel mesh roll cage on castors, model TGL-L005, for secure storage and transport of cartons and goods.",
+    "sub_category": "Carts & Trolleys > Roll Cages",
+    "level3": "Roll Cages",
+    "key_features": "Steel mesh security cage\nCastors for moving loads\nLarge capacity for cartons and bulk goods",
+    "specifications": "Model: TGL-L005\nType: Logistics security roll cage\nConstruction: Steel mesh\nSize (W × D × H): 1100 × 800 × 1700 mm",
+    "application": "Warehouses and stockrooms, Distribution centres, Factories, Retail back-of-house, Supermarket deliveries",
+    "industries": "Retail, Logistics, Warehousing, Manufacturing, Food & Beverage",
+    "moq": "On request",
+    "country": "China",
+    "brand": "PANDA COLLECTIONS",
+    "keywords": "roll cage, logistics roll container, security cage trolley, roll cage Singapore",
+    "meta_description": "Large Logistics Security Roll Cage TGL-L005 (1100 × 800 × 1700 mm). Steel mesh security cage. Price on request from PANDA COLLECTIONS, Singapore.",
+    "also_in": [
+      "warehouse-logistics/wire-containers"
+    ]
   },
   {
     "sku": "PT-JF-BOX-001",
