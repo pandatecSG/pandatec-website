@@ -517,6 +517,58 @@
         "children": []
       },
       {
+        "slug": "steel-cabinets-lockers",
+        "label": "Steel Cabinets & Lockers",
+        "children": [
+          {
+            "slug": "lockers-wardrobes",
+            "label": "Lockers & Wardrobes"
+          },
+          {
+            "slug": "electronic-lockers",
+            "label": "Electronic Lockers"
+          },
+          {
+            "slug": "filing-cabinets",
+            "label": "Filing & Instrument Cabinets"
+          },
+          {
+            "slug": "security-cabinets",
+            "label": "Security Cabinets"
+          },
+          {
+            "slug": "tool-fire-cabinets",
+            "label": "Tool & Fire Cabinets"
+          },
+          {
+            "slug": "shelving-bookshelves",
+            "label": "Shelving & Bookshelves"
+          },
+          {
+            "slug": "steel-desks-partitions",
+            "label": "Steel Desks & Partitions"
+          }
+        ]
+      },
+      {
+        "slug": "dormitory-furniture",
+        "label": "Dormitory Furniture",
+        "children": [
+          {
+            "slug": "loft-beds",
+            "label": "Loft Beds"
+          },
+          {
+            "slug": "bunk-single-beds",
+            "label": "Bunk & Single Beds"
+          },
+          {
+            "slug": "barracks-furniture",
+            "label": "Barracks Furniture"
+          }
+        ]
+      },
+      {
         "slug": "custom-carpentry",
         "label": "Custom Carpentry",
         "children": []
