@@ -46,8 +46,8 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Sticky Mats & Rollers](https://pandatec.sg/products/cleanroom/contamination-control/sticky-mats-rollers/): 8 products
     - [Cleanroom Mops](https://pandatec.sg/products/cleanroom/contamination-control/cleanroom-mops/): 2 products
   - [Cleanroom Paper & Stationery](https://pandatec.sg/products/cleanroom/cleanroom-paper-stationery/): 3 products
-  - [Cleanroom Bags & Packaging](https://pandatec.sg/products/cleanroom/cleanroom-bags-packaging/): 9 products
-    - [ESD Packaging Materials](https://pandatec.sg/products/cleanroom/cleanroom-bags-packaging/esd-packaging-materials/): 4 products
+  - [Cleanroom Bags & Packaging](https://pandatec.sg/products/cleanroom/cleanroom-bags-packaging/): 10 products
+    - [ESD Packaging Materials](https://pandatec.sg/products/cleanroom/cleanroom-bags-packaging/esd-packaging-materials/): 5 products
     - [ESD & Cleanroom Bags](https://pandatec.sg/products/cleanroom/cleanroom-bags-packaging/esd-bags-film/): 3 products
     - [Anti-Static Foam](https://pandatec.sg/products/cleanroom/cleanroom-bags-packaging/anti-static-foam/): 2 products
   - [ESD Products](https://pandatec.sg/products/cleanroom/esd-products/): 74 products
@@ -224,7 +224,12 @@ Every product page lists the product code (PT-…), category path, material, dim
 - [Warehouse Racking & Storage Solutions in Singapore](https://pandatec.sg/products/warehouse-logistics/)
   - [Carts Trolleys](https://pandatec.sg/products/warehouse-logistics/carts-trolleys/)
   - [Compact Shelving](https://pandatec.sg/products/warehouse-logistics/compact-shelving/): 2 products
-  - [Pallets Packaging](https://pandatec.sg/products/warehouse-logistics/pallets-packaging/)
+  - [Pallets & Packaging](https://pandatec.sg/products/warehouse-logistics/pallets-packaging/): 42 products – air column bags and rolls, air cushion film, bubble wrap, honeycomb paper, dunnage bags, air cushion machines, battery strapping tools
+    - [Air Column Packaging](https://pandatec.sg/products/warehouse-logistics/pallets-packaging/air-column-packaging/): 7 products
+    - [Air Cushion Film & Bags](https://pandatec.sg/products/warehouse-logistics/pallets-packaging/air-cushion-film-bags/): 10 products
+    - [Bubble Wrap & Paper Packaging](https://pandatec.sg/products/warehouse-logistics/pallets-packaging/bubble-wrap-paper/): 8 products
+    - [Packaging Machines](https://pandatec.sg/products/warehouse-logistics/pallets-packaging/packaging-machines/): 9 products
+    - [Strapping Tools & Strap](https://pandatec.sg/products/warehouse-logistics/pallets-packaging/strapping-tools/): 8 products
   - [Shelving](https://pandatec.sg/products/warehouse-logistics/shelving/): 1 product
   - [Stainless Steel Shelving](https://pandatec.sg/products/warehouse-logistics/stainless-steel-shelving/): 1 product
   - [Storage Racks](https://pandatec.sg/products/warehouse-logistics/storage-racks/): 8 products

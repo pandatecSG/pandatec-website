@@ -915,7 +915,28 @@
       {
         "slug": "pallets-packaging",
         "label": "Pallets & Packaging",
-        "children": []
+        "children": [
+          {
+            "slug": "air-column-packaging",
+            "label": "Air Column Packaging"
+          },
+          {
+            "slug": "air-cushion-film-bags",
+            "label": "Air Cushion Film & Bags"
+          },
+          {
+            "slug": "bubble-wrap-paper",
+            "label": "Bubble Wrap & Paper"
+          },
+          {
+            "slug": "packaging-machines",
+            "label": "Packaging Machines"
+          },
+          {
+            "slug": "strapping-tools",
+            "label": "Strapping Tools & Strap"
+          }
+        ]
       }
     ]
   },
