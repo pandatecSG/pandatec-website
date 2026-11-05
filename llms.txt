@@ -153,12 +153,12 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Coffee & Side Tables](https://pandatec.sg/products/furniture-workplace/luxury-collection/coffee-side-tables/): 16 products
     - [Accent Furniture](https://pandatec.sg/products/furniture-workplace/luxury-collection/accent-furniture/): 7 products
   - [Office Accessories](https://pandatec.sg/products/furniture-workplace/office-accessories/): 28 products
-  - [Office Chairs](https://pandatec.sg/products/furniture-workplace/office-chairs/): 162 products
+  - [Office Chairs](https://pandatec.sg/products/furniture-workplace/office-chairs/): 196 products
     - [BIFMA Certified](https://pandatec.sg/products/furniture-workplace/office-chairs/bifma-certified/): 55 products
     - [Ergonomic Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/ergonomic-chair/): 45 products
     - [Mesh Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/mesh-chair/): 11 products
     - [PU/Leather Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/pu-leather-chair/): 29 products
-    - [Training Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/training-chair/): 42 products
+    - [Training Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/training-chair/): 40 products
   - [Outdoor Furniture](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/): 159 products
     - [ABS Furniture](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/abs-furniture/): 2 products
     - [Bench](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/bench/): 27 products
@@ -223,14 +223,14 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Sanding Grinding Machines](https://pandatec.sg/products/machinery-automation/sanding-grinding-machines/)
   - [Welding Machines](https://pandatec.sg/products/machinery-automation/welding-machines/): 4 products
 - [Medical Furniture & Healthcare Equipment Supplier in Singapore](https://pandatec.sg/products/medical-healthcare/)
-  - [Examination Treatment Tables](https://pandatec.sg/products/medical-healthcare/examination-treatment-tables/): 17 products
-  - [Hospital Beds](https://pandatec.sg/products/medical-healthcare/hospital-beds/): 29 products
+  - [Examination Treatment Tables](https://pandatec.sg/products/medical-healthcare/examination-treatment-tables/): 20 products
+  - [Hospital Beds](https://pandatec.sg/products/medical-healthcare/hospital-beds/): 41 products
   - [Laboratory Furniture](https://pandatec.sg/products/medical-healthcare/laboratory-furniture/): 7 products
-  - [Medical Cabinets](https://pandatec.sg/products/medical-healthcare/medical-cabinets/): 12 products
-  - [Medical Consumables](https://pandatec.sg/products/medical-healthcare/medical-consumables/): 2 products
-  - [Medical Trolleys Carts](https://pandatec.sg/products/medical-healthcare/medical-trolleys-carts/): 29 products
-  - [Stainless Steel Furniture](https://pandatec.sg/products/medical-healthcare/stainless-steel-furniture/): 9 products
-  - [Stretchers](https://pandatec.sg/products/medical-healthcare/stretchers/): 17 products
+  - [Medical Cabinets](https://pandatec.sg/products/medical-healthcare/medical-cabinets/): 16 products
+  - [Medical Consumables](https://pandatec.sg/products/medical-healthcare/medical-consumables/): 10 products
+  - [Medical Trolleys Carts](https://pandatec.sg/products/medical-healthcare/medical-trolleys-carts/): 88 products
+  - [Stainless Steel Furniture](https://pandatec.sg/products/medical-healthcare/stainless-steel-furniture/): 51 products
+  - [Stretchers](https://pandatec.sg/products/medical-healthcare/stretchers/): 25 products
   - [Waiting Chairs](https://pandatec.sg/products/medical-healthcare/waiting-chairs/): 13 products
   - [Wheelchairs Stools](https://pandatec.sg/products/medical-healthcare/wheelchairs-stools/): 8 products
 - [PPE & Safety Equipment Supplier in Singapore](https://pandatec.sg/products/ppe-safety/)
@@ -243,13 +243,13 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Respiratory Protection](https://pandatec.sg/products/ppe-safety/respiratory-protection/)
   - [Safety Shoes](https://pandatec.sg/products/ppe-safety/safety-shoes/)
 - [Warehouse Racking & Storage Solutions in Singapore](https://pandatec.sg/products/warehouse-logistics/)
-  - [Carts & Trolleys](https://pandatec.sg/products/warehouse-logistics/carts-trolleys/): 49 products – supermarket shopping trolleys, platform trolleys, wire service trolleys, roll cages, tool carts, hospital trolleys
+  - [Carts & Trolleys](https://pandatec.sg/products/warehouse-logistics/carts-trolleys/): 113 products – supermarket shopping trolleys, platform trolleys, wire service trolleys, roll cages, tool carts, hospital trolleys
     - [Shopping Trolleys](https://pandatec.sg/products/warehouse-logistics/carts-trolleys/shopping-trolleys/): 4 products
-    - [Platform Trolleys](https://pandatec.sg/products/warehouse-logistics/carts-trolleys/platform-trolleys/): 1 products
+    - [Platform Trolleys](https://pandatec.sg/products/warehouse-logistics/carts-trolleys/platform-trolleys/): 1 product
     - [Wire Shelf Trolleys](https://pandatec.sg/products/warehouse-logistics/carts-trolleys/wire-shelf-trolleys/): 3 products
-    - [Roll Cages](https://pandatec.sg/products/warehouse-logistics/carts-trolleys/roll-cages/): 1 products
+    - [Roll Cages](https://pandatec.sg/products/warehouse-logistics/carts-trolleys/roll-cages/): 1 product
     - [Tool Carts](https://pandatec.sg/products/warehouse-logistics/carts-trolleys/tool-carts/): 4 products
-    - [Medical & Hospital Trolleys](https://pandatec.sg/products/warehouse-logistics/carts-trolleys/medical-hospital-trolleys/): 36 products
+    - [Medical & Hospital Trolleys](https://pandatec.sg/products/warehouse-logistics/carts-trolleys/medical-hospital-trolleys/): 100 products
   - [Compact Shelving](https://pandatec.sg/products/warehouse-logistics/compact-shelving/): 2 products
   - [Pallets & Packaging](https://pandatec.sg/products/warehouse-logistics/pallets-packaging/): 42 products – air column bags and rolls, air cushion film, bubble wrap, honeycomb paper, dunnage bags, air cushion machines, battery strapping tools
     - [Air Column Packaging](https://pandatec.sg/products/warehouse-logistics/pallets-packaging/air-column-packaging/): 7 products
