@@ -117,7 +117,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Hand Bouquets Singapore](https://pandatec.sg/products/corporate-gifts/florist/hand-bouquets/): 156 products
     - [Preserved Flowers Singapore](https://pandatec.sg/products/corporate-gifts/florist/preserved-flowers/): 2 products
 - [Office & Commercial Furniture Supplier in Singapore](https://pandatec.sg/products/furniture-workplace/)
-  - [Acoustic Pods](https://pandatec.sg/products/furniture-workplace/acoustic-pods/): 2 products
+  - [Acoustic Pods](https://pandatec.sg/products/furniture-workplace/acoustic-pods/): 10 products
   - [Custom Carpentry](https://pandatec.sg/products/furniture-workplace/custom-carpentry/): 43 products – powder-coated wardrobe and cabinet doors, interior and concealed doors, arc wall panels, display cabinets
     - [Cabinet & Wardrobe Doors](https://pandatec.sg/products/furniture-workplace/custom-carpentry/cabinet-wardrobe-doors/): 17 products
     - [Interior Doors](https://pandatec.sg/products/furniture-workplace/custom-carpentry/interior-doors/): 15 products
@@ -157,7 +157,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Coffee & Side Tables](https://pandatec.sg/products/furniture-workplace/luxury-collection/coffee-side-tables/): 177 products
     - [Accent Furniture](https://pandatec.sg/products/furniture-workplace/luxury-collection/accent-furniture/): 7 products
     - [Tea Tables & Tea Room Furniture](https://pandatec.sg/products/furniture-workplace/luxury-collection/tea-room-furniture/): 232 products
-  - [Office Accessories](https://pandatec.sg/products/furniture-workplace/office-accessories/): 28 products
+  - [Office Accessories](https://pandatec.sg/products/furniture-workplace/office-accessories/): 36 products
   - [Office Chairs](https://pandatec.sg/products/furniture-workplace/office-chairs/): 196 products
     - [BIFMA Certified](https://pandatec.sg/products/furniture-workplace/office-chairs/bifma-certified/): 55 products
     - [Ergonomic Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/ergonomic-chair/): 45 products
@@ -178,8 +178,13 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Lounge Chair](https://pandatec.sg/products/furniture-workplace/reception-lounge/lounge-chair/): 48 products
     - [Modular Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/modular-sofa/): 3 products
     - [Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/sofa/): 57 products
-  - [School Furniture](https://pandatec.sg/products/furniture-workplace/school-furniture/): 70 products
-  - [System Furniture](https://pandatec.sg/products/furniture-workplace/system-furniture/): 159 products
+  - [School Furniture](https://pandatec.sg/products/furniture-workplace/school-furniture/): 99 products
+  - [System Furniture](https://pandatec.sg/products/furniture-workplace/system-furniture/): 191 products
+  - [Desk Frames & Height-Adjustable Desks](https://pandatec.sg/products/furniture-workplace/desk-frames-height-adjustable/): 116 products – electric standing desk frames, lifting columns, height-adjustable desks, folding training tables, die-cast desk frames
+    - [Electric Height-Adjustable Desks](https://pandatec.sg/products/furniture-workplace/desk-frames-height-adjustable/electric-height-adjustable-desks/): 55 products
+    - [Lifting Columns & Controls](https://pandatec.sg/products/furniture-workplace/desk-frames-height-adjustable/lifting-columns-controls/): 14 products
+    - [Folding Training Tables](https://pandatec.sg/products/furniture-workplace/desk-frames-height-adjustable/folding-training-tables/): 29 products
+    - [Die-Cast Desk Frame Systems](https://pandatec.sg/products/furniture-workplace/desk-frames-height-adjustable/die-cast-desk-frames/): 18 products
   - [Office & Pantry Electrical Appliances](https://pandatec.sg/products/industrial-products/facility-appliances/): 203 products
     - [Air Purifiers](https://pandatec.sg/products/industrial-products/facility-appliances/air-purifier/): 5 products
     - [Fridges & Freezers](https://pandatec.sg/products/industrial-products/facility-appliances/fridge/): 40 products

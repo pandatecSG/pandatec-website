@@ -363,6 +363,28 @@
         "children": []
       },
       {
+        "slug": "desk-frames-height-adjustable",
+        "label": "Desk Frames & Height-Adjustable Desks",
+        "children": [
+          {
+            "slug": "electric-height-adjustable-desks",
+            "label": "Electric Height-Adjustable Desks"
+          },
+          {
+            "slug": "lifting-columns-controls",
+            "label": "Lifting Columns & Controls"
+          },
+          {
+            "slug": "folding-training-tables",
+            "label": "Folding Training Tables"
+          },
+          {
+            "slug": "die-cast-desk-frames",
+            "label": "Die-Cast Desk Frame Systems"
+          }
+        ]
+      },
+      {
         "slug": "office-accessories",
         "label": "Office Accessories",
         "children": []
