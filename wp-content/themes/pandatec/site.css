@@ -114,3 +114,12 @@ body section{padding:40px 0}
 .insight-article section{padding:0;margin:22px 0 0;min-height:0}
 .insight-article a:not(.btn){color:#0b5cad;text-decoration:underline;text-underline-offset:2px}
 .reference-hero .insights-lead{color:#fff;opacity:.92;max-width:760px}
+
+/* L1 pages: L2 category cards - larger icon, name to the right of the icon */
+.range-card:has(> .range-icon){display:grid;grid-template-columns:auto 1fr;column-gap:16px;align-items:center;align-content:start}
+.range-card:has(> .range-icon) .range-icon{width:76px;height:76px;padding:0;margin:0;display:grid;place-items:center;border-radius:50%;background:#eaf0f6;color:var(--navy)}
+.range-card:has(> .range-icon) .range-icon svg{width:38px;height:38px}
+.range-card:has(> .range-icon) h3{margin:0;font-size:1.08rem;line-height:1.35}
+.range-card:has(> .range-icon) p{grid-column:1 / -1;margin:14px 0 0;min-height:0}
+.range-card:has(> .range-icon) .text-link{grid-column:1 / -1;justify-self:start;margin-top:12px}
+@media (max-width:640px){.range-grid:has(> .range-card > .range-icon){grid-template-columns:1fr}.range-card:has(> .range-icon) .range-icon{width:60px;height:60px}.range-card:has(> .range-icon) .range-icon svg{width:30px;height:30px}.range-card:has(> .range-icon) h3{overflow-wrap:anywhere}}
