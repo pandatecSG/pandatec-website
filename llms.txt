@@ -118,7 +118,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Preserved Flowers Singapore](https://pandatec.sg/products/corporate-gifts/florist/preserved-flowers/): 2 products
 - [Office & Commercial Furniture Supplier in Singapore](https://pandatec.sg/products/furniture-workplace/)
   - [Acoustic Pods](https://pandatec.sg/products/furniture-workplace/acoustic-pods/): 2 products
-  - [Custom Carpentry](https://pandatec.sg/products/furniture-workplace/custom-carpentry/): 41 products – powder-coated wardrobe and cabinet doors, interior and concealed doors, arc wall panels, display cabinets
+  - [Custom Carpentry](https://pandatec.sg/products/furniture-workplace/custom-carpentry/): 43 products – powder-coated wardrobe and cabinet doors, interior and concealed doors, arc wall panels, display cabinets
     - [Cabinet & Wardrobe Doors](https://pandatec.sg/products/furniture-workplace/custom-carpentry/cabinet-wardrobe-doors/): 17 products
     - [Interior Doors](https://pandatec.sg/products/furniture-workplace/custom-carpentry/interior-doors/): 15 products
     - [Wall Panels & Arc Profiles](https://pandatec.sg/products/furniture-workplace/custom-carpentry/wall-panels-arc-profiles/): 3 products
@@ -129,7 +129,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Dining Chair](https://pandatec.sg/products/furniture-workplace/dining-furniture/dining-chair/): 5 products
     - [Dining Table](https://pandatec.sg/products/furniture-workplace/dining-furniture/dining-table/): 16 products
     - [Plastic Chair](https://pandatec.sg/products/furniture-workplace/dining-furniture/plastic-chair/): 95 products
-  - [Hotel Accommodation](https://pandatec.sg/products/furniture-workplace/hotel-accommodation/): 70 products
+  - [Hotel Accommodation](https://pandatec.sg/products/furniture-workplace/hotel-accommodation/): 73 products
   - [Steel Cabinets & Lockers](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/): 48 products – steel lockers, wardrobes, electronic lockers, filing, instrument, security, tool and fire cabinets, shelving, library bookshelves
     - [Lockers & Wardrobes](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/lockers-wardrobes/): 11 products
     - [Electronic Lockers](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/electronic-lockers/): 4 products
@@ -178,7 +178,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Modular Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/modular-sofa/): 3 products
     - [Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/sofa/): 57 products
   - [School Furniture](https://pandatec.sg/products/furniture-workplace/school-furniture/): 70 products
-  - [System Furniture](https://pandatec.sg/products/furniture-workplace/system-furniture/): 117 products
+  - [System Furniture](https://pandatec.sg/products/furniture-workplace/system-furniture/): 159 products
   - [Office & Pantry Electrical Appliances](https://pandatec.sg/products/industrial-products/facility-appliances/): 203 products
     - [Air Purifiers](https://pandatec.sg/products/industrial-products/facility-appliances/air-purifier/): 5 products
     - [Fridges & Freezers](https://pandatec.sg/products/industrial-products/facility-appliances/fridge/): 40 products
