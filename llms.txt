@@ -50,7 +50,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [ESD Packaging Materials](https://pandatec.sg/products/cleanroom/cleanroom-bags-packaging/esd-packaging-materials/): 5 products
     - [ESD & Cleanroom Bags](https://pandatec.sg/products/cleanroom/cleanroom-bags-packaging/esd-bags-film/): 3 products
     - [Anti-Static Foam](https://pandatec.sg/products/cleanroom/cleanroom-bags-packaging/anti-static-foam/): 2 products
-  - [ESD Products](https://pandatec.sg/products/cleanroom/esd-products/): 74 products
+  - [ESD Products](https://pandatec.sg/products/cleanroom/esd-products/): 132 products
     - [Wrist & Heel Straps](https://pandatec.sg/products/cleanroom/esd-products/esd-wrist-heel-straps/): 4 products
     - [Bench Mats & ESD Curtains](https://pandatec.sg/products/cleanroom/esd-products/esd-bench-mats-curtains/): 2 products
     - [Bins, Racks & Totes](https://pandatec.sg/products/cleanroom/esd-products/esd-bins-racks-totes/): 5 products
@@ -62,8 +62,8 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Dispensers](https://pandatec.sg/products/cleanroom/dispensing-equipment/dispensers/): 3 products
     - [Syringes, Cartridges & Mixers](https://pandatec.sg/products/cleanroom/dispensing-equipment/syringes-cartridges/): 7 products
     - [Dispensing Tips](https://pandatec.sg/products/cleanroom/dispensing-equipment/dispensing-tips/): 10 products
-  - [Cleanroom Furniture & Storage](https://pandatec.sg/products/cleanroom/cleanroom-furniture-storage/): 44 products
-    - [ESD Chairs & Stools](https://pandatec.sg/products/cleanroom/cleanroom-furniture-storage/esd-seating/): 36 products
+  - [Cleanroom Furniture & Storage](https://pandatec.sg/products/cleanroom/cleanroom-furniture-storage/): 102 products
+    - [ESD Chairs & Stools](https://pandatec.sg/products/cleanroom/cleanroom-furniture-storage/esd-seating/): 94 products
     - [ESD Floor & Bench Mats](https://pandatec.sg/products/cleanroom/cleanroom-furniture-storage/esd-floor-bench-mats/): 4 products
     - [Workbenches & Work Tables](https://pandatec.sg/products/cleanroom/cleanroom-furniture-storage/workbenches-work-tables/): 4 products
 - [Chemicals & Industrial Chemicals Supplier in Singapore](https://pandatec.sg/products/chemicals/): plastic resins, industrial solvents, petrochemical feedstocks, fertilizers, coating raw materials and specialty chemicals; SDS / TDS / COA on request
@@ -123,12 +123,12 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Interior Doors](https://pandatec.sg/products/furniture-workplace/custom-carpentry/interior-doors/): 15 products
     - [Wall Panels & Arc Profiles](https://pandatec.sg/products/furniture-workplace/custom-carpentry/wall-panels-arc-profiles/): 3 products
     - [Display & Storage Cabinets](https://pandatec.sg/products/furniture-workplace/custom-carpentry/display-storage-cabinets/): 6 products
-  - [Dining Furniture](https://pandatec.sg/products/furniture-workplace/dining-furniture/): 246 products
-    - [Banquette & Booth Seat](https://pandatec.sg/products/furniture-workplace/dining-furniture/banquette-booth-seat/): 20 products
-    - [Bar Stool](https://pandatec.sg/products/furniture-workplace/dining-furniture/bar-stool/): 5 products
-    - [Dining Chair](https://pandatec.sg/products/furniture-workplace/dining-furniture/dining-chair/): 27 products
-    - [Dining Table](https://pandatec.sg/products/furniture-workplace/dining-furniture/dining-table/): 99 products
-    - [Plastic Chair](https://pandatec.sg/products/furniture-workplace/dining-furniture/plastic-chair/): 95 products
+  - [Dining Furniture](https://pandatec.sg/products/furniture-workplace/dining-furniture/): 1014 products
+    - [Banquette & Booth Seat](https://pandatec.sg/products/furniture-workplace/dining-furniture/banquette-booth-seat/): 104 products
+    - [Bar Stool](https://pandatec.sg/products/furniture-workplace/dining-furniture/bar-stool/): 36 products
+    - [Dining Chair](https://pandatec.sg/products/furniture-workplace/dining-furniture/dining-chair/): 279 products
+    - [Dining Table](https://pandatec.sg/products/furniture-workplace/dining-furniture/dining-table/): 430 products
+    - [Plastic Chair](https://pandatec.sg/products/furniture-workplace/dining-furniture/plastic-chair/): 165 products
   - [Hotel Accommodation](https://pandatec.sg/products/furniture-workplace/hotel-accommodation/): 73 products
   - [Steel Cabinets & Lockers](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/): 48 products – steel lockers, wardrobes, electronic lockers, filing, instrument, security, tool and fire cabinets, shelving, library bookshelves
     - [Lockers & Wardrobes](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/lockers-wardrobes/): 11 products
@@ -151,39 +151,39 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Table & Floor Lamps](https://pandatec.sg/products/furniture-workplace/lighting/table-floor-lamps/): 18 products
     - [LED Downlights & Spotlights](https://pandatec.sg/products/furniture-workplace/lighting/led-downlights-spotlights/): 8 products
     - [Garden & Landscape Lighting](https://pandatec.sg/products/furniture-workplace/lighting/garden-landscape-lighting/): 8 products
-  - [Sofas & Lounge Chairs](https://pandatec.sg/products/furniture-workplace/luxury-collection/): 492 products – leather and fabric sofas, lounge chairs, armchairs, coffee and side tables, Chinese tea tables and tea room furniture
-    - [Sofas](https://pandatec.sg/products/furniture-workplace/luxury-collection/sofas/): 42 products
-    - [Lounge Chairs](https://pandatec.sg/products/furniture-workplace/luxury-collection/lounge-chairs/): 34 products
-    - [Coffee & Side Tables](https://pandatec.sg/products/furniture-workplace/luxury-collection/coffee-side-tables/): 177 products
-    - [Accent Furniture](https://pandatec.sg/products/furniture-workplace/luxury-collection/accent-furniture/): 7 products
-    - [Tea Tables & Tea Room Furniture](https://pandatec.sg/products/furniture-workplace/luxury-collection/tea-room-furniture/): 232 products
+  - [Sofas & Lounge Chairs](https://pandatec.sg/products/furniture-workplace/luxury-collection/): 529 products – leather and fabric sofas, lounge chairs, armchairs, coffee and side tables, Chinese tea tables and tea room furniture
+    - [Sofas](https://pandatec.sg/products/furniture-workplace/luxury-collection/sofas/): 43 products
+    - [Lounge Chairs](https://pandatec.sg/products/furniture-workplace/luxury-collection/lounge-chairs/): 38 products
+    - [Coffee & Side Tables](https://pandatec.sg/products/furniture-workplace/luxury-collection/coffee-side-tables/): 191 products
+    - [Accent Furniture](https://pandatec.sg/products/furniture-workplace/luxury-collection/accent-furniture/): 17 products
+    - [Tea Tables & Tea Room Furniture](https://pandatec.sg/products/furniture-workplace/luxury-collection/tea-room-furniture/): 240 products
   - [Office Accessories](https://pandatec.sg/products/furniture-workplace/office-accessories/): 36 products
-  - [Office Chairs](https://pandatec.sg/products/furniture-workplace/office-chairs/): 196 products
+  - [Office Chairs](https://pandatec.sg/products/furniture-workplace/office-chairs/): 336 products
     - [BIFMA Certified](https://pandatec.sg/products/furniture-workplace/office-chairs/bifma-certified/): 55 products
-    - [Ergonomic Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/ergonomic-chair/): 45 products
-    - [Mesh Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/mesh-chair/): 11 products
+    - [Ergonomic Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/ergonomic-chair/): 61 products
+    - [Mesh Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/mesh-chair/): 54 products
     - [PU/Leather Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/pu-leather-chair/): 29 products
-    - [Training Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/training-chair/): 40 products
-  - [Outdoor Furniture](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/): 1168 products
-    - [ABS Furniture](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/abs-furniture/): 2 products
+    - [Training Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/training-chair/): 63 products
+  - [Outdoor Furniture](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/): 1174 products
+    - [ABS Furniture](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/abs-furniture/): 4 products
     - [Bench](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/bench/): 45 products
-    - [Chair / Stool](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/chair-stool/): 137 products
-    - [Sofa](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/sofa/): 138 products
-    - [Table](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/table/): 109 products
+    - [Chair / Stool](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/chair-stool/): 140 products
+    - [Sofa](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/sofa/): 139 products
+    - [Table](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/table/): 110 products
     - [Umbrella](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/umbrella/): 53 products
-    - [Outdoor Dining & Bar Sets](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/dining-bar-sets/): 468 products
+    - [Outdoor Dining & Bar Sets](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/dining-bar-sets/): 469 products
     - [Sun Loungers & Daybeds](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/sun-loungers-daybeds/): 108 products
     - [Hanging Chairs & Swings](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/hanging-chairs-swings/): 46 products
     - [Gazebos & Pergolas](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/gazebos-pergolas/): 22 products
     - [Planters & Landscape Features](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/planters-landscape/): 32 products
-  - [Reception & Breakout](https://pandatec.sg/products/furniture-workplace/reception-lounge/): 398 products
+  - [Reception & Breakout](https://pandatec.sg/products/furniture-workplace/reception-lounge/): 401 products
     - [Coffee Table](https://pandatec.sg/products/furniture-workplace/reception-lounge/coffee-table/): 212 products
     - [Compressed Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/compressed-sofa/): 11 products
     - [High Back Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/high-back-sofa/): 3 products
-    - [Lounge Chair](https://pandatec.sg/products/furniture-workplace/reception-lounge/lounge-chair/): 48 products
+    - [Lounge Chair](https://pandatec.sg/products/furniture-workplace/reception-lounge/lounge-chair/): 51 products
     - [Modular Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/modular-sofa/): 3 products
     - [Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/sofa/): 57 products
-  - [School Furniture](https://pandatec.sg/products/furniture-workplace/school-furniture/): 99 products
+  - [School Furniture](https://pandatec.sg/products/furniture-workplace/school-furniture/): 305 products
   - [System Furniture](https://pandatec.sg/products/furniture-workplace/system-furniture/): 191 products
   - [Desk Frames & Height-Adjustable Desks](https://pandatec.sg/products/furniture-workplace/desk-frames-height-adjustable/): 116 products – electric standing desk frames, lifting columns, height-adjustable desks, folding training tables, die-cast desk frames
     - [Electric Height-Adjustable Desks](https://pandatec.sg/products/furniture-workplace/desk-frames-height-adjustable/electric-height-adjustable-desks/): 55 products
