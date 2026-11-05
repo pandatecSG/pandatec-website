@@ -164,7 +164,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Mesh Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/mesh-chair/): 11 products
     - [PU/Leather Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/pu-leather-chair/): 29 products
     - [Training Chair](https://pandatec.sg/products/furniture-workplace/office-chairs/training-chair/): 40 products
-  - [Outdoor Furniture](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/): 1155 products
+  - [Outdoor Furniture](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/): 1168 products
     - [ABS Furniture](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/abs-furniture/): 2 products
     - [Bench](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/bench/): 45 products
     - [Chair / Stool](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/chair-stool/): 137 products
@@ -175,7 +175,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Sun Loungers & Daybeds](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/sun-loungers-daybeds/): 108 products
     - [Hanging Chairs & Swings](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/hanging-chairs-swings/): 46 products
     - [Gazebos & Pergolas](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/gazebos-pergolas/): 22 products
-    - [Planters & Landscape Features](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/planters-landscape/): 19 products
+    - [Planters & Landscape Features](https://pandatec.sg/products/furniture-workplace/outdoor-furniture/planters-landscape/): 32 products
   - [Reception & Breakout](https://pandatec.sg/products/furniture-workplace/reception-lounge/): 398 products
     - [Coffee Table](https://pandatec.sg/products/furniture-workplace/reception-lounge/coffee-table/): 212 products
     - [Compressed Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/compressed-sofa/): 11 products
