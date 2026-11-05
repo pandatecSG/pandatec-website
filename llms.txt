@@ -118,7 +118,11 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Preserved Flowers Singapore](https://pandatec.sg/products/corporate-gifts/florist/preserved-flowers/): 2 products
 - [Office & Commercial Furniture Supplier in Singapore](https://pandatec.sg/products/furniture-workplace/)
   - [Acoustic Pods](https://pandatec.sg/products/furniture-workplace/acoustic-pods/): 2 products
-  - [Custom Carpentry](https://pandatec.sg/products/furniture-workplace/custom-carpentry/)
+  - [Custom Carpentry](https://pandatec.sg/products/furniture-workplace/custom-carpentry/): 41 products – powder-coated wardrobe and cabinet doors, interior and concealed doors, arc wall panels, display cabinets
+    - [Cabinet & Wardrobe Doors](https://pandatec.sg/products/furniture-workplace/custom-carpentry/cabinet-wardrobe-doors/): 17 products
+    - [Interior Doors](https://pandatec.sg/products/furniture-workplace/custom-carpentry/interior-doors/): 15 products
+    - [Wall Panels & Arc Profiles](https://pandatec.sg/products/furniture-workplace/custom-carpentry/wall-panels-arc-profiles/): 3 products
+    - [Display & Storage Cabinets](https://pandatec.sg/products/furniture-workplace/custom-carpentry/display-storage-cabinets/): 6 products
   - [Dining Furniture](https://pandatec.sg/products/furniture-workplace/dining-furniture/): 141 products
     - [Banquette & Booth Seat](https://pandatec.sg/products/furniture-workplace/dining-furniture/banquette-booth-seat/): 20 products
     - [Bar Stool](https://pandatec.sg/products/furniture-workplace/dining-furniture/bar-stool/): 5 products

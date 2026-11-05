@@ -609,7 +609,24 @@
       {
         "slug": "custom-carpentry",
         "label": "Custom Carpentry",
-        "children": []
+        "children": [
+          {
+            "slug": "cabinet-wardrobe-doors",
+            "label": "Cabinet & Wardrobe Doors"
+          },
+          {
+            "slug": "interior-doors",
+            "label": "Interior Doors"
+          },
+          {
+            "slug": "wall-panels-arc-profiles",
+            "label": "Wall Panels & Arc Profiles"
+          },
+          {
+            "slug": "display-storage-cabinets",
+            "label": "Display & Storage Cabinets"
+          }
+        ]
       },
       {
         "slug": "facility-appliances",
