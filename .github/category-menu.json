@@ -52,7 +52,13 @@
       {
         "slug": "flooring",
         "label": "Flooring",
-        "children": []
+        "children": [
+          {
+            "slug": "carpets-rugs",
+            "label": "Carpets & Rugs",
+            "children": []
+          }
+        ]
       },
       {
         "slug": "signage",

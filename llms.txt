@@ -18,7 +18,8 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Cables Electrical](https://pandatec.sg/products/building-infrastructure/cables-electrical/)
   - [Construction Hardware](https://pandatec.sg/products/building-infrastructure/construction-hardware/)
   - [Fencing Barriers](https://pandatec.sg/products/building-infrastructure/fencing-barriers/)
-  - [Flooring](https://pandatec.sg/products/building-infrastructure/flooring/): 3 products
+  - [Flooring](https://pandatec.sg/products/building-infrastructure/flooring/): 86 products
+    - [Carpets & Rugs](https://pandatec.sg/products/building-infrastructure/flooring/carpets-rugs/): 83 products
   - [Metal Products](https://pandatec.sg/products/building-infrastructure/metal-products/)
   - [Paints Coatings](https://pandatec.sg/products/building-infrastructure/paints-coatings/)
   - [Pipes](https://pandatec.sg/products/building-infrastructure/pipes/)
@@ -129,7 +130,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Dining Chair](https://pandatec.sg/products/furniture-workplace/dining-furniture/dining-chair/): 279 products
     - [Dining Table](https://pandatec.sg/products/furniture-workplace/dining-furniture/dining-table/): 430 products
     - [Plastic Chair](https://pandatec.sg/products/furniture-workplace/dining-furniture/plastic-chair/): 165 products
-  - [Hotel Accommodation](https://pandatec.sg/products/furniture-workplace/hotel-accommodation/): 146 products
+  - [Hotel Accommodation](https://pandatec.sg/products/furniture-workplace/hotel-accommodation/): 229 products
   - [Steel Cabinets & Lockers](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/): 48 products – steel lockers, wardrobes, electronic lockers, filing, instrument, security, tool and fire cabinets, shelving, library bookshelves
     - [Lockers & Wardrobes](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/lockers-wardrobes/): 11 products
     - [Electronic Lockers](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/electronic-lockers/): 4 products
