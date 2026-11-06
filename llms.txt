@@ -117,7 +117,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Hand Bouquets Singapore](https://pandatec.sg/products/corporate-gifts/florist/hand-bouquets/): 156 products
     - [Preserved Flowers Singapore](https://pandatec.sg/products/corporate-gifts/florist/preserved-flowers/): 2 products
 - [Office & Commercial Furniture Supplier in Singapore](https://pandatec.sg/products/furniture-workplace/)
-  - [Acoustic Pods](https://pandatec.sg/products/furniture-workplace/acoustic-pods/): 16 products
+  - [Acoustic Pods](https://pandatec.sg/products/furniture-workplace/acoustic-pods/): 8 products
   - [Custom Carpentry](https://pandatec.sg/products/furniture-workplace/custom-carpentry/): 43 products – powder-coated wardrobe and cabinet doors, interior and concealed doors, arc wall panels, display cabinets
     - [Cabinet & Wardrobe Doors](https://pandatec.sg/products/furniture-workplace/custom-carpentry/cabinet-wardrobe-doors/): 17 products
     - [Interior Doors](https://pandatec.sg/products/furniture-workplace/custom-carpentry/interior-doors/): 15 products
