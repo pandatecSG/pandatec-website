@@ -129,7 +129,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Dining Chair](https://pandatec.sg/products/furniture-workplace/dining-furniture/dining-chair/): 279 products
     - [Dining Table](https://pandatec.sg/products/furniture-workplace/dining-furniture/dining-table/): 430 products
     - [Plastic Chair](https://pandatec.sg/products/furniture-workplace/dining-furniture/plastic-chair/): 165 products
-  - [Hotel Accommodation](https://pandatec.sg/products/furniture-workplace/hotel-accommodation/): 73 products
+  - [Hotel Accommodation](https://pandatec.sg/products/furniture-workplace/hotel-accommodation/): 146 products
   - [Steel Cabinets & Lockers](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/): 48 products – steel lockers, wardrobes, electronic lockers, filing, instrument, security, tool and fire cabinets, shelving, library bookshelves
     - [Lockers & Wardrobes](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/lockers-wardrobes/): 11 products
     - [Electronic Lockers](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/electronic-lockers/): 4 products
