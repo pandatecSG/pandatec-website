@@ -39,9 +39,9 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [KN95 Respirator Masks](https://pandatec.sg/products/cleanroom/masks-shoe-covers/kn95-respirator-masks/): 5 products
     - [Headwear & Sleeve Covers](https://pandatec.sg/products/cleanroom/masks-shoe-covers/headwear-sleeve-covers/): 7 products
     - [Shoe Covers](https://pandatec.sg/products/cleanroom/masks-shoe-covers/shoe-covers/): 3 products
-  - [Cleanroom Garments](https://pandatec.sg/products/cleanroom/cleanroom-garments/): 12 products
+  - [Cleanroom Garments](https://pandatec.sg/products/cleanroom/cleanroom-garments/): 15 products
     - [ESD Coveralls & Suits](https://pandatec.sg/products/cleanroom/cleanroom-garments/esd-coveralls-suits/): 2 products
-    - [ESD Cleanroom Footwear](https://pandatec.sg/products/cleanroom/cleanroom-garments/esd-cleanroom-footwear/): 10 products
+    - [ESD Cleanroom Footwear](https://pandatec.sg/products/cleanroom/cleanroom-garments/esd-cleanroom-footwear/): 13 products
   - [Contamination Control](https://pandatec.sg/products/cleanroom/contamination-control/): 10 products
     - [Sticky Mats & Rollers](https://pandatec.sg/products/cleanroom/contamination-control/sticky-mats-rollers/): 8 products
     - [Cleanroom Mops](https://pandatec.sg/products/cleanroom/contamination-control/cleanroom-mops/): 2 products
@@ -117,7 +117,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Hand Bouquets Singapore](https://pandatec.sg/products/corporate-gifts/florist/hand-bouquets/): 156 products
     - [Preserved Flowers Singapore](https://pandatec.sg/products/corporate-gifts/florist/preserved-flowers/): 2 products
 - [Office & Commercial Furniture Supplier in Singapore](https://pandatec.sg/products/furniture-workplace/)
-  - [Acoustic Pods](https://pandatec.sg/products/furniture-workplace/acoustic-pods/): 10 products
+  - [Acoustic Pods](https://pandatec.sg/products/furniture-workplace/acoustic-pods/): 16 products
   - [Custom Carpentry](https://pandatec.sg/products/furniture-workplace/custom-carpentry/): 43 products – powder-coated wardrobe and cabinet doors, interior and concealed doors, arc wall panels, display cabinets
     - [Cabinet & Wardrobe Doors](https://pandatec.sg/products/furniture-workplace/custom-carpentry/cabinet-wardrobe-doors/): 17 products
     - [Interior Doors](https://pandatec.sg/products/furniture-workplace/custom-carpentry/interior-doors/): 15 products
@@ -270,7 +270,7 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Hearing Protection](https://pandatec.sg/products/ppe-safety/hearing-protection/)
   - [Protective Clothing Coveralls](https://pandatec.sg/products/ppe-safety/protective-clothing-coveralls/): 7 products
   - [Respiratory Protection](https://pandatec.sg/products/ppe-safety/respiratory-protection/): 19 products
-  - [Safety Shoes](https://pandatec.sg/products/ppe-safety/safety-shoes/)
+  - [Safety Shoes](https://pandatec.sg/products/ppe-safety/safety-shoes/): 59 products
 - [Warehouse Racking & Storage Solutions in Singapore](https://pandatec.sg/products/warehouse-logistics/)
   - [Carts & Trolleys](https://pandatec.sg/products/warehouse-logistics/carts-trolleys/): 113 products – supermarket shopping trolleys, platform trolleys, wire service trolleys, roll cages, tool carts, hospital trolleys
     - [Shopping Trolleys](https://pandatec.sg/products/warehouse-logistics/carts-trolleys/shopping-trolleys/): 4 products
