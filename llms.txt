@@ -205,7 +205,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Dishwashers, Dehumidifiers & Other Appliances](https://pandatec.sg/products/industrial-products/facility-appliances/others/): 9 products
 - [Industrial Products & MRO Supplies in Singapore](https://pandatec.sg/products/industrial-products/)
   - [Cleaning Maintenance](https://pandatec.sg/products/industrial-products/cleaning-maintenance/)
-  - [Electrical Accessories](https://pandatec.sg/products/industrial-products/electrical-accessories/): 8 products
+  - [Electrical Accessories](https://pandatec.sg/products/industrial-products/electrical-accessories/)
   - [Fasteners](https://pandatec.sg/products/industrial-products/fasteners/)
   - [Mro Consumables](https://pandatec.sg/products/industrial-products/mro-consumables/)
   - [Safety Storage Cabinets](https://pandatec.sg/products/industrial-products/safety-storage-cabinets/): 17 products
