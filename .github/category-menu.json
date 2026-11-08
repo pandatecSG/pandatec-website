@@ -125,7 +125,23 @@
       {
         "slug": "signage",
         "label": "Signage",
-        "children": []
+        "children": [
+          {
+            "slug": "illuminated-letter-signs",
+            "label": "Illuminated Letter Signs",
+            "children": []
+          },
+          {
+            "slug": "light-boxes",
+            "label": "Light Boxes",
+            "children": []
+          },
+          {
+            "slug": "pylon-signs-billboards",
+            "label": "Pylon Signs & Billboards",
+            "children": []
+          }
+        ]
       },
       {
         "slug": "metal-products",

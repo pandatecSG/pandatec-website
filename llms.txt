@@ -1,6 +1,6 @@
 # PANDA COLLECTIONS (PANDATEC PTE. LTD.)
 
-> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6018 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers and corporate gifting in Singapore and worldwide. Prices are quoted on request.
+> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6037 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers and corporate gifting in Singapore and worldwide. Prices are quoted on request.
 
 - Address: 35 Tannery Road #05-06, Ruby Industrial Complex, Singapore 347740
 - Phone / WhatsApp: +65 8472 6456
@@ -36,7 +36,10 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Paints Coatings](https://pandatec.sg/products/building-infrastructure/paints-coatings/)
   - [Pipes](https://pandatec.sg/products/building-infrastructure/pipes/)
   - [Road Traffic Products](https://pandatec.sg/products/building-infrastructure/road-traffic-products/)
-  - [Signage](https://pandatec.sg/products/building-infrastructure/signage/): 1 product
+  - [Signage](https://pandatec.sg/products/building-infrastructure/signage/): 20 products
+    - [Illuminated Letter Signs](https://pandatec.sg/products/building-infrastructure/signage/illuminated-letter-signs/): 7 products
+    - [Light Boxes](https://pandatec.sg/products/building-infrastructure/signage/light-boxes/): 8 products
+    - [Pylon Signs & Billboards](https://pandatec.sg/products/building-infrastructure/signage/pylon-signs-billboards/): 4 products
 - [Cleanroom Supplies & Consumables in Singapore](https://pandatec.sg/products/cleanroom/): cleanroom consumables, ESD products, particle counters and dispensing equipment
   - [Cleanroom Wipes](https://pandatec.sg/products/cleanroom/cleanroom-wipes/): 19 products
     - [Cleanroom Wipers](https://pandatec.sg/products/cleanroom/cleanroom-wipes/cleanroom-wipers/): 8 products
