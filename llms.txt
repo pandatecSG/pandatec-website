@@ -315,6 +315,19 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Turnover Boxes & Bins](https://pandatec.sg/products/warehouse-logistics/turnover-boxes-bins/)
   - [Wire Containers](https://pandatec.sg/products/warehouse-logistics/wire-containers/): 7 products
 
+## Industries supplied
+
+- [Hotels & Hospitality](https://pandatec.sg/industries/hospitality/): 3,045 products – Hotel furniture, lighting, carpets and fit-out for hotels, resorts and serviced apartments.
+- [Restaurants, Cafés & Food Service](https://pandatec.sg/industries/food-beverage/): 3,156 products – Dining furniture, booths, outdoor seating, kitchen equipment and signage for F&B outlets.
+- [Offices & Corporate](https://pandatec.sg/industries/corporate/): 1,714 products – Office chairs, workstations, height-adjustable desks, pods and corporate gifts.
+- [Healthcare & Aged Care](https://pandatec.sg/industries/healthcare/): 395 products – Hospital beds, trolleys, nursing-home furniture and medical consumables.
+- [Schools & Education](https://pandatec.sg/industries/education/): 2,796 products – School, lecture-hall, canteen, hostel and laboratory furniture for schools and universities.
+- [Construction & Real Estate](https://pandatec.sg/industries/construction/): 905 products – Door hardware, aluminium profiles, pipes, coatings, flooring and signage for building projects.
+- [Cleanroom, Electronics & Pharmaceutical](https://pandatec.sg/industries/pharmaceutical/): 264 products – Cleanroom consumables, ESD products, garments and furniture for electronics, semiconductor and pharma.
+- [Manufacturing & Chemicals](https://pandatec.sg/industries/manufacturing/): 276 products – Chemical raw materials, special alloys, workshop equipment, machines and packaging for factories.
+- [Logistics & Warehousing](https://pandatec.sg/industries/logistics/): 279 products – Racking, shelving, trolleys, wire containers and protective packaging for warehouses.
+- [Government & Public Facilities](https://pandatec.sg/industries/government/): 2,176 products – Public furniture, barracks and dormitory beds, lockers, seating and signage.
+
 ## Key pages
 
 - [About us](https://pandatec.sg/about-us/)
