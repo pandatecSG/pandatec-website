@@ -1423,6 +1423,26 @@
             "label": "Electronic & Semiconductor Chemicals"
           }
         ]
+      },
+      {
+        "slug": "aroma-chemicals",
+        "label": "Aroma Chemicals",
+        "children": []
+      },
+      {
+        "slug": "battery-materials",
+        "label": "Battery Materials",
+        "children": []
+      },
+      {
+        "slug": "polyurethane-raw-materials-systems",
+        "label": "Polyurethane Raw Materials & Systems",
+        "children": []
+      },
+      {
+        "slug": "superabsorbent-polymers",
+        "label": "Superabsorbent Polymers",
+        "children": []
       }
     ]
   }
