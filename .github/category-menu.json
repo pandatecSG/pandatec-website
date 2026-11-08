@@ -12,7 +12,18 @@
       {
         "slug": "pipes",
         "label": "Pipes",
-        "children": []
+        "children": [
+          {
+            "slug": "water-gas-pressure-pipes",
+            "label": "Water, Gas & Heating Pipes",
+            "children": []
+          },
+          {
+            "slug": "drainage-cable-protection-pipes",
+            "label": "Drainage & Cable Protection Pipes",
+            "children": []
+          }
+        ]
       },
       {
         "slug": "cables-electrical",
