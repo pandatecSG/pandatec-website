@@ -104,7 +104,13 @@
       {
         "slug": "paints-coatings",
         "label": "Paints & Coatings",
-        "children": []
+        "children": [
+          {
+            "slug": "multicolour-stone-effect-coatings",
+            "label": "Multicolour & Stone-Effect Coatings",
+            "children": []
+          }
+        ]
       },
       {
         "slug": "boards-panels",
