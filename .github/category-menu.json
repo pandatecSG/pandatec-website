@@ -27,7 +27,69 @@
       {
         "slug": "architectural-hardware",
         "label": "Architectural Hardware",
-        "children": []
+        "children": [
+          {
+            "slug": "door-hinges",
+            "label": "Door Hinges",
+            "children": []
+          },
+          {
+            "slug": "door-stops-holders",
+            "label": "Door Stops & Holders",
+            "children": []
+          },
+          {
+            "slug": "bolts-latches-door-guards",
+            "label": "Bolts, Latches & Door Guards",
+            "children": []
+          },
+          {
+            "slug": "pulls-thumb-turns",
+            "label": "Pulls & Thumb Turns",
+            "children": []
+          },
+          {
+            "slug": "door-accessories",
+            "label": "Door Accessories",
+            "children": []
+          },
+          {
+            "slug": "door-seals",
+            "label": "Door Seals",
+            "children": []
+          }
+        ]
+      },
+      {
+        "slug": "aluminium-profiles-trims",
+        "label": "Aluminium Profiles & Trims",
+        "children": [
+          {
+            "slug": "panel-joint-profiles",
+            "label": "Panel Joint Profiles",
+            "children": []
+          },
+          {
+            "slug": "edge-corner-trims",
+            "label": "Edge & Corner Trims",
+            "children": []
+          },
+          {
+            "slug": "skirting-floor-trims",
+            "label": "Skirting & Floor Trims",
+            "children": []
+          },
+          {
+            "slug": "decorative-inlay-profiles",
+            "label": "Decorative Inlay Profiles",
+            "children": []
+          },
+          {
+            "slug": "led-aluminium-profiles",
+            "label": "LED Aluminium Profiles",
+            "children": []
+          }
+        ]
       },
       {
         "slug": "fencing-barriers",

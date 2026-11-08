@@ -1,6 +1,6 @@
 # PANDA COLLECTIONS (PANDATEC PTE. LTD.)
 
-> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 2075 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers and corporate gifting in Singapore and worldwide. Prices are quoted on request.
+> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6018 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers and corporate gifting in Singapore and worldwide. Prices are quoted on request.
 
 - Address: 35 Tannery Road #05-06, Ruby Industrial Complex, Singapore 347740
 - Phone / WhatsApp: +65 8472 6456
@@ -13,7 +13,19 @@ Every product page lists the product code (PT-…), category path, material, dim
 ## Product categories
 
 - [Building & Construction Materials Supplier in Singapore](https://pandatec.sg/products/building-infrastructure/)
-  - [Architectural Hardware](https://pandatec.sg/products/building-infrastructure/architectural-hardware/)
+  - [Architectural Hardware](https://pandatec.sg/products/building-infrastructure/architectural-hardware/): 466 products
+    - [Door Hinges](https://pandatec.sg/products/building-infrastructure/architectural-hardware/door-hinges/): 86 products
+    - [Door Stops & Holders](https://pandatec.sg/products/building-infrastructure/architectural-hardware/door-stops-holders/): 223 products
+    - [Bolts, Latches & Door Guards](https://pandatec.sg/products/building-infrastructure/architectural-hardware/bolts-latches-door-guards/): 80 products
+    - [Pulls & Thumb Turns](https://pandatec.sg/products/building-infrastructure/architectural-hardware/pulls-thumb-turns/): 27 products
+    - [Door Accessories](https://pandatec.sg/products/building-infrastructure/architectural-hardware/door-accessories/): 34 products
+    - [Door Seals](https://pandatec.sg/products/building-infrastructure/architectural-hardware/door-seals/): 16 products
+  - [Aluminium Profiles & Trims](https://pandatec.sg/products/building-infrastructure/aluminium-profiles-trims/): 19 products
+    - [Panel Joint Profiles](https://pandatec.sg/products/building-infrastructure/aluminium-profiles-trims/panel-joint-profiles/): 5 products
+    - [Edge & Corner Trims](https://pandatec.sg/products/building-infrastructure/aluminium-profiles-trims/edge-corner-trims/): 4 products
+    - [Skirting & Floor Trims](https://pandatec.sg/products/building-infrastructure/aluminium-profiles-trims/skirting-floor-trims/): 4 products
+    - [Decorative Inlay Profiles](https://pandatec.sg/products/building-infrastructure/aluminium-profiles-trims/decorative-inlay-profiles/): 3 products
+    - [LED Aluminium Profiles](https://pandatec.sg/products/building-infrastructure/aluminium-profiles-trims/led-aluminium-profiles/): 3 products
   - [Boards Panels](https://pandatec.sg/products/building-infrastructure/boards-panels/)
   - [Cables Electrical](https://pandatec.sg/products/building-infrastructure/cables-electrical/)
   - [Construction Hardware](https://pandatec.sg/products/building-infrastructure/construction-hardware/)
