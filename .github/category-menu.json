@@ -161,6 +161,22 @@
         ]
       },
       {
+        "slug": "architectural-scale-models",
+        "label": "Architectural Scale Models",
+        "children": [
+          {
+            "slug": "real-estate-sales-models",
+            "label": "Real Estate & Sales Gallery Models",
+            "children": []
+          },
+          {
+            "slug": "planning-industrial-models",
+            "label": "Master Plan, Infrastructure & Equipment Models",
+            "children": []
+          }
+        ]
+      },
+      {
         "slug": "metal-products",
         "label": "Metal Products",
         "children": []

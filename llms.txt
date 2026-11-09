@@ -1,6 +1,6 @@
 # PANDA COLLECTIONS (PANDATEC PTE. LTD.)
 
-> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6048 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers and corporate gifting in Singapore and worldwide. Prices are quoted on request.
+> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6139 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers and corporate gifting in Singapore and worldwide. Prices are quoted on request.
 
 - Address: 35 Tannery Road #05-06, Ruby Industrial Complex, Singapore 347740
 - Phone / WhatsApp: +65 8472 6456
@@ -43,6 +43,9 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Illuminated Letter Signs](https://pandatec.sg/products/building-infrastructure/signage/illuminated-letter-signs/): 7 products
     - [Light Boxes](https://pandatec.sg/products/building-infrastructure/signage/light-boxes/): 8 products
     - [Pylon Signs & Billboards](https://pandatec.sg/products/building-infrastructure/signage/pylon-signs-billboards/): 4 products
+  - [Architectural Scale Models](https://pandatec.sg/products/building-infrastructure/architectural-scale-models/): 10 products
+    - [Real Estate & Sales Gallery Models](https://pandatec.sg/products/building-infrastructure/architectural-scale-models/real-estate-sales-models/): 4 products
+    - [Master Plan, Infrastructure & Equipment Models](https://pandatec.sg/products/building-infrastructure/architectural-scale-models/planning-industrial-models/): 6 products
 - [Cleanroom Supplies & Consumables in Singapore](https://pandatec.sg/products/cleanroom/): cleanroom consumables, ESD products, particle counters and dispensing equipment
   - [Cleanroom Wipes](https://pandatec.sg/products/cleanroom/cleanroom-wipes/): 19 products
     - [Cleanroom Wipers](https://pandatec.sg/products/cleanroom/cleanroom-wipes/cleanroom-wipers/): 8 products
