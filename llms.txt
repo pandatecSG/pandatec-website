@@ -337,6 +337,7 @@ Every product page lists the product code (PT-…), category path, material, dim
 - [Capabilities](https://pandatec.sg/services/)
 - [Industries](https://pandatec.sg/industries/)
 - [Projects](https://pandatec.sg/projects/)
+  - [Architectural Scale Model Case Studies](https://pandatec.sg/projects/architectural-scale-model-case-studies/): completed sales gallery, unit layout, industrial park, campus, infrastructure, agriculture and equipment models (28 photos), with build specifications and ordering steps
 - [FAQ](https://pandatec.sg/faq/)
 - [Contact](https://pandatec.sg/contact/)
 - [Sitemap](https://pandatec.sg/sitemap.xml)
