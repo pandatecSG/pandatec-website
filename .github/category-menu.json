@@ -22,6 +22,14 @@
             "slug": "drainage-cable-protection-pipes",
             "label": "Drainage & Cable Protection Pipes",
             "children": []
+          },
+          {
+            "slug": "chemical-process-pipes-fittings",
+            "label": "Chemical Process Pipes & Fittings"
+          },
+          {
+            "slug": "thermoplastic-valves",
+            "label": "Thermoplastic Valves"
           }
         ]
       },

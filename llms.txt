@@ -1,6 +1,6 @@
 # PANDA COLLECTIONS (PANDATEC PTE. LTD.)
 
-> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6139 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers and corporate gifting in Singapore and worldwide. Prices are quoted on request.
+> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6158 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers and corporate gifting in Singapore and worldwide. Prices are quoted on request.
 
 - Address: 35 Tannery Road #05-06, Ruby Industrial Complex, Singapore 347740
 - Phone / WhatsApp: +65 8472 6456
@@ -35,9 +35,11 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Metal Products](https://pandatec.sg/products/building-infrastructure/metal-products/)
   - [Paints & Coatings](https://pandatec.sg/products/building-infrastructure/paints-coatings/): 3 products
     - [Multicolour & Stone-Effect Coatings](https://pandatec.sg/products/building-infrastructure/paints-coatings/multicolour-stone-effect-coatings/): 3 products
-  - [Pipes](https://pandatec.sg/products/building-infrastructure/pipes/): 8 products
+  - [Pipes](https://pandatec.sg/products/building-infrastructure/pipes/): 27 products
     - [Water, Gas & Heating Pipes](https://pandatec.sg/products/building-infrastructure/pipes/water-gas-pressure-pipes/): 6 products
     - [Drainage & Cable Protection Pipes](https://pandatec.sg/products/building-infrastructure/pipes/drainage-cable-protection-pipes/): 2 products
+    - [Chemical Process Pipes & Fittings](https://pandatec.sg/products/building-infrastructure/pipes/chemical-process-pipes-fittings/): 11 products
+    - [Thermoplastic Valves](https://pandatec.sg/products/building-infrastructure/pipes/thermoplastic-valves/): 8 products
   - [Road Traffic Products](https://pandatec.sg/products/building-infrastructure/road-traffic-products/)
   - [Signage](https://pandatec.sg/products/building-infrastructure/signage/): 20 products
     - [Illuminated Letter Signs](https://pandatec.sg/products/building-infrastructure/signage/illuminated-letter-signs/): 7 products
