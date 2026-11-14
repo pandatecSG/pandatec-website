@@ -337,6 +337,7 @@ Every product page lists the product code (PT-…), category path, material, dim
 ## Key pages
 
 - [About us](https://pandatec.sg/about-us/)
+- [Social responsibility](https://pandatec.sg/social-responsibility/): batch programme supplying registered non-profits with essential supplies at affordable prices; Batch 1 is adult diapers for eldercare and community care
 - [Capabilities](https://pandatec.sg/services/)
 - [Industries](https://pandatec.sg/industries/)
 - [Projects](https://pandatec.sg/projects/)
