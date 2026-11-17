@@ -1,2 +1,22 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Keep LF line endings on every platform.
+# eol=lf stops Git on Windows (core.autocrlf=true) from converting files to CRLF,
+# so GitHub Desktop no longer shows "LF will be replaced by CRLF" warnings.
+* text=auto eol=lf
+
+# Binary files: never touch line endings or diff them as text
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.webp binary
+*.gif binary
+*.ico binary
+*.svg text eol=lf
+*.pdf binary
+*.xlsx binary
+*.docx binary
+*.pptx binary
+*.zip binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.mp4 binary
