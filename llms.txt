@@ -1,6 +1,6 @@
 # PANDA COLLECTIONS (PANDATEC PTE. LTD.)
 
-> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6233 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
+> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6428 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
 
 - Address: 35 Tannery Road #05-06, Ruby Industrial Complex, Singapore 347740
 - Phone / WhatsApp: +65 8472 6456
@@ -91,7 +91,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [ESD Chairs & Stools](https://pandatec.sg/products/cleanroom/cleanroom-furniture-storage/esd-seating/): 94 products
     - [ESD Floor & Bench Mats](https://pandatec.sg/products/cleanroom/cleanroom-furniture-storage/esd-floor-bench-mats/): 4 products
     - [Workbenches & Work Tables](https://pandatec.sg/products/cleanroom/cleanroom-furniture-storage/workbenches-work-tables/): 4 products
-- [Chemicals & Industrial Chemicals Supplier in Singapore](https://pandatec.sg/products/chemicals/): plastic resins, industrial solvents, petrochemical feedstocks, fertilizers, coating raw materials, polyurethane raw materials, superabsorbent polymers and specialty chemicals; SDS / TDS / COA on request
+- [Chemicals & Industrial Chemicals Supplier in Singapore](https://pandatec.sg/products/chemicals/): plastic resins, industrial solvents, petrochemical feedstocks, fertilizers, coating raw materials, polyurethane raw materials, superabsorbent polymers, cosmetic and personal care raw materials and specialty chemicals; SDS / TDS / COA on request
   - [Plastic Raw Materials & Synthetic Resins](https://pandatec.sg/products/chemicals/plastic-raw-materials-synthetic-resins/): 21 products – PE, PP, PVC, PET, ABS, PS & engineering plastics
     - [Commodity Plastics](https://pandatec.sg/products/chemicals/plastic-raw-materials-synthetic-resins/commodity-plastics/): 5 products – Polyethylene (CAS 9002-88-4), Polypropylene (CAS 9003-07-0), Polyvinyl Chloride (CAS 9002-86-2), Polyethylene Terephthalate (CAS 25038-59-9)
     - [Engineering Plastics](https://pandatec.sg/products/chemicals/plastic-raw-materials-synthetic-resins/engineering-plastics/): 12 products – Acrylonitrile Butadiene Styrene (CAS 9003-56-9), Polycarbonate (CAS 25037-45-0), Polyamide 6 / Nylon 6 (CAS 25038-54-4), Polyamide 66 / Nylon 66 (CAS 32131-17-2)
@@ -127,6 +127,15 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Superabsorbent Polymers](https://pandatec.sg/products/chemicals/superabsorbent-polymers/): 11 products – SAP grades for diapers, sanitary and incontinence products
   - [Aroma Chemicals](https://pandatec.sg/products/chemicals/aroma-chemicals/): 1 product – Citral, citronellal, menthol and aroma intermediates
   - [Battery Materials](https://pandatec.sg/products/chemicals/battery-materials/): 1 product – Cathode and anode materials and Li-ion cells
+  - [Cosmetic & Personal Care Raw Materials](https://pandatec.sg/products/chemicals/cosmetic-personal-care-ingredients/): 161 products – amino-acid surfactants, hyaluronic acid, emulsifiers, carbomer, preservatives, niacinamide, arbutin, peptides, botanical extracts, plant oils, squalane, silicones
+    - [Surfactants & Cleansing Agents](https://pandatec.sg/products/chemicals/cosmetic-personal-care-ingredients/surfactants-cleansing-agents/): 16 products – Sodium Lauroyl Sarcosinate (CAS 137-16-6), Sodium Lauroyl Glutamate (CAS 29923-31-7), Lauroyl Glutamic Acid (CAS 3397-65-7), Sodium Cocoyl Glutamate (CAS 68187-32-6)
+    - [Humectants & Moisturizers](https://pandatec.sg/products/chemicals/cosmetic-personal-care-ingredients/humectants-moisturizers/): 21 products – Sodium Hyaluronate (CAS 9067-32-7), Medium Molecular Weight Sodium Hyaluronate (CAS 9067-32-7), Low Molecular Weight Sodium Hyaluronate (CAS 9067-32-7), Oligo Sodium Hyaluronate (CAS 9067-32-7)
+    - [Emulsifiers, Thickeners & Rheology Modifiers](https://pandatec.sg/products/chemicals/cosmetic-personal-care-ingredients/thickeners-emulsifiers/): 33 products – Polysorbate 20 (CAS 9005-64-5), Polysorbate 80 (CAS 9005-65-6), Sorbitan Oleate (CAS 1338-43-8), Glycol Distearate (CAS 627-83-8)
+    - [Cosmetic Preservatives](https://pandatec.sg/products/chemicals/cosmetic-personal-care-ingredients/cosmetic-preservatives/): 12 products – Methylparaben (CAS 99-76-3), Propylparaben (CAS 94-13-3), Liquid Preservative Blend BP, Piroctone Olamine (CAS 68890-66-4)
+    - [Cosmetic Active Ingredients](https://pandatec.sg/products/chemicals/cosmetic-personal-care-ingredients/active-ingredients/): 34 products – Dipotassium Glycyrrhizate (CAS 68797-35-3), Phenylethyl Resorcinol (CAS 85-27-8), Nonapeptide-1 (CAS 158563-45-2), Water-Soluble Ceramide
+    - [Botanical Extracts](https://pandatec.sg/products/chemicals/cosmetic-personal-care-ingredients/botanical-extracts/): 17 products – Seaweed Extract, Aloe Barbadensis Leaf Extract, Chamomile Flower Extract, Witch Hazel Extract
+    - [Plant Oils, Butters & Squalane](https://pandatec.sg/products/chemicals/cosmetic-personal-care-ingredients/plant-oils-butters/): 14 products – Grape Seed Oil (CAS 8024-22-4), Olive Oil (CAS 8001-25-0), Sweet Almond Oil (CAS 8007-69-0), Wheat Germ Oil (CAS 8006-95-1)
+    - [Emollients, Silicones & Waxes](https://pandatec.sg/products/chemicals/cosmetic-personal-care-ingredients/emollients-silicones-waxes/): 14 products – White Mineral Oil (CAS 8042-47-5), Isopropyl Myristate (CAS 110-27-0), Ethylhexyl Palmitate (CAS 29806-73-3), Caprylic/Capric Triglyceride (CAS 65381-09-1)
 - [Corporate Gifts Supplier in Singapore](https://pandatec.sg/products/corporate-gifts/)
   - [Art & Paintings](https://pandatec.sg/products/corporate-gifts/art-paintings/): 56 products
   - [Corporate Travel Gifts](https://pandatec.sg/products/corporate-gifts/travel-gifts/)
@@ -146,11 +155,13 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Hand Bouquets Singapore](https://pandatec.sg/products/corporate-gifts/florist/hand-bouquets/): 156 products
     - [Preserved Flowers Singapore](https://pandatec.sg/products/corporate-gifts/florist/preserved-flowers/): 2 products
 - [Food Service Packaging Supplier in Singapore](https://pandatec.sg/products/food-service-packaging/): paper and plastic cups, lids, kraft bowls, takeaway, pizza and bakery boxes, greaseproof paper; custom printing
-  - [Cups, Lids & Cup Carriers](https://pandatec.sg/products/food-service-packaging/cups-lids-carriers/): 4 products
-  - [Paper Bowls & Food Buckets](https://pandatec.sg/products/food-service-packaging/paper-bowls-buckets/): 4 products
-  - [Takeaway Food Boxes](https://pandatec.sg/products/food-service-packaging/takeaway-food-boxes/): 11 products
+  - [Cups, Lids & Cup Carriers](https://pandatec.sg/products/food-service-packaging/cups-lids-carriers/): 17 products
+  - [Paper Bowls & Food Buckets](https://pandatec.sg/products/food-service-packaging/paper-bowls-buckets/): 5 products
+  - [Takeaway Food Boxes](https://pandatec.sg/products/food-service-packaging/takeaway-food-boxes/): 14 products
   - [Bakery & Dessert Boxes](https://pandatec.sg/products/food-service-packaging/bakery-dessert-boxes/): 5 products
-  - [Food Wraps & Paper Bags](https://pandatec.sg/products/food-service-packaging/food-wraps-bags/): 2 products
+  - [Food Wraps & Paper Bags](https://pandatec.sg/products/food-service-packaging/food-wraps-bags/): 4 products
+  - [Drinking Straws & Cutlery](https://pandatec.sg/products/food-service-packaging/straws-cutlery/): 7 products
+  - [Labels, Stickers & Sealing](https://pandatec.sg/products/food-service-packaging/labels-stickers-sealing/): 8 products
 - [Office & Commercial Furniture Supplier in Singapore](https://pandatec.sg/products/furniture-workplace/)
   - [Acoustic Pods](https://pandatec.sg/products/furniture-workplace/acoustic-pods/): 8 products
   - [Custom Carpentry](https://pandatec.sg/products/furniture-workplace/custom-carpentry/): 43 products – powder-coated wardrobe and cabinet doors, interior and concealed doors, arc wall panels, display cabinets

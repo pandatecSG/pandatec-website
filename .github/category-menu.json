@@ -1312,7 +1312,7 @@
       "order": 9,
       "image": "/wp-content/themes/pandatec/assets/industrial.webp",
       "icon": "<svg aria-hidden=\"true\" focusable=\"false\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M9 3h6M10 3v6l-5 9a2 2 0 0 0 1.7 3h10.6a2 2 0 0 0 1.7-3l-5-9V3\"/><path d=\"M7.5 15h9\"/></svg>",
-      "tagline": "Resins, solvents, fertilizers & specialty chemicals",
+      "tagline": "Resins, solvents, fertilizers, cosmetic & specialty chemicals",
       "summary": "Plastic resins, solvents, petrochemicals, fertilizers and specialty chemicals."
     },
     "children": [
@@ -1471,6 +1471,44 @@
         "slug": "superabsorbent-polymers",
         "label": "Superabsorbent Polymers",
         "children": []
+      },
+      {
+        "slug": "cosmetic-personal-care-ingredients",
+        "label": "Cosmetic & Personal Care Raw Materials",
+        "children": [
+          {
+            "slug": "surfactants-cleansing-agents",
+            "label": "Surfactants & Cleansing Agents"
+          },
+          {
+            "slug": "humectants-moisturizers",
+            "label": "Humectants & Moisturizers"
+          },
+          {
+            "slug": "thickeners-emulsifiers",
+            "label": "Emulsifiers, Thickeners & Rheology Modifiers"
+          },
+          {
+            "slug": "cosmetic-preservatives",
+            "label": "Cosmetic Preservatives"
+          },
+          {
+            "slug": "active-ingredients",
+            "label": "Cosmetic Active Ingredients"
+          },
+          {
+            "slug": "botanical-extracts",
+            "label": "Botanical Extracts"
+          },
+          {
+            "slug": "plant-oils-butters",
+            "label": "Plant Oils, Butters & Squalane"
+          },
+          {
+            "slug": "emollients-silicones-waxes",
+            "label": "Emollients, Silicones & Waxes"
+          }
+        ]
       }
     ]
   },
@@ -1507,6 +1545,16 @@
       {
         "slug": "food-wraps-bags",
         "label": "Food Wraps & Paper Bags",
+        "children": []
+      },
+      {
+        "slug": "straws-cutlery",
+        "label": "Drinking Straws & Cutlery",
+        "children": []
+      },
+      {
+        "slug": "labels-stickers-sealing",
+        "label": "Labels, Stickers & Sealing",
         "children": []
       }
     ]
