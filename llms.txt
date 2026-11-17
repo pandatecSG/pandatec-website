@@ -1,6 +1,6 @@
 # PANDA COLLECTIONS (PANDATEC PTE. LTD.)
 
-> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6207 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers and corporate gifting in Singapore and worldwide. Prices are quoted on request.
+> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6233 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
 
 - Address: 35 Tannery Road #05-06, Ruby Industrial Complex, Singapore 347740
 - Phone / WhatsApp: +65 8472 6456
@@ -145,6 +145,12 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Grand Opening Flower Stand Singapore](https://pandatec.sg/products/corporate-gifts/florist/grand-opening-flower-stands/): 42 products
     - [Hand Bouquets Singapore](https://pandatec.sg/products/corporate-gifts/florist/hand-bouquets/): 156 products
     - [Preserved Flowers Singapore](https://pandatec.sg/products/corporate-gifts/florist/preserved-flowers/): 2 products
+- [Food Service Packaging Supplier in Singapore](https://pandatec.sg/products/food-service-packaging/): paper and plastic cups, lids, kraft bowls, takeaway, pizza and bakery boxes, greaseproof paper; custom printing
+  - [Cups, Lids & Cup Carriers](https://pandatec.sg/products/food-service-packaging/cups-lids-carriers/): 4 products
+  - [Paper Bowls & Food Buckets](https://pandatec.sg/products/food-service-packaging/paper-bowls-buckets/): 4 products
+  - [Takeaway Food Boxes](https://pandatec.sg/products/food-service-packaging/takeaway-food-boxes/): 11 products
+  - [Bakery & Dessert Boxes](https://pandatec.sg/products/food-service-packaging/bakery-dessert-boxes/): 5 products
+  - [Food Wraps & Paper Bags](https://pandatec.sg/products/food-service-packaging/food-wraps-bags/): 2 products
 - [Office & Commercial Furniture Supplier in Singapore](https://pandatec.sg/products/furniture-workplace/)
   - [Acoustic Pods](https://pandatec.sg/products/furniture-workplace/acoustic-pods/): 8 products
   - [Custom Carpentry](https://pandatec.sg/products/furniture-workplace/custom-carpentry/): 43 products – powder-coated wardrobe and cabinet doors, interior and concealed doors, arc wall panels, display cabinets
