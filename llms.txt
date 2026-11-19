@@ -1,6 +1,6 @@
 # PANDA COLLECTIONS (PANDATEC PTE. LTD.)
 
-> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6428 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
+> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6465 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
 
 - Address: 35 Tannery Road #05-06, Ruby Industrial Complex, Singapore 347740
 - Phone / WhatsApp: +65 8472 6456
@@ -249,7 +249,8 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Water Heaters](https://pandatec.sg/products/industrial-products/facility-appliances/water-heaters/): 5 products
     - [Dishwashers, Dehumidifiers & Other Appliances](https://pandatec.sg/products/industrial-products/facility-appliances/others/): 9 products
 - [Industrial Products & MRO Supplies in Singapore](https://pandatec.sg/products/industrial-products/)
-  - [Cleaning Maintenance](https://pandatec.sg/products/industrial-products/cleaning-maintenance/)
+  - [Cleaning Maintenance](https://pandatec.sg/products/industrial-products/cleaning-maintenance/): 3 products
+    - [Floor Scrubbers & Industrial Vacuums](https://pandatec.sg/products/industrial-products/cleaning-maintenance/floor-scrubbers-vacuums/): 3 products
   - [Electrical Accessories](https://pandatec.sg/products/industrial-products/electrical-accessories/)
   - [Fasteners](https://pandatec.sg/products/industrial-products/fasteners/)
   - [Mro Consumables](https://pandatec.sg/products/industrial-products/mro-consumables/)
@@ -283,6 +284,15 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Industrial Air Circulation](https://pandatec.sg/products/machinery-automation/industrial-air-circulation/): 4 products
   - [Sanding Grinding Machines](https://pandatec.sg/products/machinery-automation/sanding-grinding-machines/)
   - [Welding Machines](https://pandatec.sg/products/machinery-automation/welding-machines/): 4 products
+  - [Power Equipment](https://pandatec.sg/products/machinery-automation/power-equipment/): 26 products
+    - [Generators](https://pandatec.sg/products/machinery-automation/power-equipment/generators/): 7 products
+    - [Pressure Washers](https://pandatec.sg/products/machinery-automation/power-equipment/pressure-washers/): 5 products
+    - [Water Pumps](https://pandatec.sg/products/machinery-automation/power-equipment/water-pumps/): 7 products
+    - [Gasoline & Diesel Engines](https://pandatec.sg/products/machinery-automation/power-equipment/engines/): 3 products
+    - [Air Compressors](https://pandatec.sg/products/machinery-automation/power-equipment/air-compressors/): 4 products
+  - [Construction & Agricultural Machinery](https://pandatec.sg/products/machinery-automation/construction-agricultural-machinery/): 8 products
+    - [Construction Equipment](https://pandatec.sg/products/machinery-automation/construction-agricultural-machinery/construction-equipment/): 6 products
+    - [Power Tillers & Cultivators](https://pandatec.sg/products/machinery-automation/construction-agricultural-machinery/power-tillers/): 2 products
 - [Medical Furniture & Healthcare Equipment Supplier in Singapore](https://pandatec.sg/products/medical-healthcare/)
   - [Aged Care & Nursing](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/): 88 products – nursing beds, lift recliners and transfer aids, aged-care furniture, bathroom safety, smart safety sensors, mobility aids, rehabilitation and recreation equipment
     - [Lift Chairs & Transfer Aids](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/lift-chairs-transfer-aids/): 7 products

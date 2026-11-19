@@ -899,7 +899,12 @@
       {
         "slug": "cleaning-maintenance",
         "label": "Cleaning & Maintenance",
-        "children": []
+        "children": [
+          {
+            "slug": "floor-scrubbers-vacuums",
+            "label": "Floor Scrubbers & Industrial Vacuums"
+          }
+        ]
       },
       {
         "slug": "special-alloys",
@@ -993,6 +998,46 @@
       "summary": "Light machinery, automation and commercial kitchen equipment."
     },
     "children": [
+      {
+        "slug": "power-equipment",
+        "label": "Power Equipment",
+        "children": [
+          {
+            "slug": "generators",
+            "label": "Generators"
+          },
+          {
+            "slug": "pressure-washers",
+            "label": "Pressure Washers"
+          },
+          {
+            "slug": "water-pumps",
+            "label": "Water Pumps"
+          },
+          {
+            "slug": "air-compressors",
+            "label": "Air Compressors"
+          },
+          {
+            "slug": "engines",
+            "label": "Gasoline & Diesel Engines"
+          }
+        ]
+      },
+      {
+        "slug": "construction-agricultural-machinery",
+        "label": "Construction & Agricultural Machinery",
+        "children": [
+          {
+            "slug": "construction-equipment",
+            "label": "Construction Equipment"
+          },
+          {
+            "slug": "power-tillers",
+            "label": "Power Tillers & Cultivators"
+          }
+        ]
+      },
       {
         "slug": "cutting-sawing-machines",
         "label": "Cutting & Sawing Machines",
