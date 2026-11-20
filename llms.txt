@@ -1,6 +1,6 @@
 # PANDA COLLECTIONS (PANDATEC PTE. LTD.)
 
-> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6508 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
+> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6552 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
 
 - Address: 35 Tannery Road #05-06, Ruby Industrial Complex, Singapore 347740
 - Phone / WhatsApp: +65 8472 6456
@@ -169,25 +169,25 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Interior Doors](https://pandatec.sg/products/furniture-workplace/custom-carpentry/interior-doors/): 15 products
     - [Wall Panels & Arc Profiles](https://pandatec.sg/products/furniture-workplace/custom-carpentry/wall-panels-arc-profiles/): 3 products
     - [Display & Storage Cabinets](https://pandatec.sg/products/furniture-workplace/custom-carpentry/display-storage-cabinets/): 6 products
-  - [Dining Furniture](https://pandatec.sg/products/furniture-workplace/dining-furniture/): 1014 products
+  - [Dining Furniture](https://pandatec.sg/products/furniture-workplace/dining-furniture/): 1015 products
     - [Banquette & Booth Seat](https://pandatec.sg/products/furniture-workplace/dining-furniture/banquette-booth-seat/): 104 products
     - [Bar Stool](https://pandatec.sg/products/furniture-workplace/dining-furniture/bar-stool/): 36 products
     - [Dining Chair](https://pandatec.sg/products/furniture-workplace/dining-furniture/dining-chair/): 279 products
-    - [Dining Table](https://pandatec.sg/products/furniture-workplace/dining-furniture/dining-table/): 430 products
+    - [Dining Table](https://pandatec.sg/products/furniture-workplace/dining-furniture/dining-table/): 431 products
     - [Plastic Chair](https://pandatec.sg/products/furniture-workplace/dining-furniture/plastic-chair/): 165 products
   - [Hotel Accommodation](https://pandatec.sg/products/furniture-workplace/hotel-accommodation/): 229 products
-  - [Steel Cabinets & Lockers](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/): 54 products – steel lockers, wardrobes, electronic lockers, filing, instrument, security, tool and fire cabinets, shelving, library bookshelves
-    - [Lockers & Wardrobes](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/lockers-wardrobes/): 11 products
-    - [Electronic Lockers](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/electronic-lockers/): 6 products
-    - [Filing & Instrument Cabinets](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/filing-cabinets/): 16 products
-    - [Security Cabinets](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/security-cabinets/): 7 products
-    - [Tool & Fire Cabinets](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/tool-fire-cabinets/): 5 products
-    - [Shelving & Bookshelves](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/shelving-bookshelves/): 5 products
-    - [Steel Desks & Partitions](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/steel-desks-partitions/): 4 products
-  - [Dormitory Furniture](https://pandatec.sg/products/furniture-workplace/dormitory-furniture/): 10 products – steel loft beds, bunk beds, single beds, barracks beds, lockers and study furniture
-    - [Loft Beds](https://pandatec.sg/products/furniture-workplace/dormitory-furniture/loft-beds/): 2 products
-    - [Bunk & Single Beds](https://pandatec.sg/products/furniture-workplace/dormitory-furniture/bunk-single-beds/): 4 products
-    - [Barracks Furniture](https://pandatec.sg/products/furniture-workplace/dormitory-furniture/barracks-furniture/): 4 products
+  - [Steel Cabinets & Lockers](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/): 88 products – steel lockers, wardrobes, electronic lockers, filing, instrument, security, tool and fire cabinets, shelving, library bookshelves
+    - [Lockers & Wardrobes](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/lockers-wardrobes/): 17 products
+    - [Electronic Lockers](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/electronic-lockers/): 7 products
+    - [Filing & Instrument Cabinets](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/filing-cabinets/): 28 products
+    - [Security Cabinets](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/security-cabinets/): 12 products
+    - [Tool & Fire Cabinets](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/tool-fire-cabinets/): 6 products
+    - [Shelving & Bookshelves](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/shelving-bookshelves/): 8 products
+    - [Steel Desks & Partitions](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/steel-desks-partitions/): 10 products
+  - [Dormitory Furniture](https://pandatec.sg/products/furniture-workplace/dormitory-furniture/): 15 products – steel loft beds, bunk beds, single beds, barracks beds, lockers and study furniture
+    - [Loft Beds](https://pandatec.sg/products/furniture-workplace/dormitory-furniture/loft-beds/): 3 products
+    - [Bunk & Single Beds](https://pandatec.sg/products/furniture-workplace/dormitory-furniture/bunk-single-beds/): 6 products
+    - [Barracks Furniture](https://pandatec.sg/products/furniture-workplace/dormitory-furniture/barracks-furniture/): 6 products
   - [Lighting](https://pandatec.sg/products/furniture-workplace/lighting/): 189 products – crystal chandeliers, crystal ceiling fixtures, pendant lights, art glass, wall sconces, table and floor lamps, LED downlights and spotlights, garden lighting
     - [Crystal Chandeliers](https://pandatec.sg/products/furniture-workplace/lighting/crystal-chandeliers/): 85 products
     - [Crystal Ceiling Lights](https://pandatec.sg/products/furniture-workplace/lighting/crystal-ceiling-lights/): 11 products
@@ -229,7 +229,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Lounge Chair](https://pandatec.sg/products/furniture-workplace/reception-lounge/lounge-chair/): 51 products
     - [Modular Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/modular-sofa/): 3 products
     - [Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/sofa/): 57 products
-  - [School Furniture](https://pandatec.sg/products/furniture-workplace/school-furniture/): 305 products
+  - [School Furniture](https://pandatec.sg/products/furniture-workplace/school-furniture/): 306 products
   - [System Furniture](https://pandatec.sg/products/furniture-workplace/system-furniture/): 191 products
   - [Desk Frames & Height-Adjustable Desks](https://pandatec.sg/products/furniture-workplace/desk-frames-height-adjustable/): 116 products – electric standing desk frames, lifting columns, height-adjustable desks, folding training tables, die-cast desk frames
     - [Electric Height-Adjustable Desks](https://pandatec.sg/products/furniture-workplace/desk-frames-height-adjustable/electric-height-adjustable-desks/): 55 products
@@ -254,9 +254,9 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Electrical Accessories](https://pandatec.sg/products/industrial-products/electrical-accessories/)
   - [Fasteners](https://pandatec.sg/products/industrial-products/fasteners/)
   - [Mro Consumables](https://pandatec.sg/products/industrial-products/mro-consumables/)
-  - [Safety Storage Cabinets](https://pandatec.sg/products/industrial-products/safety-storage-cabinets/): 21 products
+  - [Safety Storage Cabinets](https://pandatec.sg/products/industrial-products/safety-storage-cabinets/): 22 products
   - [Tools Hardware](https://pandatec.sg/products/industrial-products/tools-hardware/)
-  - [Workshop Equipment](https://pandatec.sg/products/industrial-products/workshop-equipment/): 18 products
+  - [Workshop Equipment](https://pandatec.sg/products/industrial-products/workshop-equipment/): 19 products
   - [Special Alloys](https://pandatec.sg/products/industrial-products/special-alloys/): 55 products – nickel alloys, superalloys, resistance heating alloys, precision alloys, heat-resistant steels, nickel welding wire
     - [Nickel & Corrosion-Resistant Alloys](https://pandatec.sg/products/industrial-products/special-alloys/nickel-corrosion-resistant-alloys/): 12 products
     - [Electric Heating Alloys](https://pandatec.sg/products/industrial-products/special-alloys/electric-heating-alloys/): 8 products
@@ -341,7 +341,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Bubble Wrap & Paper Packaging](https://pandatec.sg/products/warehouse-logistics/pallets-packaging/bubble-wrap-paper/): 8 products
     - [Packaging Machines](https://pandatec.sg/products/warehouse-logistics/pallets-packaging/packaging-machines/): 9 products
     - [Strapping Tools & Strap](https://pandatec.sg/products/warehouse-logistics/pallets-packaging/strapping-tools/): 8 products
-  - [Shelving](https://pandatec.sg/products/warehouse-logistics/shelving/): 6 products
+  - [Shelving](https://pandatec.sg/products/warehouse-logistics/shelving/): 7 products
   - [Stainless Steel Shelving](https://pandatec.sg/products/warehouse-logistics/stainless-steel-shelving/): 2 products
   - [Storage Racks](https://pandatec.sg/products/warehouse-logistics/storage-racks/): 11 products
   - [Turnover Boxes & Bins](https://pandatec.sg/products/warehouse-logistics/turnover-boxes-bins/)
