@@ -1,6 +1,6 @@
 # PANDA COLLECTIONS (PANDATEC PTE. LTD.)
 
-> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6473 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
+> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6498 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
 
 - Address: 35 Tannery Road #05-06, Ruby Industrial Complex, Singapore 347740
 - Phone / WhatsApp: +65 8472 6456
@@ -249,14 +249,14 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Water Heaters](https://pandatec.sg/products/industrial-products/facility-appliances/water-heaters/): 5 products
     - [Dishwashers, Dehumidifiers & Other Appliances](https://pandatec.sg/products/industrial-products/facility-appliances/others/): 9 products
 - [Industrial Products & MRO Supplies in Singapore](https://pandatec.sg/products/industrial-products/)
-  - [Cleaning Maintenance](https://pandatec.sg/products/industrial-products/cleaning-maintenance/): 3 products
+  - [Cleaning Maintenance](https://pandatec.sg/products/industrial-products/cleaning-maintenance/): 4 products
     - [Floor Scrubbers & Industrial Vacuums](https://pandatec.sg/products/industrial-products/cleaning-maintenance/floor-scrubbers-vacuums/): 3 products
   - [Electrical Accessories](https://pandatec.sg/products/industrial-products/electrical-accessories/)
   - [Fasteners](https://pandatec.sg/products/industrial-products/fasteners/)
   - [Mro Consumables](https://pandatec.sg/products/industrial-products/mro-consumables/)
-  - [Safety Storage Cabinets](https://pandatec.sg/products/industrial-products/safety-storage-cabinets/): 17 products
+  - [Safety Storage Cabinets](https://pandatec.sg/products/industrial-products/safety-storage-cabinets/): 21 products
   - [Tools Hardware](https://pandatec.sg/products/industrial-products/tools-hardware/)
-  - [Workshop Equipment](https://pandatec.sg/products/industrial-products/workshop-equipment/): 13 products
+  - [Workshop Equipment](https://pandatec.sg/products/industrial-products/workshop-equipment/): 17 products
   - [Special Alloys](https://pandatec.sg/products/industrial-products/special-alloys/): 55 products – nickel alloys, superalloys, resistance heating alloys, precision alloys, heat-resistant steels, nickel welding wire
     - [Nickel & Corrosion-Resistant Alloys](https://pandatec.sg/products/industrial-products/special-alloys/nickel-corrosion-resistant-alloys/): 12 products
     - [Electric Heating Alloys](https://pandatec.sg/products/industrial-products/special-alloys/electric-heating-alloys/): 8 products
@@ -306,17 +306,17 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Examination Treatment Tables](https://pandatec.sg/products/medical-healthcare/examination-treatment-tables/): 20 products
   - [Hospital Beds](https://pandatec.sg/products/medical-healthcare/hospital-beds/): 51 products
   - [Laboratory Furniture](https://pandatec.sg/products/medical-healthcare/laboratory-furniture/): 7 products
-  - [Medical Cabinets](https://pandatec.sg/products/medical-healthcare/medical-cabinets/): 16 products
+  - [Medical Cabinets](https://pandatec.sg/products/medical-healthcare/medical-cabinets/): 21 products
   - [Medical Consumables](https://pandatec.sg/products/medical-healthcare/medical-consumables/): 73 products
     - [Face Masks & Respirators](https://pandatec.sg/products/medical-healthcare/medical-consumables/face-masks-respirators/): 19 products
     - [Protective Apparel & PPE](https://pandatec.sg/products/medical-healthcare/medical-consumables/protective-apparel/): 19 products
     - [Surgical Packs & Drapes](https://pandatec.sg/products/medical-healthcare/medical-consumables/surgical-packs-drapes/): 9 products
     - [Dental & Wound Care](https://pandatec.sg/products/medical-healthcare/medical-consumables/dental-wound-care/): 8 products
     - [Hygiene & Disinfection](https://pandatec.sg/products/medical-healthcare/medical-consumables/hygiene-disinfection/): 8 products
-  - [Medical Trolleys Carts](https://pandatec.sg/products/medical-healthcare/medical-trolleys-carts/): 88 products
-  - [Stainless Steel Furniture](https://pandatec.sg/products/medical-healthcare/stainless-steel-furniture/): 51 products
+  - [Medical Trolleys Carts](https://pandatec.sg/products/medical-healthcare/medical-trolleys-carts/): 89 products
+  - [Stainless Steel Furniture](https://pandatec.sg/products/medical-healthcare/stainless-steel-furniture/): 52 products
   - [Stretchers](https://pandatec.sg/products/medical-healthcare/stretchers/): 25 products
-  - [Waiting Chairs](https://pandatec.sg/products/medical-healthcare/waiting-chairs/): 13 products
+  - [Waiting Chairs](https://pandatec.sg/products/medical-healthcare/waiting-chairs/): 14 products
   - [Wheelchairs Stools](https://pandatec.sg/products/medical-healthcare/wheelchairs-stools/): 11 products
 - [PPE & Safety Equipment Supplier in Singapore](https://pandatec.sg/products/ppe-safety/)
   - [Eye Face Protection](https://pandatec.sg/products/ppe-safety/eye-face-protection/): 4 products
@@ -335,16 +335,16 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Roll Cages](https://pandatec.sg/products/warehouse-logistics/carts-trolleys/roll-cages/): 1 product
     - [Tool Carts](https://pandatec.sg/products/warehouse-logistics/carts-trolleys/tool-carts/): 4 products
     - [Medical & Hospital Trolleys](https://pandatec.sg/products/warehouse-logistics/carts-trolleys/medical-hospital-trolleys/): 100 products
-  - [Compact Shelving](https://pandatec.sg/products/warehouse-logistics/compact-shelving/): 2 products
+  - [Compact Shelving](https://pandatec.sg/products/warehouse-logistics/compact-shelving/): 3 products
   - [Pallets & Packaging](https://pandatec.sg/products/warehouse-logistics/pallets-packaging/): 42 products – air column bags and rolls, air cushion film, bubble wrap, honeycomb paper, dunnage bags, air cushion machines, battery strapping tools
     - [Air Column Packaging](https://pandatec.sg/products/warehouse-logistics/pallets-packaging/air-column-packaging/): 7 products
     - [Air Cushion Film & Bags](https://pandatec.sg/products/warehouse-logistics/pallets-packaging/air-cushion-film-bags/): 10 products
     - [Bubble Wrap & Paper Packaging](https://pandatec.sg/products/warehouse-logistics/pallets-packaging/bubble-wrap-paper/): 8 products
     - [Packaging Machines](https://pandatec.sg/products/warehouse-logistics/pallets-packaging/packaging-machines/): 9 products
     - [Strapping Tools & Strap](https://pandatec.sg/products/warehouse-logistics/pallets-packaging/strapping-tools/): 8 products
-  - [Shelving](https://pandatec.sg/products/warehouse-logistics/shelving/): 3 products
-  - [Stainless Steel Shelving](https://pandatec.sg/products/warehouse-logistics/stainless-steel-shelving/): 1 product
-  - [Storage Racks](https://pandatec.sg/products/warehouse-logistics/storage-racks/): 8 products
+  - [Shelving](https://pandatec.sg/products/warehouse-logistics/shelving/): 6 products
+  - [Stainless Steel Shelving](https://pandatec.sg/products/warehouse-logistics/stainless-steel-shelving/): 2 products
+  - [Storage Racks](https://pandatec.sg/products/warehouse-logistics/storage-racks/): 11 products
   - [Turnover Boxes & Bins](https://pandatec.sg/products/warehouse-logistics/turnover-boxes-bins/)
   - [Wire Containers](https://pandatec.sg/products/warehouse-logistics/wire-containers/): 7 products
 
