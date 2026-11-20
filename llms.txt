@@ -346,6 +346,10 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Storage Racks](https://pandatec.sg/products/warehouse-logistics/storage-racks/): 11 products
   - [Turnover Boxes & Bins](https://pandatec.sg/products/warehouse-logistics/turnover-boxes-bins/)
   - [Wire Containers](https://pandatec.sg/products/warehouse-logistics/wire-containers/): 7 products
+- [Oil, Gas & Petrochemical Supplies in Singapore](https://pandatec.sg/products/oil-gas-petrochemical/): piping, valves, pumps, instrumentation, electrical, coatings and turnaround MRO for refineries and chemical plants; catalogue in preparation, quoted on request
+- [Marine & Port Supplies in Singapore](https://pandatec.sg/products/marine-port/): mooring and berthing equipment, fenders, cargo lashing, lifting gear, marine hoses and terminal maintenance supplies; catalogue in preparation, quoted on request
+- [Ship Chandlery & Vessel Maintenance Supplies in Singapore](https://pandatec.sg/products/ship-chandlery/): deck stores, engine-room consumables, pumps and spares, safety equipment, marine chemicals, coatings and cabin stores for vessels; catalogue in preparation, quoted on request
+- [Pharmaceutical & GMP Supplies in Singapore](https://pandatec.sg/products/pharmaceutical-gmp/): gMP garments, gloves, disinfectants, wipes, filtration, single-use components, lab and packaging supplies for pharma and biotech; catalogue in preparation, quoted on request
 
 ## Industries supplied
 
@@ -359,6 +363,8 @@ Every product page lists the product code (PT-…), category path, material, dim
 - [Manufacturing & Chemicals](https://pandatec.sg/industries/manufacturing/): 276 products – Chemical raw materials, special alloys, workshop equipment, machines and packaging for factories.
 - [Logistics & Warehousing](https://pandatec.sg/industries/logistics/): 279 products – Racking, shelving, trolleys, wire containers and protective packaging for warehouses.
 - [Government & Public Facilities](https://pandatec.sg/industries/government/): 2,176 products – Public furniture, barracks and dormitory beds, lockers, seating and signage.
+- [Oil, Gas & Petrochemical](https://pandatec.sg/industries/oil-gas-petrochemical/): Valves, piping, pumps, instruments, coatings and turnaround MRO for refineries, chemical plants and terminals.
+- [Marine, Port & Shipping](https://pandatec.sg/industries/marine-port/): Mooring, fenders, lashing, lifting gear, marine hoses, ship chandlery and vessel maintenance supplies.
 
 ## Key pages
 

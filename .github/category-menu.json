@@ -388,6 +388,31 @@
             "label": "Dispensing Tips"
           }
         ]
+      },
+      {
+        "slug": "hepa-ulpa-filtration",
+        "label": "HEPA / ULPA Filtration & Air Handling",
+        "children": []
+      },
+      {
+        "slug": "cleanroom-equipment-pass-through",
+        "label": "Cleanroom Equipment & Pass-Through",
+        "children": []
+      },
+      {
+        "slug": "cleanroom-cleaning-chemicals",
+        "label": "Cleanroom Cleaning Chemicals",
+        "children": []
+      },
+      {
+        "slug": "semiconductor-process-consumables",
+        "label": "Semiconductor Process Consumables",
+        "children": []
+      },
+      {
+        "slug": "esd-testing-monitoring",
+        "label": "ESD Testing & Monitoring",
+        "children": []
       }
     ]
   },
@@ -985,6 +1010,36 @@
             "label": "Stamping Dies"
           }
         ]
+      },
+      {
+        "slug": "bearings-power-transmission",
+        "label": "Bearings & Power Transmission",
+        "children": []
+      },
+      {
+        "slug": "lubricants-grease",
+        "label": "Lubricants & Grease",
+        "children": []
+      },
+      {
+        "slug": "filters-filtration",
+        "label": "Filters & Filtration",
+        "children": []
+      },
+      {
+        "slug": "pneumatic-hydraulic",
+        "label": "Pneumatic & Hydraulic",
+        "children": []
+      },
+      {
+        "slug": "lifting-material-handling",
+        "label": "Lifting & Material Handling",
+        "children": []
+      },
+      {
+        "slug": "welding-cutting-abrasives",
+        "label": "Welding, Cutting & Abrasives",
+        "children": []
       }
     ]
   },
@@ -1596,6 +1651,289 @@
       {
         "slug": "labels-stickers-sealing",
         "label": "Labels, Stickers & Sealing",
+        "children": []
+      }
+    ]
+  },
+  "oil-gas-petrochemical": {
+    "label": "Oil, Gas & Petrochemical Supplies",
+    "card": {
+      "order": 12,
+      "image": "/wp-content/themes/pandatec/assets/machinery.webp",
+      "icon": "<svg aria-hidden=\"true\" focusable=\"false\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 21h18\"/><path d=\"M5 21V10l4-3v14\"/><path d=\"M9 21V4h4v17\"/><path d=\"M13 21v-8h6v8\"/><path d=\"M16 13V9\"/></svg>",
+      "tagline": "Valves, piping, pumps, instruments & plant MRO",
+      "summary": "Piping, valves, pumps, instrumentation, electrical, coatings and turnaround MRO for refineries and chemical plants."
+    },
+    "children": [
+      {
+        "slug": "piping-pipeline-materials",
+        "label": "Piping & Pipeline Materials",
+        "children": []
+      },
+      {
+        "slug": "industrial-valves-flow-control",
+        "label": "Industrial Valves & Flow Control",
+        "children": []
+      },
+      {
+        "slug": "pumps-compressors-mechanical",
+        "label": "Pumps, Compressors & Mechanical Equipment",
+        "children": []
+      },
+      {
+        "slug": "static-equipment-pressure-systems",
+        "label": "Static Equipment & Pressure Systems",
+        "children": []
+      },
+      {
+        "slug": "instrumentation-process-control",
+        "label": "Instrumentation & Process Control",
+        "children": []
+      },
+      {
+        "slug": "electrical-hazardous-area",
+        "label": "Electrical & Hazardous Area Equipment",
+        "children": []
+      },
+      {
+        "slug": "welding-fabrication-ndt",
+        "label": "Welding, Fabrication & NDT",
+        "children": []
+      },
+      {
+        "slug": "sealing-gaskets-fasteners",
+        "label": "Sealing, Gaskets & Fasteners",
+        "children": []
+      },
+      {
+        "slug": "corrosion-protection-coatings",
+        "label": "Corrosion Protection & Coatings",
+        "children": []
+      },
+      {
+        "slug": "plant-maintenance-turnaround-mro",
+        "label": "Plant Maintenance & Turnaround MRO",
+        "children": []
+      },
+      {
+        "slug": "petrochemical-industrial-chemicals",
+        "label": "Petrochemical & Industrial Chemicals",
+        "children": []
+      },
+      {
+        "slug": "storage-loading-terminal-systems",
+        "label": "Storage, Loading & Terminal Systems",
+        "children": []
+      },
+      {
+        "slug": "fire-gas-emergency-response",
+        "label": "Fire & Gas / Emergency Response",
+        "children": []
+      }
+    ]
+  },
+  "marine-port": {
+    "label": "Marine & Port Supplies",
+    "card": {
+      "order": 13,
+      "image": "/wp-content/themes/pandatec/assets/about-global-shipping.webp",
+      "icon": "<svg aria-hidden=\"true\" focusable=\"false\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"5\" r=\"2\"/><path d=\"M12 7v14\"/><path d=\"M5 12H3a9 9 0 0 0 18 0h-2\"/><path d=\"M8 10h8\"/></svg>",
+      "tagline": "Mooring, fenders, lashing, hoses & terminal MRO",
+      "summary": "Mooring and berthing equipment, fenders, cargo lashing, lifting gear, marine hoses and terminal maintenance supplies."
+    },
+    "children": [
+      {
+        "slug": "mooring-berthing-equipment",
+        "label": "Mooring & Berthing Equipment",
+        "children": []
+      },
+      {
+        "slug": "port-terminal-handling-equipment",
+        "label": "Port & Terminal Handling Equipment",
+        "children": []
+      },
+      {
+        "slug": "cargo-securing-lashing",
+        "label": "Cargo Securing & Lashing",
+        "children": []
+      },
+      {
+        "slug": "marine-hoses-fluid-transfer",
+        "label": "Marine Hoses & Fluid Transfer",
+        "children": []
+      },
+      {
+        "slug": "marine-pumps-valves-piping",
+        "label": "Marine Pumps, Valves & Piping",
+        "children": []
+      },
+      {
+        "slug": "port-electrical-lighting",
+        "label": "Port Electrical & Lighting",
+        "children": []
+      },
+      {
+        "slug": "fenders-buoys-navigation-aids",
+        "label": "Fenders, Buoys & Navigation Aids",
+        "children": []
+      },
+      {
+        "slug": "dock-quay-facility-maintenance",
+        "label": "Dock, Quay & Facility Maintenance",
+        "children": []
+      },
+      {
+        "slug": "lifting-rigging-inspection",
+        "label": "Lifting, Rigging & Inspection",
+        "children": []
+      },
+      {
+        "slug": "spill-control-environmental",
+        "label": "Spill Control & Environmental Protection",
+        "children": []
+      },
+      {
+        "slug": "warehouse-yard-operations",
+        "label": "Warehouse & Yard Operations",
+        "children": []
+      }
+    ]
+  },
+  "ship-chandlery": {
+    "label": "Ship Chandlery & Vessel Maintenance",
+    "card": {
+      "order": 14,
+      "image": "/wp-content/themes/pandatec/assets/industrial.webp",
+      "icon": "<svg aria-hidden=\"true\" focusable=\"false\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M2 20c2 1 4 1 6 0s4-1 6 0 4 1 6 0\"/><path d=\"M4 17l-1-5h18l-2 5\"/><path d=\"M6 12V8h8l3 4\"/><path d=\"M9 8V5h3\"/></svg>",
+      "tagline": "Deck & engine-room stores, spares and vessel supplies",
+      "summary": "Deck stores, engine-room consumables, pumps and spares, safety equipment, marine chemicals, coatings and cabin stores for vessels."
+    },
+    "children": [
+      {
+        "slug": "deck-stores-mooring",
+        "label": "Deck Stores & Mooring",
+        "children": []
+      },
+      {
+        "slug": "engine-room-consumables",
+        "label": "Engine Room Consumables",
+        "children": []
+      },
+      {
+        "slug": "pumps-valves-engine-spares",
+        "label": "Pumps, Valves & Engine Spares",
+        "children": []
+      },
+      {
+        "slug": "safety-life-saving-equipment",
+        "label": "Safety & Life-Saving Equipment",
+        "children": []
+      },
+      {
+        "slug": "navigation-communication-accessories",
+        "label": "Navigation & Communication Accessories",
+        "children": []
+      },
+      {
+        "slug": "cabin-galley-accommodation-stores",
+        "label": "Cabin, Galley & Accommodation Stores",
+        "children": []
+      },
+      {
+        "slug": "marine-cleaning-chemicals",
+        "label": "Marine Cleaning & Chemicals",
+        "children": []
+      },
+      {
+        "slug": "marine-paints-coatings",
+        "label": "Paints, Coatings & Surface Preparation",
+        "children": []
+      },
+      {
+        "slug": "rope-rigging-hardware",
+        "label": "Rope, Rigging & General Hardware",
+        "children": []
+      },
+      {
+        "slug": "waste-handling-environmental-stores",
+        "label": "Waste Handling & Environmental Stores",
+        "children": []
+      },
+      {
+        "slug": "welding-repair-materials",
+        "label": "Welding & Repair Materials",
+        "children": []
+      }
+    ]
+  },
+  "pharmaceutical-gmp": {
+    "label": "Pharmaceutical & GMP Supplies",
+    "card": {
+      "order": 15,
+      "image": "/wp-content/themes/pandatec/assets/cleanroom.webp",
+      "icon": "<svg aria-hidden=\"true\" focusable=\"false\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10.5 20.5 3.5 13.5a5 5 0 0 1 7-7l7 7a5 5 0 0 1-7 7z\"/><path d=\"m8.5 8.5 7 7\"/></svg>",
+      "tagline": "GMP garments, sterile consumables, filtration & lab supplies",
+      "summary": "GMP garments, gloves, disinfectants, wipes, filtration, single-use components, lab and packaging supplies for pharma and biotech."
+    },
+    "children": [
+      {
+        "slug": "gmp-garments-sterile-apparel",
+        "label": "GMP Garments & Sterile Apparel",
+        "children": []
+      },
+      {
+        "slug": "sterile-non-sterile-gloves",
+        "label": "Sterile & Non-Sterile Gloves",
+        "children": []
+      },
+      {
+        "slug": "disinfectants-cleaning-agents",
+        "label": "Disinfectants & Cleaning Agents",
+        "children": []
+      },
+      {
+        "slug": "wipes-mops-cleaning-systems",
+        "label": "Wipes, Mops & Cleaning Systems",
+        "children": []
+      },
+      {
+        "slug": "sterile-packaging-single-use",
+        "label": "Sterile Packaging & Single-Use",
+        "children": []
+      },
+      {
+        "slug": "filtration-process-consumables",
+        "label": "Filtration & Process Consumables",
+        "children": []
+      },
+      {
+        "slug": "laboratory-qc-supplies",
+        "label": "Laboratory & QC Supplies",
+        "children": []
+      },
+      {
+        "slug": "pharmaceutical-packaging-components",
+        "label": "Pharmaceutical Packaging Components",
+        "children": []
+      },
+      {
+        "slug": "hygienic-stainless-steel-equipment",
+        "label": "Hygienic Stainless Steel Equipment",
+        "children": []
+      },
+      {
+        "slug": "cleanroom-furniture-pass-through",
+        "label": "Cleanroom Furniture & Pass-Through",
+        "children": []
+      },
+      {
+        "slug": "temperature-controlled-storage-logistics",
+        "label": "Temperature-Controlled Storage & Logistics",
+        "children": []
+      },
+      {
+        "slug": "waste-biohazard-handling",
+        "label": "Waste & Biohazard Handling",
         "children": []
       }
     ]
