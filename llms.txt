@@ -1,6 +1,6 @@
 # PANDA COLLECTIONS (PANDATEC PTE. LTD.)
 
-> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6552 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
+> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6623 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
 
 - Address: 35 Tannery Road #05-06, Ruby Industrial Complex, Singapore 347740
 - Phone / WhatsApp: +65 8472 6456
@@ -33,7 +33,7 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Flooring](https://pandatec.sg/products/building-infrastructure/flooring/): 86 products
     - [Carpets & Rugs](https://pandatec.sg/products/building-infrastructure/flooring/carpets-rugs/): 83 products
   - [Metal Products](https://pandatec.sg/products/building-infrastructure/metal-products/)
-  - [Paints & Coatings](https://pandatec.sg/products/building-infrastructure/paints-coatings/): 3 products
+  - [Paints & Coatings](https://pandatec.sg/products/building-infrastructure/paints-coatings/): 5 products
     - [Multicolour & Stone-Effect Coatings](https://pandatec.sg/products/building-infrastructure/paints-coatings/multicolour-stone-effect-coatings/): 3 products
   - [Pipes](https://pandatec.sg/products/building-infrastructure/pipes/): 76 products
     - [Water, Gas & Heating Pipes](https://pandatec.sg/products/building-infrastructure/pipes/water-gas-pressure-pipes/): 6 products
@@ -116,7 +116,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Curing Agents & Hardeners](https://pandatec.sg/products/chemicals/coatings-resins-adhesive-raw-materials/curing-agents-hardeners/): 21 products – Amine curing agents, Polyamide hardeners, Phenalkamine hardeners, Isocyanate hardeners
     - [Pigments, Fillers & Additives](https://pandatec.sg/products/chemicals/coatings-resins-adhesive-raw-materials/pigments-fillers-additives/) – Titanium Dioxide (CAS 13463-67-7), Iron Oxide Pigments (CAS 1309-37-1 (red)), Calcium Carbonate (CAS 471-34-1), Silica (CAS 7631-86-9)
     - [Adhesive & Sealant Raw Materials](https://pandatec.sg/products/chemicals/coatings-resins-adhesive-raw-materials/adhesive-sealant-raw-materials/): 5 products – Tackifier resins, Ethylene Vinyl Acetate (CAS 24937-78-8), Styrenic block copolymers, Plasticisers
-  - [Specialty Chemicals & Industrial Consumables](https://pandatec.sg/products/chemicals/specialty-industrial-maintenance-chemicals/): 1 product – Water treatment, cleaners, surfactants, electronic chemicals
+  - [Specialty Chemicals & Industrial Consumables](https://pandatec.sg/products/chemicals/specialty-industrial-maintenance-chemicals/): 6 products – Water treatment, cleaners, surfactants, electronic chemicals
     - [Water Treatment Chemicals](https://pandatec.sg/products/chemicals/specialty-industrial-maintenance-chemicals/water-treatment-chemicals/) – Polyaluminium Chloride (CAS 1327-41-9), Polyacrylamide (CAS 9003-05-8), Antiscalants, Corrosion inhibitors
     - [Industrial Cleaning Chemicals](https://pandatec.sg/products/chemicals/specialty-industrial-maintenance-chemicals/industrial-cleaning-chemicals/) – Alkaline cleaners & detergents, Degreasers, Acid descalers, CIP cleaners
     - [Surfactants & Additives](https://pandatec.sg/products/chemicals/specialty-industrial-maintenance-chemicals/surfactants-additives/): 1 product – Linear Alkylbenzene Sulphonic Acid (CAS 27176-87-0), Sodium Lauryl Ether Sulphate (CAS 68585-34-2), Fatty alcohol ethoxylates, Cationic & amphoteric surfactants
@@ -127,7 +127,7 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Superabsorbent Polymers](https://pandatec.sg/products/chemicals/superabsorbent-polymers/): 11 products – SAP grades for diapers, sanitary and incontinence products
   - [Aroma Chemicals](https://pandatec.sg/products/chemicals/aroma-chemicals/): 1 product – Citral, citronellal, menthol and aroma intermediates
   - [Battery Materials](https://pandatec.sg/products/chemicals/battery-materials/): 1 product – Cathode and anode materials and Li-ion cells
-  - [Cosmetic & Personal Care Raw Materials](https://pandatec.sg/products/chemicals/cosmetic-personal-care-ingredients/): 161 products – amino-acid surfactants, hyaluronic acid, emulsifiers, carbomer, preservatives, niacinamide, arbutin, peptides, botanical extracts, plant oils, squalane, silicones
+  - [Cosmetic & Personal Care Raw Materials](https://pandatec.sg/products/chemicals/cosmetic-personal-care-ingredients/): 162 products – amino-acid surfactants, hyaluronic acid, emulsifiers, carbomer, preservatives, niacinamide, arbutin, peptides, botanical extracts, plant oils, squalane, silicones
     - [Surfactants & Cleansing Agents](https://pandatec.sg/products/chemicals/cosmetic-personal-care-ingredients/surfactants-cleansing-agents/): 16 products – Sodium Lauroyl Sarcosinate (CAS 137-16-6), Sodium Lauroyl Glutamate (CAS 29923-31-7), Lauroyl Glutamic Acid (CAS 3397-65-7), Sodium Cocoyl Glutamate (CAS 68187-32-6)
     - [Humectants & Moisturizers](https://pandatec.sg/products/chemicals/cosmetic-personal-care-ingredients/humectants-moisturizers/): 21 products – Sodium Hyaluronate (CAS 9067-32-7), Medium Molecular Weight Sodium Hyaluronate (CAS 9067-32-7), Low Molecular Weight Sodium Hyaluronate (CAS 9067-32-7), Oligo Sodium Hyaluronate (CAS 9067-32-7)
     - [Emulsifiers, Thickeners & Rheology Modifiers](https://pandatec.sg/products/chemicals/cosmetic-personal-care-ingredients/thickeners-emulsifiers/): 33 products – Polysorbate 20 (CAS 9005-64-5), Polysorbate 80 (CAS 9005-65-6), Sorbitan Oleate (CAS 1338-43-8), Glycol Distearate (CAS 627-83-8)
@@ -249,7 +249,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Water Heaters](https://pandatec.sg/products/industrial-products/facility-appliances/water-heaters/): 5 products
     - [Dishwashers, Dehumidifiers & Other Appliances](https://pandatec.sg/products/industrial-products/facility-appliances/others/): 9 products
 - [Industrial Products & MRO Supplies in Singapore](https://pandatec.sg/products/industrial-products/)
-  - [Cleaning Maintenance](https://pandatec.sg/products/industrial-products/cleaning-maintenance/): 6 products
+  - [Cleaning Maintenance](https://pandatec.sg/products/industrial-products/cleaning-maintenance/): 11 products
     - [Floor Scrubbers & Industrial Vacuums](https://pandatec.sg/products/industrial-products/cleaning-maintenance/floor-scrubbers-vacuums/): 3 products
   - [Electrical Accessories](https://pandatec.sg/products/industrial-products/electrical-accessories/)
   - [Fasteners](https://pandatec.sg/products/industrial-products/fasteners/)
@@ -277,7 +277,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Stamping Dies](https://pandatec.sg/products/industrial-products/moulds-dies/stamping-dies/)
 - [Industrial Machinery & Automation Equipment in Singapore](https://pandatec.sg/products/machinery-automation/)
   - [Automation Robotics](https://pandatec.sg/products/machinery-automation/automation-robotics/)
-  - [Commercial Kitchen Equipment](https://pandatec.sg/products/machinery-automation/commercial-kitchen-equipment/): 39 products
+  - [Commercial Kitchen Equipment](https://pandatec.sg/products/machinery-automation/commercial-kitchen-equipment/): 40 products
   - [Custom Machinery](https://pandatec.sg/products/machinery-automation/custom-machinery/)
   - [Cutting Sawing Machines](https://pandatec.sg/products/machinery-automation/cutting-sawing-machines/): 4 products
   - [Drilling Machines](https://pandatec.sg/products/machinery-automation/drilling-machines/): 5 products
