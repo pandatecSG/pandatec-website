@@ -1,6 +1,6 @@
 # PANDA COLLECTIONS (PANDATEC PTE. LTD.)
 
-> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6883 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
+> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 7044 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
 
 - Address: 35 Tannery Road #05-06, Ruby Industrial Complex, Singapore 347740
 - Phone / WhatsApp: +65 8472 6456
@@ -124,7 +124,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Lubricant Additives](https://pandatec.sg/products/chemicals/specialty-industrial-maintenance-chemicals/lubricant-maintenance-additives/) – Anti-wear & EP additives, Antioxidants, Detergents & dispersants, Viscosity modifiers & pour point depressants
     - [Electronic & Semiconductor Chemicals](https://pandatec.sg/products/chemicals/specialty-industrial-maintenance-chemicals/electronic-semiconductor-chemicals/) – Electronic-grade IPA (CAS 67-63-0), Electronic-grade acetone (CAS 67-64-1), High-purity acids & etchants, Developers & strippers
   - [Polyurethane Raw Materials & Systems](https://pandatec.sg/products/chemicals/polyurethane-raw-materials-systems/): 14 products – MDI, polyols, CPU and PU application systems
-  - [Superabsorbent Polymers](https://pandatec.sg/products/chemicals/superabsorbent-polymers/): 11 products – SAP grades for diapers, sanitary and incontinence products
+  - [Superabsorbent Polymers](https://pandatec.sg/products/chemicals/superabsorbent-polymers/): 31 products – SAP grades for diapers, sanitary and incontinence products
   - [Aroma Chemicals](https://pandatec.sg/products/chemicals/aroma-chemicals/): 1 product – Citral, citronellal, menthol and aroma intermediates
   - [Battery Materials](https://pandatec.sg/products/chemicals/battery-materials/): 1 product – Cathode and anode materials and Li-ion cells
   - [Cosmetic & Personal Care Raw Materials](https://pandatec.sg/products/chemicals/cosmetic-personal-care-ingredients/): 162 products – amino-acid surfactants, hyaluronic acid, emulsifiers, carbomer, preservatives, niacinamide, arbutin, peptides, botanical extracts, plant oils, squalane, silicones
@@ -188,13 +188,13 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Loft Beds](https://pandatec.sg/products/furniture-workplace/dormitory-furniture/loft-beds/): 3 products
     - [Bunk & Single Beds](https://pandatec.sg/products/furniture-workplace/dormitory-furniture/bunk-single-beds/): 6 products
     - [Barracks Furniture](https://pandatec.sg/products/furniture-workplace/dormitory-furniture/barracks-furniture/): 6 products
-  - [Lighting](https://pandatec.sg/products/furniture-workplace/lighting/): 211 products – crystal chandeliers, crystal ceiling fixtures, pendant lights, art glass, wall sconces, table and floor lamps, LED downlights and spotlights, garden lighting
-    - [Crystal Chandeliers](https://pandatec.sg/products/furniture-workplace/lighting/crystal-chandeliers/): 85 products
-    - [Crystal Ceiling Lights](https://pandatec.sg/products/furniture-workplace/lighting/crystal-ceiling-lights/): 11 products
-    - [Pendant Lights](https://pandatec.sg/products/furniture-workplace/lighting/crystal-pendant-lights/): 11 products
-    - [Art Glass Installations](https://pandatec.sg/products/furniture-workplace/lighting/art-glass-installations/): 3 products
-    - [Wall Lamps & Sconces](https://pandatec.sg/products/furniture-workplace/lighting/wall-lamps-sconces/): 45 products
-    - [Table & Floor Lamps](https://pandatec.sg/products/furniture-workplace/lighting/table-floor-lamps/): 18 products
+  - [Lighting](https://pandatec.sg/products/furniture-workplace/lighting/): 287 products – crystal chandeliers, crystal ceiling fixtures, pendant lights, art glass, wall sconces, table and floor lamps, LED downlights and spotlights, garden lighting
+    - [Crystal Chandeliers](https://pandatec.sg/products/furniture-workplace/lighting/crystal-chandeliers/): 107 products
+    - [Crystal Ceiling Lights](https://pandatec.sg/products/furniture-workplace/lighting/crystal-ceiling-lights/): 17 products
+    - [Pendant Lights](https://pandatec.sg/products/furniture-workplace/lighting/crystal-pendant-lights/): 31 products
+    - [Art Glass Installations](https://pandatec.sg/products/furniture-workplace/lighting/art-glass-installations/): 4 products
+    - [Wall Lamps & Sconces](https://pandatec.sg/products/furniture-workplace/lighting/wall-lamps-sconces/): 48 products
+    - [Table & Floor Lamps](https://pandatec.sg/products/furniture-workplace/lighting/table-floor-lamps/): 42 products
     - [LED Downlights & Spotlights](https://pandatec.sg/products/furniture-workplace/lighting/led-downlights-spotlights/): 8 products
     - [Garden & Landscape Lighting](https://pandatec.sg/products/furniture-workplace/lighting/garden-landscape-lighting/): 30 products
   - [Sofas & Lounge Chairs](https://pandatec.sg/products/furniture-workplace/luxury-collection/): 529 products – leather and fabric sofas, lounge chairs, armchairs, coffee and side tables, Chinese tea tables and tea room furniture
@@ -294,30 +294,30 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Construction Equipment](https://pandatec.sg/products/machinery-automation/construction-agricultural-machinery/construction-equipment/): 6 products
     - [Power Tillers & Cultivators](https://pandatec.sg/products/machinery-automation/construction-agricultural-machinery/power-tillers/): 2 products
 - [Medical Furniture & Healthcare Equipment Supplier in Singapore](https://pandatec.sg/products/medical-healthcare/)
-  - [Aged Care & Nursing](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/): 88 products – nursing beds, lift recliners and transfer aids, aged-care furniture, bathroom safety, smart safety sensors, mobility aids, rehabilitation and recreation equipment
-    - [Lift Chairs & Transfer Aids](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/lift-chairs-transfer-aids/): 7 products
+  - [Aged Care & Nursing](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/): 122 products – nursing beds, lift recliners and transfer aids, aged-care furniture, bathroom safety, smart safety sensors, mobility aids, rehabilitation and recreation equipment
+    - [Lift Chairs & Transfer Aids](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/lift-chairs-transfer-aids/): 10 products
     - [Nursing Beds](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/nursing-beds/): 10 products
     - [Aged-Care Furniture](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/aged-care-furniture/): 20 products
-    - [Bedroom & Bathroom Safety](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/bedroom-bathroom-safety/): 17 products
+    - [Bedroom & Bathroom Safety](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/bedroom-bathroom-safety/): 29 products
     - [Daily Living & Smart Safety](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/daily-living-smart-safety/): 8 products
-    - [Mobility & Walking Aids](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/mobility-walking-aids/): 8 products
-    - [Rehabilitation & Care Aids](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/rehabilitation-care-aids/): 8 products
+    - [Mobility & Walking Aids](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/mobility-walking-aids/): 26 products
+    - [Rehabilitation & Care Aids](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/rehabilitation-care-aids/): 9 products
     - [Recreation & Cognitive Games](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/recreation-games/): 10 products
   - [Examination Treatment Tables](https://pandatec.sg/products/medical-healthcare/examination-treatment-tables/): 83 products
   - [Hospital Beds](https://pandatec.sg/products/medical-healthcare/hospital-beds/): 68 products
   - [Laboratory Furniture](https://pandatec.sg/products/medical-healthcare/laboratory-furniture/): 7 products
   - [Medical Cabinets](https://pandatec.sg/products/medical-healthcare/medical-cabinets/): 24 products
-  - [Medical Consumables](https://pandatec.sg/products/medical-healthcare/medical-consumables/): 73 products
+  - [Medical Consumables](https://pandatec.sg/products/medical-healthcare/medical-consumables/): 100 products
     - [Face Masks & Respirators](https://pandatec.sg/products/medical-healthcare/medical-consumables/face-masks-respirators/): 19 products
     - [Protective Apparel & PPE](https://pandatec.sg/products/medical-healthcare/medical-consumables/protective-apparel/): 19 products
-    - [Surgical Packs & Drapes](https://pandatec.sg/products/medical-healthcare/medical-consumables/surgical-packs-drapes/): 9 products
-    - [Dental & Wound Care](https://pandatec.sg/products/medical-healthcare/medical-consumables/dental-wound-care/): 8 products
+    - [Surgical Packs & Drapes](https://pandatec.sg/products/medical-healthcare/medical-consumables/surgical-packs-drapes/): 13 products
+    - [Dental & Wound Care](https://pandatec.sg/products/medical-healthcare/medical-consumables/dental-wound-care/): 31 products
     - [Hygiene & Disinfection](https://pandatec.sg/products/medical-healthcare/medical-consumables/hygiene-disinfection/): 8 products
   - [Medical Trolleys Carts](https://pandatec.sg/products/medical-healthcare/medical-trolleys-carts/): 96 products
   - [Stainless Steel Furniture](https://pandatec.sg/products/medical-healthcare/stainless-steel-furniture/): 52 products
   - [Stretchers](https://pandatec.sg/products/medical-healthcare/stretchers/): 25 products
   - [Waiting Chairs](https://pandatec.sg/products/medical-healthcare/waiting-chairs/): 14 products
-  - [Wheelchairs Stools](https://pandatec.sg/products/medical-healthcare/wheelchairs-stools/): 19 products
+  - [Wheelchairs Stools](https://pandatec.sg/products/medical-healthcare/wheelchairs-stools/): 23 products
 - [PPE & Safety Equipment Supplier in Singapore](https://pandatec.sg/products/ppe-safety/)
   - [Eye Face Protection](https://pandatec.sg/products/ppe-safety/eye-face-protection/): 4 products
   - [Fall Protection](https://pandatec.sg/products/ppe-safety/fall-protection/)
