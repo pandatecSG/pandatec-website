@@ -1,6 +1,6 @@
 # PANDA COLLECTIONS (PANDATEC PTE. LTD.)
 
-> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6844 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
+> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6883 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
 
 - Address: 35 Tannery Road #05-06, Ruby Industrial Complex, Singapore 347740
 - Phone / WhatsApp: +65 8472 6456
@@ -188,7 +188,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Loft Beds](https://pandatec.sg/products/furniture-workplace/dormitory-furniture/loft-beds/): 3 products
     - [Bunk & Single Beds](https://pandatec.sg/products/furniture-workplace/dormitory-furniture/bunk-single-beds/): 6 products
     - [Barracks Furniture](https://pandatec.sg/products/furniture-workplace/dormitory-furniture/barracks-furniture/): 6 products
-  - [Lighting](https://pandatec.sg/products/furniture-workplace/lighting/): 189 products – crystal chandeliers, crystal ceiling fixtures, pendant lights, art glass, wall sconces, table and floor lamps, LED downlights and spotlights, garden lighting
+  - [Lighting](https://pandatec.sg/products/furniture-workplace/lighting/): 211 products – crystal chandeliers, crystal ceiling fixtures, pendant lights, art glass, wall sconces, table and floor lamps, LED downlights and spotlights, garden lighting
     - [Crystal Chandeliers](https://pandatec.sg/products/furniture-workplace/lighting/crystal-chandeliers/): 85 products
     - [Crystal Ceiling Lights](https://pandatec.sg/products/furniture-workplace/lighting/crystal-ceiling-lights/): 11 products
     - [Pendant Lights](https://pandatec.sg/products/furniture-workplace/lighting/crystal-pendant-lights/): 11 products
@@ -196,7 +196,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Wall Lamps & Sconces](https://pandatec.sg/products/furniture-workplace/lighting/wall-lamps-sconces/): 45 products
     - [Table & Floor Lamps](https://pandatec.sg/products/furniture-workplace/lighting/table-floor-lamps/): 18 products
     - [LED Downlights & Spotlights](https://pandatec.sg/products/furniture-workplace/lighting/led-downlights-spotlights/): 8 products
-    - [Garden & Landscape Lighting](https://pandatec.sg/products/furniture-workplace/lighting/garden-landscape-lighting/): 8 products
+    - [Garden & Landscape Lighting](https://pandatec.sg/products/furniture-workplace/lighting/garden-landscape-lighting/): 30 products
   - [Sofas & Lounge Chairs](https://pandatec.sg/products/furniture-workplace/luxury-collection/): 529 products – leather and fabric sofas, lounge chairs, armchairs, coffee and side tables, Chinese tea tables and tea room furniture
     - [Sofas](https://pandatec.sg/products/furniture-workplace/luxury-collection/sofas/): 43 products
     - [Lounge Chairs](https://pandatec.sg/products/furniture-workplace/luxury-collection/lounge-chairs/): 38 products
