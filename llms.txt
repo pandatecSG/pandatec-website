@@ -1,6 +1,6 @@
 # PANDA COLLECTIONS (PANDATEC PTE. LTD.)
 
-> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6753 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
+> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 6844 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
 
 - Address: 35 Tannery Road #05-06, Ruby Industrial Complex, Singapore 347740
 - Phone / WhatsApp: +65 8472 6456
@@ -303,10 +303,10 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Mobility & Walking Aids](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/mobility-walking-aids/): 8 products
     - [Rehabilitation & Care Aids](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/rehabilitation-care-aids/): 8 products
     - [Recreation & Cognitive Games](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/recreation-games/): 10 products
-  - [Examination Treatment Tables](https://pandatec.sg/products/medical-healthcare/examination-treatment-tables/): 20 products
-  - [Hospital Beds](https://pandatec.sg/products/medical-healthcare/hospital-beds/): 51 products
+  - [Examination Treatment Tables](https://pandatec.sg/products/medical-healthcare/examination-treatment-tables/): 83 products
+  - [Hospital Beds](https://pandatec.sg/products/medical-healthcare/hospital-beds/): 68 products
   - [Laboratory Furniture](https://pandatec.sg/products/medical-healthcare/laboratory-furniture/): 7 products
-  - [Medical Cabinets](https://pandatec.sg/products/medical-healthcare/medical-cabinets/): 21 products
+  - [Medical Cabinets](https://pandatec.sg/products/medical-healthcare/medical-cabinets/): 24 products
   - [Medical Consumables](https://pandatec.sg/products/medical-healthcare/medical-consumables/): 73 products
     - [Face Masks & Respirators](https://pandatec.sg/products/medical-healthcare/medical-consumables/face-masks-respirators/): 19 products
     - [Protective Apparel & PPE](https://pandatec.sg/products/medical-healthcare/medical-consumables/protective-apparel/): 19 products
@@ -317,7 +317,7 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Stainless Steel Furniture](https://pandatec.sg/products/medical-healthcare/stainless-steel-furniture/): 52 products
   - [Stretchers](https://pandatec.sg/products/medical-healthcare/stretchers/): 25 products
   - [Waiting Chairs](https://pandatec.sg/products/medical-healthcare/waiting-chairs/): 14 products
-  - [Wheelchairs Stools](https://pandatec.sg/products/medical-healthcare/wheelchairs-stools/): 11 products
+  - [Wheelchairs Stools](https://pandatec.sg/products/medical-healthcare/wheelchairs-stools/): 19 products
 - [PPE & Safety Equipment Supplier in Singapore](https://pandatec.sg/products/ppe-safety/)
   - [Eye Face Protection](https://pandatec.sg/products/ppe-safety/eye-face-protection/): 4 products
   - [Fall Protection](https://pandatec.sg/products/ppe-safety/fall-protection/)
