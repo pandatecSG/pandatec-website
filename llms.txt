@@ -1,6 +1,6 @@
 # PANDA COLLECTIONS (PANDATEC PTE. LTD.)
 
-> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 7124 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
+> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 7219 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
 
 - Address: 35 Tannery Road #05-06, Ruby Industrial Complex, Singapore 347740
 - Phone / WhatsApp: +65 8472 6456
@@ -170,12 +170,12 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Interior Doors](https://pandatec.sg/products/furniture-workplace/custom-carpentry/interior-doors/): 15 products
     - [Wall Panels & Arc Profiles](https://pandatec.sg/products/furniture-workplace/custom-carpentry/wall-panels-arc-profiles/): 3 products
     - [Display & Storage Cabinets](https://pandatec.sg/products/furniture-workplace/custom-carpentry/display-storage-cabinets/): 6 products
-  - [Dining Furniture](https://pandatec.sg/products/furniture-workplace/dining-furniture/): 1015 products
+  - [Dining Furniture](https://pandatec.sg/products/furniture-workplace/dining-furniture/): 1042 products
     - [Banquette & Booth Seat](https://pandatec.sg/products/furniture-workplace/dining-furniture/banquette-booth-seat/): 104 products
-    - [Bar Stool](https://pandatec.sg/products/furniture-workplace/dining-furniture/bar-stool/): 36 products
+    - [Bar Stool](https://pandatec.sg/products/furniture-workplace/dining-furniture/bar-stool/): 37 products
     - [Dining Chair](https://pandatec.sg/products/furniture-workplace/dining-furniture/dining-chair/): 279 products
-    - [Dining Table](https://pandatec.sg/products/furniture-workplace/dining-furniture/dining-table/): 431 products
-    - [Plastic Chair](https://pandatec.sg/products/furniture-workplace/dining-furniture/plastic-chair/): 165 products
+    - [Dining Table](https://pandatec.sg/products/furniture-workplace/dining-furniture/dining-table/): 433 products
+    - [Plastic Chair](https://pandatec.sg/products/furniture-workplace/dining-furniture/plastic-chair/): 189 products
   - [Hotel Accommodation](https://pandatec.sg/products/furniture-workplace/hotel-accommodation/): 229 products
   - [Steel Cabinets & Lockers](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/): 88 products – steel lockers, wardrobes, electronic lockers, filing, instrument, security, tool and fire cabinets, shelving, library bookshelves
     - [Lockers & Wardrobes](https://pandatec.sg/products/furniture-workplace/steel-cabinets-lockers/lockers-wardrobes/): 17 products
@@ -230,7 +230,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Lounge Chair](https://pandatec.sg/products/furniture-workplace/reception-lounge/lounge-chair/): 51 products
     - [Modular Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/modular-sofa/): 3 products
     - [Sofa](https://pandatec.sg/products/furniture-workplace/reception-lounge/sofa/): 57 products
-  - [School Furniture](https://pandatec.sg/products/furniture-workplace/school-furniture/): 306 products
+  - [School Furniture](https://pandatec.sg/products/furniture-workplace/school-furniture/): 308 products
   - [System Furniture](https://pandatec.sg/products/furniture-workplace/system-furniture/): 191 products
   - [Desk Frames & Height-Adjustable Desks](https://pandatec.sg/products/furniture-workplace/desk-frames-height-adjustable/): 116 products – electric standing desk frames, lifting columns, height-adjustable desks, folding training tables, die-cast desk frames
     - [Electric Height-Adjustable Desks](https://pandatec.sg/products/furniture-workplace/desk-frames-height-adjustable/electric-height-adjustable-desks/): 55 products
@@ -257,7 +257,7 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Mro Consumables](https://pandatec.sg/products/industrial-products/mro-consumables/)
   - [Safety Storage Cabinets](https://pandatec.sg/products/industrial-products/safety-storage-cabinets/): 22 products
   - [Tools Hardware](https://pandatec.sg/products/industrial-products/tools-hardware/)
-  - [Workshop Equipment](https://pandatec.sg/products/industrial-products/workshop-equipment/): 19 products
+  - [Workshop Equipment](https://pandatec.sg/products/industrial-products/workshop-equipment/): 68 products
   - [Special Alloys](https://pandatec.sg/products/industrial-products/special-alloys/): 55 products – nickel alloys, superalloys, resistance heating alloys, precision alloys, heat-resistant steels, nickel welding wire
     - [Nickel & Corrosion-Resistant Alloys](https://pandatec.sg/products/industrial-products/special-alloys/nickel-corrosion-resistant-alloys/): 12 products
     - [Electric Heating Alloys](https://pandatec.sg/products/industrial-products/special-alloys/electric-heating-alloys/): 8 products
