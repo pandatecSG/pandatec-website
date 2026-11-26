@@ -1,6 +1,6 @@
 # PANDA COLLECTIONS (PANDATEC PTE. LTD.)
 
-> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 7044 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
+> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 7124 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
 
 - Address: 35 Tannery Road #05-06, Ruby Industrial Complex, Singapore 347740
 - Phone / WhatsApp: +65 8472 6456
@@ -30,6 +30,7 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Cables Electrical](https://pandatec.sg/products/building-infrastructure/cables-electrical/)
   - [Construction Hardware](https://pandatec.sg/products/building-infrastructure/construction-hardware/)
   - [Fencing Barriers](https://pandatec.sg/products/building-infrastructure/fencing-barriers/)
+  - [Barrier-Free & Accessibility](https://pandatec.sg/products/building-infrastructure/barrier-free-accessibility/): 22 products – grab bars, handrails, tactile paving
   - [Flooring](https://pandatec.sg/products/building-infrastructure/flooring/): 86 products
     - [Carpets & Rugs](https://pandatec.sg/products/building-infrastructure/flooring/carpets-rugs/): 83 products
   - [Metal Products](https://pandatec.sg/products/building-infrastructure/metal-products/)
@@ -294,18 +295,19 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Construction Equipment](https://pandatec.sg/products/machinery-automation/construction-agricultural-machinery/construction-equipment/): 6 products
     - [Power Tillers & Cultivators](https://pandatec.sg/products/machinery-automation/construction-agricultural-machinery/power-tillers/): 2 products
 - [Medical Furniture & Healthcare Equipment Supplier in Singapore](https://pandatec.sg/products/medical-healthcare/)
-  - [Aged Care & Nursing](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/): 122 products – nursing beds, lift recliners and transfer aids, aged-care furniture, bathroom safety, smart safety sensors, mobility aids, rehabilitation and recreation equipment
-    - [Lift Chairs & Transfer Aids](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/lift-chairs-transfer-aids/): 10 products
+  - [Aged Care & Nursing](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/): 141 products – nursing beds, lift recliners and transfer aids, aged-care furniture, bathroom safety, smart safety sensors, mobility aids, rehabilitation and recreation equipment
+    - [Lift Chairs & Transfer Aids](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/lift-chairs-transfer-aids/): 12 products
     - [Nursing Beds](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/nursing-beds/): 10 products
     - [Aged-Care Furniture](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/aged-care-furniture/): 20 products
-    - [Bedroom & Bathroom Safety](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/bedroom-bathroom-safety/): 29 products
+    - [Bedroom & Bathroom Safety](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/bedroom-bathroom-safety/): 43 products
     - [Daily Living & Smart Safety](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/daily-living-smart-safety/): 8 products
-    - [Mobility & Walking Aids](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/mobility-walking-aids/): 26 products
+    - [Mobility & Walking Aids](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/mobility-walking-aids/): 29 products
     - [Rehabilitation & Care Aids](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/rehabilitation-care-aids/): 9 products
     - [Recreation & Cognitive Games](https://pandatec.sg/products/medical-healthcare/aged-care-nursing/recreation-games/): 10 products
   - [Examination Treatment Tables](https://pandatec.sg/products/medical-healthcare/examination-treatment-tables/): 83 products
   - [Hospital Beds](https://pandatec.sg/products/medical-healthcare/hospital-beds/): 68 products
   - [Laboratory Furniture](https://pandatec.sg/products/medical-healthcare/laboratory-furniture/): 7 products
+  - [Medical Refrigerators & Freezers](https://pandatec.sg/products/medical-healthcare/medical-refrigerators-freezers/): 12 products – vaccine fridges, ult freezers, blood bank
   - [Medical Cabinets](https://pandatec.sg/products/medical-healthcare/medical-cabinets/): 24 products
   - [Medical Consumables](https://pandatec.sg/products/medical-healthcare/medical-consumables/): 100 products
     - [Face Masks & Respirators](https://pandatec.sg/products/medical-healthcare/medical-consumables/face-masks-respirators/): 19 products

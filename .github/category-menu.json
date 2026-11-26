@@ -192,6 +192,11 @@
         "slug": "metal-products",
         "label": "Metal Products",
         "children": []
+      },
+      {
+        "slug": "barrier-free-accessibility",
+        "label": "Barrier-Free & Accessibility",
+        "children": []
       }
     ]
   },
@@ -1253,6 +1258,11 @@
             "label": "Hygiene & Disinfection"
           }
         ]
+      },
+      {
+        "slug": "medical-refrigerators-freezers",
+        "label": "Medical Refrigerators & Freezers",
+        "children": []
       }
     ]
   },
