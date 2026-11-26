@@ -1,6 +1,6 @@
 # PANDA COLLECTIONS (PANDATEC PTE. LTD.)
 
-> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 7219 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
+> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 7283 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
 
 - Address: 35 Tannery Road #05-06, Ruby Industrial Complex, Singapore 347740
 - Phone / WhatsApp: +65 8472 6456
@@ -257,7 +257,7 @@ Every product page lists the product code (PT-…), category path, material, dim
   - [Mro Consumables](https://pandatec.sg/products/industrial-products/mro-consumables/)
   - [Safety Storage Cabinets](https://pandatec.sg/products/industrial-products/safety-storage-cabinets/): 22 products
   - [Tools Hardware](https://pandatec.sg/products/industrial-products/tools-hardware/)
-  - [Workshop Equipment](https://pandatec.sg/products/industrial-products/workshop-equipment/): 68 products
+  - [Workshop Equipment](https://pandatec.sg/products/industrial-products/workshop-equipment/): 89 products
   - [Special Alloys](https://pandatec.sg/products/industrial-products/special-alloys/): 55 products – nickel alloys, superalloys, resistance heating alloys, precision alloys, heat-resistant steels, nickel welding wire
     - [Nickel & Corrosion-Resistant Alloys](https://pandatec.sg/products/industrial-products/special-alloys/nickel-corrosion-resistant-alloys/): 12 products
     - [Electric Heating Alloys](https://pandatec.sg/products/industrial-products/special-alloys/electric-heating-alloys/): 8 products
