@@ -1,6 +1,6 @@
 # PANDA COLLECTIONS (PANDATEC PTE. LTD.)
 
-> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 7445 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
+> PANDA COLLECTIONS is the curated procurement service brand of PANDATEC PTE. LTD. (UEN 201541665H), a Singapore company established in 2015. It selects products and suppliers for business clients, checks product quality before shipment and arranges logistics and delivery, supplying 7514 catalogued products for offices, hotels, schools, hospitals, cleanrooms, warehouses, factories, chemical buyers, F&B businesses and corporate gifting in Singapore and worldwide. Prices are quoted on request.
 
 - Address: 35 Tannery Road #05-06, Ruby Industrial Complex, Singapore 347740
 - Phone / WhatsApp: +65 8472 6456
@@ -278,7 +278,7 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Stamping Dies](https://pandatec.sg/products/industrial-products/moulds-dies/stamping-dies/)
 - [Industrial Machinery & Automation Equipment in Singapore](https://pandatec.sg/products/machinery-automation/)
   - [Automation Robotics](https://pandatec.sg/products/machinery-automation/automation-robotics/)
-  - [Commercial Kitchen Equipment](https://pandatec.sg/products/machinery-automation/commercial-kitchen-equipment/): 40 products
+  - [Commercial Kitchen Equipment](https://pandatec.sg/products/machinery-automation/commercial-kitchen-equipment/): 109 products
   - [Custom Machinery](https://pandatec.sg/products/machinery-automation/custom-machinery/)
   - [Cutting Sawing Machines](https://pandatec.sg/products/machinery-automation/cutting-sawing-machines/): 26 products
   - [Drilling Machines](https://pandatec.sg/products/machinery-automation/drilling-machines/): 18 products
