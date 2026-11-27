@@ -55,6 +55,23 @@ def main() -> int:
             if p not in by_cat.setdefault(l1, []):
                 by_cat[l1].append(p)
 
+    # L1 pages marked "aggregate" in category-menu.json (e.g. Food & Beverage) also list every
+    # product shown on the categories they borrow through "path" (URLs of those pages unchanged).
+    cfg = json.loads((ROOT / ".github" / "category-menu.json").read_text(encoding="utf-8"))
+    by_slug = {p["slug"]: p for p in products if p.get("listed") is not False}
+    for l1, c1 in cfg.items():
+        if not c1.get("aggregate"):
+            continue
+        items = by_cat.setdefault(l1, [])
+        for c2 in c1["children"]:
+            if "path" not in c2:
+                continue
+            page = ROOT / "products" / c2["path"] / "index.html"
+            for slug in re.findall(r'<article class="range-card product-card">.*?href="/product/([^/"]+)/"', page.read_text(encoding="utf-8"), re.S):
+                p = by_slug.get(slug)
+                if p and p not in items:
+                    items.append(p)
+
     for cat, items in sorted(by_cat.items()):
         if cat in SKIP:
             continue

@@ -155,14 +155,16 @@ Every product page lists the product code (PT-…), category path, material, dim
     - [Grand Opening Flower Stand Singapore](https://pandatec.sg/products/corporate-gifts/florist/grand-opening-flower-stands/): 42 products
     - [Hand Bouquets Singapore](https://pandatec.sg/products/corporate-gifts/florist/hand-bouquets/): 156 products
     - [Preserved Flowers Singapore](https://pandatec.sg/products/corporate-gifts/florist/preserved-flowers/): 2 products
-- [Food Service Packaging Supplier in Singapore](https://pandatec.sg/products/food-service-packaging/): paper and plastic cups, lids, kraft bowls, takeaway, pizza and bakery boxes, greaseproof paper; custom printing
-  - [Cups, Lids & Cup Carriers](https://pandatec.sg/products/food-service-packaging/cups-lids-carriers/): 17 products
-  - [Paper Bowls & Food Buckets](https://pandatec.sg/products/food-service-packaging/paper-bowls-buckets/): 5 products
-  - [Takeaway Food Boxes](https://pandatec.sg/products/food-service-packaging/takeaway-food-boxes/): 14 products
-  - [Bakery & Dessert Boxes](https://pandatec.sg/products/food-service-packaging/bakery-dessert-boxes/): 5 products
-  - [Food Wraps & Paper Bags](https://pandatec.sg/products/food-service-packaging/food-wraps-bags/): 4 products
-  - [Drinking Straws & Cutlery](https://pandatec.sg/products/food-service-packaging/straws-cutlery/): 7 products
-  - [Labels, Stickers & Sealing](https://pandatec.sg/products/food-service-packaging/labels-stickers-sealing/): 8 products
+- [F&B Equipment & Supplies in Singapore](https://pandatec.sg/products/food-beverage/): commercial kitchen equipment and food service packaging for restaurants, cafés, hotels and F&B chains
+  - [Commercial Kitchen Equipment](https://pandatec.sg/products/machinery-automation/commercial-kitchen-equipment/): ranges, fryers, griddles, ovens, bakery and snack machines
+  - [Food Service Packaging Supplier in Singapore](https://pandatec.sg/products/food-service-packaging/): paper and plastic cups, lids, kraft bowls, takeaway, pizza and bakery boxes, greaseproof paper; custom printing
+    - [Cups, Lids & Cup Carriers](https://pandatec.sg/products/food-service-packaging/cups-lids-carriers/): 17 products
+    - [Paper Bowls & Food Buckets](https://pandatec.sg/products/food-service-packaging/paper-bowls-buckets/): 5 products
+    - [Takeaway Food Boxes](https://pandatec.sg/products/food-service-packaging/takeaway-food-boxes/): 14 products
+    - [Bakery & Dessert Boxes](https://pandatec.sg/products/food-service-packaging/bakery-dessert-boxes/): 5 products
+    - [Food Wraps & Paper Bags](https://pandatec.sg/products/food-service-packaging/food-wraps-bags/): 4 products
+    - [Drinking Straws & Cutlery](https://pandatec.sg/products/food-service-packaging/straws-cutlery/): 7 products
+    - [Labels, Stickers & Sealing](https://pandatec.sg/products/food-service-packaging/labels-stickers-sealing/): 8 products
 - [Office & Commercial Furniture Supplier in Singapore](https://pandatec.sg/products/furniture-workplace/)
   - [Acoustic Pods](https://pandatec.sg/products/furniture-workplace/acoustic-pods/): 8 products
   - [Custom Carpentry](https://pandatec.sg/products/furniture-workplace/custom-carpentry/): 43 products – powder-coated wardrobe and cabinet doors, interior and concealed doors, arc wall panels, display cabinets

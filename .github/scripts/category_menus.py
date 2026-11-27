@@ -8,6 +8,8 @@ index.html must show
 Menu order and labels live in .github/category-menu.json.
 An L2 entry may set "path": "<L1 folder>/<L2 folder>" to list a category under another
 L1 while keeping its existing URL (e.g. Electrical Appliances shown under Furniture).
+"path" may also be a whole old L1 folder (e.g. "food-service-packaging" listed as an L2 of
+Food & Beverage); its own sub-folders then become L3 entries and its URLs stay unchanged.
   python .github/scripts/category_menus.py build   # add new folders to the config and rewrite menus
   python .github/scripts/category_menus.py check   # fail if any category page is missing or has an outdated menu
 """
@@ -44,6 +46,8 @@ def sync(cfg):
     added = []
     moved = {c2['path'] for c1 in cfg.values() for c2 in c1['children'] if 'path' in c2}
     for l1 in subdirs(PRODUCTS):
+        if l1 in moved:  # an old L1 folder now listed as an L2 of another L1 (URL kept)
+            continue
         c1 = cfg.setdefault(l1, {'label': h1_label(os.path.join(PRODUCTS, l1)), 'children': []})
         known = {c['slug'] for c in c1['children']}
         for l2 in subdirs(os.path.join(PRODUCTS, l1)):
