@@ -20,7 +20,7 @@ on:
       - llms.txt
   workflow_dispatch:
 permissions:
-  contents: write
+  contents: read
   pages: write
 concurrency:
   group: build-catalogue
@@ -41,14 +41,17 @@ jobs:
         run: python .github/scripts/build_search_index.py
       - name: Refresh old Google URLs (copies of their new pages, canonical to new page)
         run: python .github/scripts/legacy_pages.py build
-      - name: Commit changes and rebuild GitHub Pages
+      - name: Report (never commits) and rebuild GitHub Pages
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if [ -z "$(git status --porcelain)" ]; then echo "Catalogue, site figures and search index already up to date"; exit 0; fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "Auto: rebuild All products catalogue, site figures and search index"
-          git push
-          gh api -X POST "repos/${{ github.repository }}/pages/builds"
+          # This job NEVER commits or pushes. All generated files are built locally
+          # before every commit, so the remote branch only ever receives the user's own
+          # commits and GitHub Desktop never shows "Newer commits on remote".
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "::warning::Generated files differ from the commit. Run the 6 local builds (incl. legacy_pages.py build) and commit again."
+            git status --porcelain | head -50
+          else
+            echo "Catalogue, site figures, search index and legacy pages are up to date"
+          fi
+          gh api -X POST "repos/${{ github.repository }}/pages/builds" || true
